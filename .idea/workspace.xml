@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22e38194-911a-47c2-8590-88bd33add8c9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b4-app/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b4-app/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b4-app/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b4-app/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b4-app/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b4-app/src/app.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b4-app/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b4-app/.gitingore" beforeDir="false" afterPath="$PROJECT_DIR$/b4-app/.gitingore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b4-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/b4-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b4-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/b4-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esclu/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/esclu/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-data/databases/lib/parse-rdf.js" beforeDir="false" afterPath="$PROJECT_DIR$/source-data/databases/lib/parse-rdf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-data/databases/rdf-to-bulks.js" beforeDir="false" afterPath="$PROJECT_DIR$/source-data/databases/rdf-to-bulks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-data/databases/test/parse-rdf-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/source-data/databases/test/parse-rdf-test.js" afterDir="false" />
-    </list>
+    <list default="true" id="22e38194-911a-47c2-8590-88bd33add8c9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -30,6 +14,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitingore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitingore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/esclu/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b4-app/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="248">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -135,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/b4-app/.gitingore" />
         <option value="$PROJECT_DIR$/source-data/databases/test/parse-rdf.js" />
         <option value="$PROJECT_DIR$/source-data/databases/package.json" />
         <option value="$PROJECT_DIR$/source-data/databases/lib/parse-rdf.js" />
@@ -149,6 +141,8 @@
         <option value="$PROJECT_DIR$/b4-app/.babelrc" />
         <option value="$PROJECT_DIR$/b4-app/package.json" />
         <option value="$PROJECT_DIR$/b4-app/webpack.config.js" />
+        <option value="$PROJECT_DIR$/b4-app/.gitingore" />
+        <option value="$PROJECT_DIR$/.gitingore" />
       </list>
     </option>
   </component>
@@ -187,11 +181,6 @@
               <item name="node-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-practice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="node-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="b4-app" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -222,6 +211,7 @@
       <recent name="$PROJECT_DIR$/source-data/databases/test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/b4-app" />
       <recent name="$PROJECT_DIR$/source-data/databases/test" />
       <recent name="$PROJECT_DIR$/source-data/databases/lib" />
@@ -260,17 +250,17 @@
       <workItem from="1548296912004" duration="367000" />
       <workItem from="1548381685232" duration="317000" />
       <workItem from="1548562410287" duration="2381000" />
-      <workItem from="1548570021988" duration="15373000" />
+      <workItem from="1548570021988" duration="15652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18438000" />
+    <option name="totallyTimeSpent" value="18717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -278,7 +268,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28969696" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28969696" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -302,7 +292,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/b4-app/.gitingore">
+    <entry file="file://$PROJECT_DIR$/.gitingore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
@@ -319,24 +309,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b4-app/.gitingore">
+    <entry file="file://$PROJECT_DIR$/.gitingore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b4-app/.gitingore">
+    <entry file="file://$PROJECT_DIR$/.gitingore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/b4-app/.gitingore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -478,8 +461,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b4-app/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="248">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitingore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
