@@ -1,9 +1,16 @@
 const pkg = require('./package');
 const program = require('commander');
 const request = require('request');
+const fs = require('fs');
 
 const fullUrl = (path='') => {
     let url = `http://${program.host}:${program.port}/`;
+    if(program.index) {
+        url += program.index + '/';
+        if(program.type) {
+            url += program.type + '/'
+        }
+    }
     return url + path.replace(/^\/*/, '');
 };
 
@@ -65,6 +72,37 @@ program
     .action(() => {
         const path = program.json ? '_all' : '_cat/indices?v';
         request({url: fullUrl(path), json: program.json}, handleResponse);
+    });
+
+// 将文件批量导入数据库
+program
+    .command('bulk <file>')
+    .description('批量导入es数据库')
+    .action(file => {
+        fs.stat(file, (err, stats) => {
+            if(err) {
+                if(program.json) {
+                    console.log(JSON.stringify(err))
+                    return
+                }
+                throw err
+            }
+
+            const options = {
+                url: fullUrl('_bulk'),
+                json: true,
+                headers: {
+                    'content-length': stats.size,
+                    'content-type': 'application/json'
+                }
+            };
+
+            const req = request.post(options);
+
+            const stream = fs.createReadStream(file);
+            stream.pipe(req);
+            req.pipe(process.stdout);
+        })
     });
 
 // 序列化命令行参数，判断输入返回默认输出

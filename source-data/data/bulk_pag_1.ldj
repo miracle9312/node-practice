@@ -1,0 +1,3052 @@
+{ id: 100,
+  title: 'The Complete Works of William Shakespeare',
+  authors: [ 'Shakespeare, William' ],
+  subjects: [ 'English drama -- Early modern and Elizabethan, 1500-1600' ] }
+{"index":{"_id":"pg100"}}
+{"id":100,"title":"The Complete Works of William Shakespeare","authors":["Shakespeare, William"],"subjects":["English drama -- Early modern and Elizabethan, 1500-1600"]}
+{ id: 1000,
+  title: 'La Divina Commedia di Dante: Complete',
+  authors: [ 'Dante Alighieri' ],
+  subjects: [ 'Epic poetry, Italian', 'Italian poetry -- To 1400' ] }
+{"index":{"_id":"pg1000"}}
+{"id":1000,"title":"La Divina Commedia di Dante: Complete","authors":["Dante Alighieri"],"subjects":["Epic poetry, Italian","Italian poetry -- To 1400"]}
+{ id: 10000,
+  title: 'The Magna Carta',
+  authors: [ 'Anonymous' ],
+  subjects: 
+   [ 'Constitutional history -- England -- Sources',
+     'Magna Carta' ] }
+{"index":{"_id":"pg10000"}}
+{"id":10000,"title":"The Magna Carta","authors":["Anonymous"],"subjects":["Constitutional history -- England -- Sources","Magna Carta"]}
+{ id: 10001,
+  title: 'Apocolocyntosis',
+  authors: 
+   [ 'Rouse, W. H. D. (William Henry Denham)',
+     'Seneca, Lucius Annaeus' ],
+  subjects: [ 'Claudius, Emperor of Rome, 10 B.C.-54 A.D. -- Humor' ] }
+{"index":{"_id":"pg10001"}}
+{"id":10001,"title":"Apocolocyntosis","authors":["Rouse, W. H. D. (William Henry Denham)","Seneca, Lucius Annaeus"],"subjects":["Claudius, Emperor of Rome, 10 B.C.-54 A.D. -- Humor"]}
+{ id: 10002,
+  title: 'The House on the Borderland',
+  authors: [ 'Hodgson, William Hope' ],
+  subjects: [ 'Science fiction' ] }
+{"index":{"_id":"pg10002"}}
+{"id":10002,"title":"The House on the Borderland","authors":["Hodgson, William Hope"],"subjects":["Science fiction"]}
+{ id: 10003,
+  title: 'My First Years as a Frenchwoman, 1876-1879',
+  authors: [ 'Waddington, Mary King' ],
+  subjects: 
+   [ 'France -- History -- Third Republic, 1870-1940',
+     'France -- Social life and customs' ] }
+{"index":{"_id":"pg10003"}}
+{"id":10003,"title":"My First Years as a Frenchwoman, 1876-1879","authors":["Waddington, Mary King"],"subjects":["France -- History -- Third Republic, 1870-1940","France -- Social life and customs"]}
+{ id: 10004,
+  title: 'The Warriors',
+  authors: [ 'Lindsay, Anna Robertson Brown' ],
+  subjects: [ 'Christianity' ] }
+{"index":{"_id":"pg10004"}}
+{"id":10004,"title":"The Warriors","authors":["Lindsay, Anna Robertson Brown"],"subjects":["Christianity"]}
+{ id: 10005,
+  title: 'A Voyage to the Moon\rWith Some Account of the Manners and Customs, Science and Philosophy, of the People of Morosofia, and Other Lunarians',
+  authors: [ 'Tucker, George' ],
+  subjects: [ 'Science fiction', 'Space flight to the moon -- Fiction' ] }
+{"index":{"_id":"pg10005"}}
+{"id":10005,"title":"A Voyage to the Moon\rWith Some Account of the Manners and Customs, Science and Philosophy, of the People of Morosofia, and Other Lunarians","authors":["Tucker, George"],"subjects":["Science fiction","Space flight to the moon -- Fiction"]}
+{ id: 10006,
+  title: 'La Fiammetta',
+  authors: [ 'Brogan, James C.', 'Boccaccio, Giovanni' ],
+  subjects: [ 'Fiction' ] }
+{"index":{"_id":"pg10006"}}
+{"id":10006,"title":"La Fiammetta","authors":["Brogan, James C.","Boccaccio, Giovanni"],"subjects":["Fiction"]}
+{ id: 10007,
+  title: 'Carmilla',
+  authors: [ 'Le Fanu, Joseph Sheridan' ],
+  subjects: [ 'Young women -- Fiction', 'Vampires -- Fiction' ] }
+{"index":{"_id":"pg10007"}}
+{"id":10007,"title":"Carmilla","authors":["Le Fanu, Joseph Sheridan"],"subjects":["Young women -- Fiction","Vampires -- Fiction"]}
+{ id: 10008,
+  title: 'The Mystery',
+  authors: [ 'White, Stewart Edward', 'Adams, Samuel Hopkins' ],
+  subjects: [ 'Science fiction' ] }
+{"index":{"_id":"pg10008"}}
+{"id":10008,"title":"The Mystery","authors":["White, Stewart Edward","Adams, Samuel Hopkins"],"subjects":["Science fiction"]}
+{ id: 10009,
+  title: 'Wild Northern Scenes\rOr, Sporting Adventures with the Rifle and the Rod',
+  authors: [ 'Hammond, S. H. (Samuel H.)' ],
+  subjects: [ 'Fishing -- New York (State)', 'Hunting -- New York (State)' ] }
+{"index":{"_id":"pg10009"}}
+{"id":10009,"title":"Wild Northern Scenes\rOr, Sporting Adventures with the Rifle and the Rod","authors":["Hammond, S. H. (Samuel H.)"],"subjects":["Fishing -- New York (State)","Hunting -- New York (State)"]}
+{ id: 1001,
+  title: 'Divine Comedy, Longfellow\'s Translation, Hell',
+  authors: [ 'Dante Alighieri', 'Longfellow, Henry Wadsworth' ],
+  subjects: 
+   [ 'Italian poetry -- To 1400 -- Translations into English',
+     'Hell -- Poetry',
+     'Epic poetry, Italian -- Translations into English' ] }
+{"index":{"_id":"pg1001"}}
+{"id":1001,"title":"Divine Comedy, Longfellow's Translation, Hell","authors":["Dante Alighieri","Longfellow, Henry Wadsworth"],"subjects":["Italian poetry -- To 1400 -- Translations into English","Hell -- Poetry","Epic poetry, Italian -- Translations into English"]}
+{ id: 10010,
+  title: 'The Eulogies of Howard: A Vision',
+  authors: [ 'Hayley, William' ],
+  subjects: [ 'Howard, John, 1726-1790' ] }
+{"index":{"_id":"pg10010"}}
+{"id":10010,"title":"The Eulogies of Howard: A Vision","authors":["Hayley, William"],"subjects":["Howard, John, 1726-1790"]}
+{ id: 10011,
+  title: '365 Foreign Dishes\rA Foreign Dish for Every Day in the Year',
+  authors: [ 'Unknown' ],
+  subjects: [ 'Cooking' ] }
+{"index":{"_id":"pg10011"}}
+{"id":10011,"title":"365 Foreign Dishes\rA Foreign Dish for Every Day in the Year","authors":["Unknown"],"subjects":["Cooking"]}
+{ id: 10012,
+  title: 'The Mountains of California',
+  authors: [ 'Muir, John' ],
+  subjects: 
+   [ 'Natural history -- Sierra Nevada (Calif. and Nev.)',
+     'California -- Description and travel',
+     'Sierra Nevada (Calif. and Nev.)',
+     'Natural history -- California',
+     'Mountain ecology -- Sierra Nevada (Calif. and Nev.)',
+     'Muir, John, 1838-1914 -- Travel -- Sierra Nevada (Calif. and Nev.)',
+     'Mountain ecology -- California',
+     'Naturalists -- United States -- Biography' ] }
+{"index":{"_id":"pg10012"}}
+{"id":10012,"title":"The Mountains of California","authors":["Muir, John"],"subjects":["Natural history -- Sierra Nevada (Calif. and Nev.)","California -- Description and travel","Sierra Nevada (Calif. and Nev.)","Natural history -- California","Mountain ecology -- Sierra Nevada (Calif. and Nev.)","Muir, John, 1838-1914 -- Travel -- Sierra Nevada (Calif. and Nev.)","Mountain ecology -- California","Naturalists -- United States -- Biography"]}
+{ id: 10013,
+  title: 'Punchinello, Volume 1, No. 09, May 28, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10013"}}
+{"id":10013,"title":"Punchinello, Volume 1, No. 09, May 28, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10014,
+  title: 'Punchinello, Volume 1, No. 18, July 30, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10014"}}
+{"id":10014,"title":"Punchinello, Volume 1, No. 18, July 30, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10015,
+  title: 'Punchinello, Volume 1, No. 19, August 6, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10015"}}
+{"id":10015,"title":"Punchinello, Volume 1, No. 19, August 6, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10016,
+  title: 'Punchinello, Volume 1, No. 21, August 20, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10016"}}
+{"id":10016,"title":"Punchinello, Volume 1, No. 21, August 20, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10017,
+  title: 'Punchinello, Volume 1, No. 23,  September 3, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10017"}}
+{"id":10017,"title":"Punchinello, Volume 1, No. 23,  September 3, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10018,
+  title: 'Punchinello, Volume 1, No. 05,  April 30, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10018"}}
+{"id":10018,"title":"Punchinello, Volume 1, No. 05,  April 30, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10019,
+  title: 'Punchinello, Volume 1, No. 22, August 27, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10019"}}
+{"id":10019,"title":"Punchinello, Volume 1, No. 22, August 27, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 1002,
+  title: 'Divine Comedy, Longfellow\'s Translation, Purgatory',
+  authors: [ 'Longfellow, Henry Wadsworth', 'Dante Alighieri' ],
+  subjects: 
+   [ 'Italian poetry -- To 1400 -- Translations into English',
+     'Epic poetry, Italian -- Translations into English' ] }
+{"index":{"_id":"pg1002"}}
+{"id":1002,"title":"Divine Comedy, Longfellow's Translation, Purgatory","authors":["Longfellow, Henry Wadsworth","Dante Alighieri"],"subjects":["Italian poetry -- To 1400 -- Translations into English","Epic poetry, Italian -- Translations into English"]}
+{ id: 10020,
+  title: 'The Strand Magazine: Vol. 07, Issue 37, January, 1894.\rAn Illustrated Monthly',
+  authors: [ 'Newnes, George', 'Various' ],
+  subjects: 
+   [ 'Short stories, English -- Periodicals',
+     'English literature -- Periodicals' ] }
+{"index":{"_id":"pg10020"}}
+{"id":10020,"title":"The Strand Magazine: Vol. 07, Issue 37, January, 1894.\rAn Illustrated Monthly","authors":["Newnes, George","Various"],"subjects":["Short stories, English -- Periodicals","English literature -- Periodicals"]}
+{ id: 10021,
+  title: 'Tenterhooks',
+  authors: [ 'Leverson, Ada' ],
+  subjects: 
+   [ 'Man-woman relationships -- Fiction',
+     'London (England) -- Fiction' ] }
+{"index":{"_id":"pg10021"}}
+{"id":10021,"title":"Tenterhooks","authors":["Leverson, Ada"],"subjects":["Man-woman relationships -- Fiction","London (England) -- Fiction"]}
+{ id: 10022,
+  title: 'White Queen of the Cannibals: the Story of Mary Slessor of Calabar',
+  authors: [ 'Bueltmann, A. J.' ],
+  subjects: 
+   [ 'Missionaries -- Nigeria -- Biography',
+     'Slessor, Mary Mitchell, 1848-1915',
+     'Missions -- Nigeria' ] }
+{"index":{"_id":"pg10022"}}
+{"id":10022,"title":"White Queen of the Cannibals: the Story of Mary Slessor of Calabar","authors":["Bueltmann, A. J."],"subjects":["Missionaries -- Nigeria -- Biography","Slessor, Mary Mitchell, 1848-1915","Missions -- Nigeria"]}
+{ id: 10023,
+  title: 'There\'s Pippins and Cheese to Come',
+  authors: [ 'Brooks, Charles S. (Charles Stephen)' ],
+  subjects: [ 'Essays' ] }
+{"index":{"_id":"pg10023"}}
+{"id":10023,"title":"There's Pippins and Cheese to Come","authors":["Brooks, Charles S. (Charles Stephen)"],"subjects":["Essays"]}
+{ id: 10024,
+  title: 'Beneath the Banner: Being Narratives of Noble Lives and Brave Deeds',
+  authors: [ 'Cross, F. J. (Frederick J.)' ],
+  subjects: [ 'Biography -- Juvenile literature' ] }
+{"index":{"_id":"pg10024"}}
+{"id":10024,"title":"Beneath the Banner: Being Narratives of Noble Lives and Brave Deeds","authors":["Cross, F. J. (Frederick J.)"],"subjects":["Biography -- Juvenile literature"]}
+{ id: 10025,
+  title: 'Gaslight Sonatas',
+  authors: [ 'Hurst, Fannie' ],
+  subjects: 
+   [ 'City and town life -- Fiction',
+     'Poor -- Fiction',
+     'Immigrants -- Fiction',
+     'Short stories, American',
+     'Slums -- Fiction' ] }
+{"index":{"_id":"pg10025"}}
+{"id":10025,"title":"Gaslight Sonatas","authors":["Hurst, Fannie"],"subjects":["City and town life -- Fiction","Poor -- Fiction","Immigrants -- Fiction","Short stories, American","Slums -- Fiction"]}
+{ id: 10026,
+  title: 'The Mirror of Literature, Amusement, and Instruction\rVolume 10, No. 268, August 11, 1827',
+  authors: [ 'Various' ],
+  subjects: [ 'Popular literature -- Great Britain -- Periodicals' ] }
+{"index":{"_id":"pg10026"}}
+{"id":10026,"title":"The Mirror of Literature, Amusement, and Instruction\rVolume 10, No. 268, August 11, 1827","authors":["Various"],"subjects":["Popular literature -- Great Britain -- Periodicals"]}
+{ id: 10027,
+  title: 'The Triple Alliance, Its Trials and Triumphs',
+  authors: [ 'Avery, Harold' ],
+  subjects: [ 'Schools -- Juvenile fiction' ] }
+{"index":{"_id":"pg10027"}}
+{"id":10027,"title":"The Triple Alliance, Its Trials and Triumphs","authors":["Avery, Harold"],"subjects":["Schools -- Juvenile fiction"]}
+{ id: 10028,
+  title: 'Spalding\'s Official Baseball Guide - 1913',
+  authors: [ 'Foster, John B. (John Buckingham)' ],
+  subjects: [ 'Baseball' ] }
+{"index":{"_id":"pg10028"}}
+{"id":10028,"title":"Spalding's Official Baseball Guide - 1913","authors":["Foster, John B. (John Buckingham)"],"subjects":["Baseball"]}
+{ id: 10029,
+  title: 'The Hunt Ball Mystery',
+  authors: [ 'Magnay, William, Sir' ],
+  subjects: [ 'Detective and mystery stories' ] }
+{"index":{"_id":"pg10029"}}
+{"id":10029,"title":"The Hunt Ball Mystery","authors":["Magnay, William, Sir"],"subjects":["Detective and mystery stories"]}
+{ id: 1003,
+  title: 'Divine Comedy, Longfellow\'s Translation, Paradise',
+  authors: [ 'Longfellow, Henry Wadsworth', 'Dante Alighieri' ],
+  subjects: 
+   [ 'Epic poetry, Italian -- Translations into English',
+     'Italian poetry -- To 1400 -- Translations into English' ] }
+{"index":{"_id":"pg1003"}}
+{"id":1003,"title":"Divine Comedy, Longfellow's Translation, Paradise","authors":["Longfellow, Henry Wadsworth","Dante Alighieri"],"subjects":["Epic poetry, Italian -- Translations into English","Italian poetry -- To 1400 -- Translations into English"]}
+{ id: 10030,
+  title: 'The Life of Hon. William F. Cody, Known as Buffalo Bill, the Famous Hunter, Scout and Guide\rAn Autobiography',
+  authors: [ 'Buffalo Bill' ],
+  subjects: 
+   [ 'Pioneers -- West (U.S.) -- Biography',
+     'Buffalo Bill, 1846-1917',
+     'Frontier and pioneer life -- West (U.S.)',
+     'Scouts (Reconnaissance) -- West (U.S.) -- Biography' ] }
+{"index":{"_id":"pg10030"}}
+{"id":10030,"title":"The Life of Hon. William F. Cody, Known as Buffalo Bill, the Famous Hunter, Scout and Guide\rAn Autobiography","authors":["Buffalo Bill"],"subjects":["Pioneers -- West (U.S.) -- Biography","Buffalo Bill, 1846-1917","Frontier and pioneer life -- West (U.S.)","Scouts (Reconnaissance) -- West (U.S.) -- Biography"]}
+{ id: 10031,
+  title: 'The Complete Poetical Works of Edgar Allan Poe\rIncluding Essays on Poetry',
+  authors: [ 'Poe, Edgar Allan', 'Ingram, John Henry' ],
+  subjects: [ 'Fantasy poetry, American' ] }
+{"index":{"_id":"pg10031"}}
+{"id":10031,"title":"The Complete Poetical Works of Edgar Allan Poe\rIncluding Essays on Poetry","authors":["Poe, Edgar Allan","Ingram, John Henry"],"subjects":["Fantasy poetry, American"]}
+{ id: 10032,
+  title: 'Punchinello, Volume 1, No. 24, September 10, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10032"}}
+{"id":10032,"title":"Punchinello, Volume 1, No. 24, September 10, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10033,
+  title: 'Punchinello, Volume 1, No. 25, September 17, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10033"}}
+{"id":10033,"title":"Punchinello, Volume 1, No. 25, September 17, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10034,
+  title: 'Punchinello, Volume 1, No. 26, September 24, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10034"}}
+{"id":10034,"title":"Punchinello, Volume 1, No. 26, September 24, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10035,
+  title: 'Punchinello, Volume 2, No. 27, October 1, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10035"}}
+{"id":10035,"title":"Punchinello, Volume 2, No. 27, October 1, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10036,
+  title: 'Punchinello, Volume 2, No. 28, October 8, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10036"}}
+{"id":10036,"title":"Punchinello, Volume 2, No. 28, October 8, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10037,
+  title: 'A Beautiful Possibility',
+  authors: [ 'Black, Edith Ferguson' ],
+  subjects: [ 'Orphans -- Fiction', 'Christian life -- Fiction' ] }
+{"index":{"_id":"pg10037"}}
+{"id":10037,"title":"A Beautiful Possibility","authors":["Black, Edith Ferguson"],"subjects":["Orphans -- Fiction","Christian life -- Fiction"]}
+{ id: 10038,
+  title: 'The Magnetic North',
+  authors: [ 'Robins, Elizabeth' ],
+  subjects: [ 'Yukon -- Fiction' ] }
+{"index":{"_id":"pg10038"}}
+{"id":10038,"title":"The Magnetic North","authors":["Robins, Elizabeth"],"subjects":["Yukon -- Fiction"]}
+{ id: 10039,
+  title: 'The Works of Aphra Behn, Volume III',
+  authors: [ 'Summers, Montague', 'Behn, Aphra' ],
+  subjects: [ 'English drama -- 17th century' ] }
+{"index":{"_id":"pg10039"}}
+{"id":10039,"title":"The Works of Aphra Behn, Volume III","authors":["Summers, Montague","Behn, Aphra"],"subjects":["English drama -- 17th century"]}
+{ id: 1004,
+  title: 'Divine Comedy, Longfellow\'s Translation, Complete',
+  authors: [ 'Longfellow, Henry Wadsworth', 'Dante Alighieri' ],
+  subjects: 
+   [ 'Epic poetry, Italian -- Translations into English',
+     'Italian poetry -- To 1400 -- Translations into English' ] }
+{"index":{"_id":"pg1004"}}
+{"id":1004,"title":"Divine Comedy, Longfellow's Translation, Complete","authors":["Longfellow, Henry Wadsworth","Dante Alighieri"],"subjects":["Epic poetry, Italian -- Translations into English","Italian poetry -- To 1400 -- Translations into English"]}
+{ id: 10040,
+  title: 'Aleutian Indian and English Dictionary\rCommon Words in the Dialects of the Aleutian Indian Language as Spoken by the Oogashik, Egashik, Anangashuk and Misremie Tribes Around Sulima River and Neighboring Parts of the Alaska Peninsula',
+  authors: [ 'Lee, Charles A.' ],
+  subjects: 
+   [ 'English language -- Dictionaries -- Aleut',
+     'Aleut language -- Dictionaries -- English' ] }
+{"index":{"_id":"pg10040"}}
+{"id":10040,"title":"Aleutian Indian and English Dictionary\rCommon Words in the Dialects of the Aleutian Indian Language as Spoken by the Oogashik, Egashik, Anangashuk and Misremie Tribes Around Sulima River and Neighboring Parts of the Alaska Peninsula","authors":["Lee, Charles A."],"subjects":["English language -- Dictionaries -- Aleut","Aleut language -- Dictionaries -- English"]}
+{ id: 10041,
+  title: 'The Rivet in Grandfather\'s Neck: A Comedy of Limitations',
+  authors: [ 'Cabell, James Branch' ],
+  subjects: [ 'Southern States -- Social life and customs -- Fiction' ] }
+{"index":{"_id":"pg10041"}}
+{"id":10041,"title":"The Rivet in Grandfather's Neck: A Comedy of Limitations","authors":["Cabell, James Branch"],"subjects":["Southern States -- Social life and customs -- Fiction"]}
+{ id: 10042,
+  title: 'The Child under Eight',
+  authors: [ 'Smith, Henrietta Brown', 'Murray, E. R. (Elsie Riach)' ],
+  subjects: [ 'Education' ] }
+{"index":{"_id":"pg10042"}}
+{"id":10042,"title":"The Child under Eight","authors":["Smith, Henrietta Brown","Murray, E. R. (Elsie Riach)"],"subjects":["Education"]}
+{ id: 10043,
+  title: 'Klondyke NuggetsA Brief Description of the Great Gold Regions in the Northwest',
+  authors: [ 'Ladue, Joseph' ],
+  subjects: 
+   [ 'Klondike River Valley (Yukon) -- Gold discoveries',
+     'Alaska -- Gold discoveries' ] }
+{"index":{"_id":"pg10043"}}
+{"id":10043,"title":"Klondyke NuggetsA Brief Description of the Great Gold Regions in the Northwest","authors":["Ladue, Joseph"],"subjects":["Klondike River Valley (Yukon) -- Gold discoveries","Alaska -- Gold discoveries"]}
+{ id: 10044,
+  title: 'The Father of British Canada: a Chronicle of Carleton',
+  authors: [ 'Wood, William Charles Henry' ],
+  subjects: 
+   [ 'Dorchester, Guy Carleton, Baron, 1724-1808',
+     'Canada -- History -- 1775-1783',
+     'Canada -- History -- 1763-1867' ] }
+{"index":{"_id":"pg10044"}}
+{"id":10044,"title":"The Father of British Canada: a Chronicle of Carleton","authors":["Wood, William Charles Henry"],"subjects":["Dorchester, Guy Carleton, Baron, 1724-1808","Canada -- History -- 1775-1783","Canada -- History -- 1763-1867"]}
+{ id: 10045,
+  title: 'Dave Darrin\'s Second Year at AnnapolisOr, Two Midshipmen as Naval Academy "Youngsters"',
+  authors: [ 'Hancock, H. Irving (Harrie Irving)' ],
+  subjects: [ 'United States Naval Academy -- Juvenile fiction' ] }
+{"index":{"_id":"pg10045"}}
+{"id":10045,"title":"Dave Darrin's Second Year at AnnapolisOr, Two Midshipmen as Naval Academy \"Youngsters\"","authors":["Hancock, H. Irving (Harrie Irving)"],"subjects":["United States Naval Academy -- Juvenile fiction"]}
+{ id: 10046,
+  title: 'Salute to Adventurers',
+  authors: [ 'Buchan, John' ],
+  subjects: 
+   [ 'Scottish Americans -- Virginia -- Fiction',
+     'Historical fiction',
+     'Glasgow (Scotland) -- Fiction',
+     'Jamestown (Va.) -- Fiction',
+     'Virginia -- History -- Colonial period, ca. 1600-1775 -- Fiction' ] }
+{"index":{"_id":"pg10046"}}
+{"id":10046,"title":"Salute to Adventurers","authors":["Buchan, John"],"subjects":["Scottish Americans -- Virginia -- Fiction","Historical fiction","Glasgow (Scotland) -- Fiction","Jamestown (Va.) -- Fiction","Virginia -- History -- Colonial period, ca. 1600-1775 -- Fiction"]}
+{ id: 10047,
+  title: 'Punchinello, Volume 2, No. 29, October 15, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10047"}}
+{"id":10047,"title":"Punchinello, Volume 2, No. 29, October 15, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10048,
+  title: 'Billie Bradley and Her Inheritance; Or, The Queer Homestead at Cherry Corners',
+  authors: [ 'Wheeler, Janet D.' ],
+  subjects: 
+   [ 'Inheritance and succession -- Juvenile fiction',
+     'Girls -- Juvenile fiction' ] }
+{"index":{"_id":"pg10048"}}
+{"id":10048,"title":"Billie Bradley and Her Inheritance; Or, The Queer Homestead at Cherry Corners","authors":["Wheeler, Janet D."],"subjects":["Inheritance and succession -- Juvenile fiction","Girls -- Juvenile fiction"]}
+{ id: 10049,
+  title: 'Old Lady Mary: A Story of the Seen and the Unseen',
+  authors: [ 'Oliphant, Mrs. (Margaret)' ],
+  subjects: [ 'Death -- Fiction', 'Inheritance and succession -- Fiction' ] }
+{"index":{"_id":"pg10049"}}
+{"id":10049,"title":"Old Lady Mary: A Story of the Seen and the Unseen","authors":["Oliphant, Mrs. (Margaret)"],"subjects":["Death -- Fiction","Inheritance and succession -- Fiction"]}
+{ id: 1005,
+  title: 'Divine Comedy, Cary\'s Translation, Hell',
+  authors: [ 'Cary, Henry Francis', 'Dante Alighieri' ],
+  subjects: 
+   [ 'Hell -- Poetry',
+     'Epic poetry, Italian -- Translations into English',
+     'Italian poetry -- To 1400 -- Translations into English' ] }
+{"index":{"_id":"pg1005"}}
+{"id":1005,"title":"Divine Comedy, Cary's Translation, Hell","authors":["Cary, Henry Francis","Dante Alighieri"],"subjects":["Hell -- Poetry","Epic poetry, Italian -- Translations into English","Italian poetry -- To 1400 -- Translations into English"]}
+{ id: 10050,
+  title: 'A Little Pilgrim: Stories of the Seen and the Unseen',
+  authors: [ 'Oliphant, Mrs. (Margaret)' ],
+  subjects: [ 'Death -- Fiction' ] }
+{"index":{"_id":"pg10050"}}
+{"id":10050,"title":"A Little Pilgrim: Stories of the Seen and the Unseen","authors":["Oliphant, Mrs. (Margaret)"],"subjects":["Death -- Fiction"]}
+{ id: 10051,
+  title: 'The Little Pilgrim: Further Experiences.Stories of the Seen and the Unseen.',
+  authors: [ 'Oliphant, Mrs. (Margaret)' ],
+  subjects: [ 'Death -- Fiction' ] }
+{"index":{"_id":"pg10051"}}
+{"id":10051,"title":"The Little Pilgrim: Further Experiences.Stories of the Seen and the Unseen.","authors":["Oliphant, Mrs. (Margaret)"],"subjects":["Death -- Fiction"]}
+{ id: 10052,
+  title: 'The Open Door, and the Portrait.Stories of the Seen and the Unseen.',
+  authors: [ 'Oliphant, Mrs. (Margaret)' ],
+  subjects: [ 'Manners and customs -- Fiction' ] }
+{"index":{"_id":"pg10052"}}
+{"id":10052,"title":"The Open Door, and the Portrait.Stories of the Seen and the Unseen.","authors":["Oliphant, Mrs. (Margaret)"],"subjects":["Manners and customs -- Fiction"]}
+{ id: 10053,
+  title: 'La vampire',
+  authors: [ 'Féval, Paul' ],
+  subjects: [ 'Vampires -- Fiction' ] }
+{"index":{"_id":"pg10053"}}
+{"id":10053,"title":"La vampire","authors":["Féval, Paul"],"subjects":["Vampires -- Fiction"]}
+{ id: 10054,
+  title: 'Nova analysis aquarum Medeviensium',
+  authors: [ 'Ekeberg, Anders Gustaf', 'Berzelius, Jöns Jakob, friherre' ],
+  subjects: [ 'Mineral waters -- Sweden' ] }
+{"index":{"_id":"pg10054"}}
+{"id":10054,"title":"Nova analysis aquarum Medeviensium","authors":["Ekeberg, Anders Gustaf","Berzelius, Jöns Jakob, friherre"],"subjects":["Mineral waters -- Sweden"]}
+{ id: 10055,
+  title: 'Hamburgische Dramaturgie',
+  authors: [ 'Lessing, Gotthold Ephraim' ],
+  subjects: [ 'Drama -- Technique', 'Aristotle, 384 BC-322 BC. Poetics' ] }
+{"index":{"_id":"pg10055"}}
+{"id":10055,"title":"Hamburgische Dramaturgie","authors":["Lessing, Gotthold Ephraim"],"subjects":["Drama -- Technique","Aristotle, 384 BC-322 BC. Poetics"]}
+{ id: 10056,
+  title: 'Chinese LiteratureComprising the Analects of Confucius, the Sayings of Mencius, the Shi-King, the Travels of Fâ-Hien, and the Sorrows of Han',
+  authors: 
+   [ 'Davis, John Francis, Sir',
+     'Mencius',
+     'Confucius',
+     'Wilson, Epiphanius',
+     'Jennings, William',
+     'Legge, James',
+     'Faxian' ],
+  subjects: 
+   [ 'Chinese literature',
+     'China -- Literary collections',
+     'Chinese literature -- Translations into English' ] }
+{"index":{"_id":"pg10056"}}
+{"id":10056,"title":"Chinese LiteratureComprising the Analects of Confucius, the Sayings of Mencius, the Shi-King, the Travels of Fâ-Hien, and the Sorrows of Han","authors":["Davis, John Francis, Sir","Mencius","Confucius","Wilson, Epiphanius","Jennings, William","Legge, James","Faxian"],"subjects":["Chinese literature","China -- Literary collections","Chinese literature -- Translations into English"]}
+{ id: 10057,
+  title: 'The Secret of the Tower',
+  authors: [ 'Hope, Anthony' ],
+  subjects: 
+   [ 'Women physicians -- Fiction',
+     'England -- Social life and customs -- 20th century -- Fiction',
+     'World War, 1914-1918 -- Veterans -- Fiction',
+     'Mystery fiction' ] }
+{"index":{"_id":"pg10057"}}
+{"id":10057,"title":"The Secret of the Tower","authors":["Hope, Anthony"],"subjects":["Women physicians -- Fiction","England -- Social life and customs -- 20th century -- Fiction","World War, 1914-1918 -- Veterans -- Fiction","Mystery fiction"]}
+{ id: 10058,
+  title: 'The Divine Office\rA Study of the Roman Breviary',
+  authors: [ 'Quigley, Edward J.' ],
+  subjects: [ 'Catholic Church. Breviary', 'Divine office' ] }
+{"index":{"_id":"pg10058"}}
+{"id":10058,"title":"The Divine Office\rA Study of the Roman Breviary","authors":["Quigley, Edward J."],"subjects":["Catholic Church. Breviary","Divine office"]}
+{ id: 10059,
+  title: 'Aunt Jane\'s Nieces on Vacation',
+  authors: [ 'Baum, L. Frank (Lyman Frank)' ],
+  subjects: 
+   [ 'Uncles -- Juvenile fiction',
+     'Young women -- Social life and customs -- Juvenile fiction',
+     'Newspaper publishing -- Juvenile fiction',
+     'Women authors -- Juvenile fiction',
+     'Mystery and detective stories',
+     'Farm life -- Juvenile fiction',
+     'Family -- Juvenile fiction',
+     'Cousins -- Juvenile fiction' ] }
+{"index":{"_id":"pg10059"}}
+{"id":10059,"title":"Aunt Jane's Nieces on Vacation","authors":["Baum, L. Frank (Lyman Frank)"],"subjects":["Uncles -- Juvenile fiction","Young women -- Social life and customs -- Juvenile fiction","Newspaper publishing -- Juvenile fiction","Women authors -- Juvenile fiction","Mystery and detective stories","Farm life -- Juvenile fiction","Family -- Juvenile fiction","Cousins -- Juvenile fiction"]}
+{ id: 1006,
+  title: 'Divine Comedy, Cary\'s Translation, Purgatory',
+  authors: [ 'Cary, Henry Francis', 'Dante Alighieri' ],
+  subjects: 
+   [ 'Italian poetry -- To 1400 -- Translations into English',
+     'Epic poetry, Italian -- Translations into English' ] }
+{"index":{"_id":"pg1006"}}
+{"id":1006,"title":"Divine Comedy, Cary's Translation, Purgatory","authors":["Cary, Henry Francis","Dante Alighieri"],"subjects":["Italian poetry -- To 1400 -- Translations into English","Epic poetry, Italian -- Translations into English"]}
+{ id: 10060,
+  title: 'Discourses: Biological & Geological\rEssays',
+  authors: [ 'Huxley, Thomas Henry' ],
+  subjects: [ 'Biology', 'Geology' ] }
+{"index":{"_id":"pg10060"}}
+{"id":10060,"title":"Discourses: Biological & Geological\rEssays","authors":["Huxley, Thomas Henry"],"subjects":["Biology","Geology"]}
+{ id: 10061,
+  title: 'Les Heures Claires',
+  authors: [ 'Verhaeren, Emile' ],
+  subjects: [ 'Belgian poetry (French)' ] }
+{"index":{"_id":"pg10061"}}
+{"id":10061,"title":"Les Heures Claires","authors":["Verhaeren, Emile"],"subjects":["Belgian poetry (French)"]}
+{ id: 10062,
+  title: 'The Iron GameA Tale of the War',
+  authors: [ 'Keenan, Henry F. (Henry Francis)' ],
+  subjects: 
+   [ 'United States -- History -- Civil War, 1861-1865 -- Fiction' ] }
+{"index":{"_id":"pg10062"}}
+{"id":10062,"title":"The Iron GameA Tale of the War","authors":["Keenan, Henry F. (Henry Francis)"],"subjects":["United States -- History -- Civil War, 1861-1865 -- Fiction"]}
+{ id: 10063,
+  title: 'Happiness and Marriage',
+  authors: [ 'Towne, Elizabeth' ],
+  subjects: [ 'Marriage' ] }
+{"index":{"_id":"pg10063"}}
+{"id":10063,"title":"Happiness and Marriage","authors":["Towne, Elizabeth"],"subjects":["Marriage"]}
+{ id: 10064,
+  title: 'Beltane the Smith',
+  authors: [ 'Farnol, Jeffery' ],
+  subjects: [ 'Blacksmiths -- Fiction' ] }
+{"index":{"_id":"pg10064"}}
+{"id":10064,"title":"Beltane the Smith","authors":["Farnol, Jeffery"],"subjects":["Blacksmiths -- Fiction"]}
+{ id: 10065,
+  title: 'The Constitution of the United StatesA Brief Study of the Genesis, Formulation and Political Philosophy of the Constitution',
+  authors: [ 'Beck, James M. (James Montgomery)' ],
+  subjects: 
+   [ 'United States. Constitution',
+     'Constitutional law -- United States' ] }
+{"index":{"_id":"pg10065"}}
+{"id":10065,"title":"The Constitution of the United StatesA Brief Study of the Genesis, Formulation and Political Philosophy of the Constitution","authors":["Beck, James M. (James Montgomery)"],"subjects":["United States. Constitution","Constitutional law -- United States"]}
+{ id: 10066,
+  title: 'Gunman\'s Reckoning',
+  authors: [ 'Brand, Max' ],
+  subjects: 
+   [ 'Frontier and pioneer life -- West (U.S.) -- Fiction',
+     'Outlaws -- Fiction',
+     'Man-woman relationships -- Fiction',
+     'Western stories' ] }
+{"index":{"_id":"pg10066"}}
+{"id":10066,"title":"Gunman's Reckoning","authors":["Brand, Max"],"subjects":["Frontier and pioneer life -- West (U.S.) -- Fiction","Outlaws -- Fiction","Man-woman relationships -- Fiction","Western stories"]}
+{ id: 10067,
+  title: 'The Mystery of the Boule Cabinet: A Detective Story',
+  authors: [ 'Stevenson, Burton Egbert' ],
+  subjects: [ 'Fiction', 'Detective and mystery stories' ] }
+{"index":{"_id":"pg10067"}}
+{"id":10067,"title":"The Mystery of the Boule Cabinet: A Detective Story","authors":["Stevenson, Burton Egbert"],"subjects":["Fiction","Detective and mystery stories"]}
+{ id: 10068,
+  title: 'The Power and the Glory',
+  authors: [ 'Cooke, Grace MacGowan', 'Keller, Arthur Ignatius' ],
+  subjects: 
+   [ 'Mills and mill-work -- Fiction',
+     'Social classes -- Fiction',
+     'Appalachian Region -- Fiction',
+     'Working class women -- Fiction',
+     'Women -- Appalachian Region -- Fiction',
+     'Psychological fiction',
+     'Domestic fiction',
+     'Social problems -- Fiction' ] }
+{"index":{"_id":"pg10068"}}
+{"id":10068,"title":"The Power and the Glory","authors":["Cooke, Grace MacGowan","Keller, Arthur Ignatius"],"subjects":["Mills and mill-work -- Fiction","Social classes -- Fiction","Appalachian Region -- Fiction","Working class women -- Fiction","Women -- Appalachian Region -- Fiction","Psychological fiction","Domestic fiction","Social problems -- Fiction"]}
+{ id: 10069,
+  title: 'Account of the Romansh LanguageIn a Letter to Sir John Pringle, Bart. P. R. S.',
+  authors: [ 'Planta, Joseph' ],
+  subjects: [ 'Raeto-Romance language -- Early works to 1800' ] }
+{"index":{"_id":"pg10069"}}
+{"id":10069,"title":"Account of the Romansh LanguageIn a Letter to Sir John Pringle, Bart. P. R. S.","authors":["Planta, Joseph"],"subjects":["Raeto-Romance language -- Early works to 1800"]}
+{ id: 1007,
+  title: 'Divine Comedy, Cary\'s Translation, Paradise',
+  authors: [ 'Dante Alighieri', 'Cary, Henry Francis' ],
+  subjects: 
+   [ 'Epic poetry, Italian -- Translations into English',
+     'Italian poetry -- To 1400 -- Translations into English' ] }
+{"index":{"_id":"pg1007"}}
+{"id":1007,"title":"Divine Comedy, Cary's Translation, Paradise","authors":["Dante Alighieri","Cary, Henry Francis"],"subjects":["Epic poetry, Italian -- Translations into English","Italian poetry -- To 1400 -- Translations into English"]}
+{ id: 10070,
+  title: 'Stories of Great Americans for Little Americans',
+  authors: [ 'Eggleston, Edward' ],
+  subjects: [ 'United States -- Biography -- Juvenile literature' ] }
+{"index":{"_id":"pg10070"}}
+{"id":10070,"title":"Stories of Great Americans for Little Americans","authors":["Eggleston, Edward"],"subjects":["United States -- Biography -- Juvenile literature"]}
+{ id: 10071,
+  title: 'By-Ways of Bombay',
+  authors: [ 'Edwardes, S. M. (Stephen Meredyth)' ],
+  subjects: [ 'Bombay (India) -- Social life and customs' ] }
+{"index":{"_id":"pg10071"}}
+{"id":10071,"title":"By-Ways of Bombay","authors":["Edwardes, S. M. (Stephen Meredyth)"],"subjects":["Bombay (India) -- Social life and customs"]}
+{ id: 10072,
+  title: 'English Housewifery\rExemplified in above Four Hundred and Fifty Receipts Giving Directions for most Parts of Cookery',
+  authors: [ 'Moxon, Elizabeth' ],
+  subjects: 
+   [ 'Cooking, English -- Early works to 1800',
+     'Menus -- Early works to 1800' ] }
+{"index":{"_id":"pg10072"}}
+{"id":10072,"title":"English Housewifery\rExemplified in above Four Hundred and Fifty Receipts Giving Directions for most Parts of Cookery","authors":["Moxon, Elizabeth"],"subjects":["Cooking, English -- Early works to 1800","Menus -- Early works to 1800"]}
+{ id: 10073,
+  title: 'The Century Vocabulary Builder',
+  authors: [ 'Bachelor, Joseph M. (Joseph Morris)', 'Greever, Garland' ],
+  subjects: [ 'Vocabulary' ] }
+{"index":{"_id":"pg10073"}}
+{"id":10073,"title":"The Century Vocabulary Builder","authors":["Bachelor, Joseph M. (Joseph Morris)","Greever, Garland"],"subjects":["Vocabulary"]}
+{ id: 10074,
+  title: 'The Mirror of Literature, Amusement, and Instruction\rVolume 10, No. 269, August 18, 1827',
+  authors: [ 'Various' ],
+  subjects: [ 'Popular literature -- Great Britain -- Periodicals' ] }
+{"index":{"_id":"pg10074"}}
+{"id":10074,"title":"The Mirror of Literature, Amusement, and Instruction\rVolume 10, No. 269, August 18, 1827","authors":["Various"],"subjects":["Popular literature -- Great Britain -- Periodicals"]}
+{ id: 10075,
+  title: 'A Narrative of the Life and Adventures of Venture, a Native of Africa, but Resident above Sixty Years in the United States of America, Related by Himself',
+  authors: [ 'Smith, Venture' ],
+  subjects: [ 'Slavery -- Connecticut' ] }
+{"index":{"_id":"pg10075"}}
+{"id":10075,"title":"A Narrative of the Life and Adventures of Venture, a Native of Africa, but Resident above Sixty Years in the United States of America, Related by Himself","authors":["Smith, Venture"],"subjects":["Slavery -- Connecticut"]}
+{ id: 10076,
+  title: 'Lister\'s Great Adventure',
+  authors: [ 'Bindloss, Harold' ],
+  subjects: 
+   [ 'Africa -- Fiction',
+     'Salvage -- Fiction',
+     'Shipwrecks -- Fiction',
+     'Love stories' ] }
+{"index":{"_id":"pg10076"}}
+{"id":10076,"title":"Lister's Great Adventure","authors":["Bindloss, Harold"],"subjects":["Africa -- Fiction","Salvage -- Fiction","Shipwrecks -- Fiction","Love stories"]}
+{ id: 10077,
+  title: 'The Atlantic Monthly, Volume 10, No. 60, October, 1862\rA Magazine of Literature, Art, and Politics',
+  authors: [ 'Various' ],
+  subjects: [ 'American periodicals' ] }
+{"index":{"_id":"pg10077"}}
+{"id":10077,"title":"The Atlantic Monthly, Volume 10, No. 60, October, 1862\rA Magazine of Literature, Art, and Politics","authors":["Various"],"subjects":["American periodicals"]}
+{ id: 10078,
+  title: 'Plain Words from America: A Letter to a German Professor (1917)',
+  authors: [ 'Johnson, Douglas Wilson' ],
+  subjects: [ 'World War, 1914-1918 -- Public opinion' ] }
+{"index":{"_id":"pg10078"}}
+{"id":10078,"title":"Plain Words from America: A Letter to a German Professor (1917)","authors":["Johnson, Douglas Wilson"],"subjects":["World War, 1914-1918 -- Public opinion"]}
+{ id: 10079,
+  title: 'The Atlantic Monthly, Volume 02, No. 09, July, 1858\rA Magazine of Literature, Art, and Politics',
+  authors: [ 'Various' ],
+  subjects: [ 'American periodicals' ] }
+{"index":{"_id":"pg10079"}}
+{"id":10079,"title":"The Atlantic Monthly, Volume 02, No. 09, July, 1858\rA Magazine of Literature, Art, and Politics","authors":["Various"],"subjects":["American periodicals"]}
+{ id: 1008,
+  title: 'Divine Comedy, Cary\'s Translation, Complete',
+  authors: [ 'Cary, Henry Francis', 'Dante Alighieri' ],
+  subjects: 
+   [ 'Epic poetry, Italian -- Translations into English',
+     'Italian poetry -- To 1400 -- Translations into English' ] }
+{"index":{"_id":"pg1008"}}
+{"id":1008,"title":"Divine Comedy, Cary's Translation, Complete","authors":["Cary, Henry Francis","Dante Alighieri"],"subjects":["Epic poetry, Italian -- Translations into English","Italian poetry -- To 1400 -- Translations into English"]}
+{ id: 10080,
+  title: 'Mobilizing Woman-Power',
+  authors: [ 'Blatch, Harriot Stanton' ],
+  subjects: [ 'World War, 1914-1918 -- Women' ] }
+{"index":{"_id":"pg10080"}}
+{"id":10080,"title":"Mobilizing Woman-Power","authors":["Blatch, Harriot Stanton"],"subjects":["World War, 1914-1918 -- Women"]}
+{ id: 10081,
+  title: 'The Boy Allies at Jutland; Or, The Greatest Naval Battle of History',
+  authors: [ 'Hayes, Clair W. (Clair Wallace)' ],
+  subjects: 
+   [ 'World War, 1914-1918 -- Naval operations -- Juvenile fiction',
+     'Jutland, Battle of, 1916 -- Juvenile fiction' ] }
+{"index":{"_id":"pg10081"}}
+{"id":10081,"title":"The Boy Allies at Jutland; Or, The Greatest Naval Battle of History","authors":["Hayes, Clair W. (Clair Wallace)"],"subjects":["World War, 1914-1918 -- Naval operations -- Juvenile fiction","Jutland, Battle of, 1916 -- Juvenile fiction"]}
+{ id: 10082,
+  title: 'The Hampstead Mystery',
+  authors: 
+   [ 'Rees, Arthur J. (Arthur John)',
+     'Watson, John R. (John Reay)' ],
+  subjects: [ 'England -- Fiction', 'Detective and mystery stories' ] }
+{"index":{"_id":"pg10082"}}
+{"id":10082,"title":"The Hampstead Mystery","authors":["Rees, Arthur J. (Arthur John)","Watson, John R. (John Reay)"],"subjects":["England -- Fiction","Detective and mystery stories"]}
+{ id: 10083,
+  title: 'The House of the Whispering Pines',
+  authors: [ 'Green, Anna Katharine' ],
+  subjects: [ 'Detective and mystery stories' ] }
+{"index":{"_id":"pg10083"}}
+{"id":10083,"title":"The House of the Whispering Pines","authors":["Green, Anna Katharine"],"subjects":["Detective and mystery stories"]}
+{ id: 10084,
+  title: 'Kazan',
+  authors: 
+   [ 'Hoffman, Frank B.',
+     'Hoskins, Gayle Porter',
+     'Curwood, James Oliver' ],
+  subjects: [ 'Dogs -- Fiction', 'Wolfdogs -- Fiction' ] }
+{"index":{"_id":"pg10084"}}
+{"id":10084,"title":"Kazan","authors":["Hoffman, Frank B.","Hoskins, Gayle Porter","Curwood, James Oliver"],"subjects":["Dogs -- Fiction","Wolfdogs -- Fiction"]}
+{ id: 10085,
+  title: 'Moorish Literature\rComprising Romantic Ballads, Tales of the Berbers, Stories of the Kabyles, Folk-Lore, and National Traditions',
+  authors: [ 'Basset, René' ],
+  subjects: [ 'Spanish literature -- Translations into English' ] }
+{"index":{"_id":"pg10085"}}
+{"id":10085,"title":"Moorish Literature\rComprising Romantic Ballads, Tales of the Berbers, Stories of the Kabyles, Folk-Lore, and National Traditions","authors":["Basset, René"],"subjects":["Spanish literature -- Translations into English"]}
+{ id: 10086,
+  title: 'The Minute Boys of the Mohawk Valley',
+  authors: [ 'Otis, James' ],
+  subjects: 
+   [ 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction' ] }
+{"index":{"_id":"pg10086"}}
+{"id":10086,"title":"The Minute Boys of the Mohawk Valley","authors":["Otis, James"],"subjects":["United States -- History -- Revolution, 1775-1783 -- Juvenile fiction"]}
+{ id: 10087,
+  title: 'Old Lady Number 31',
+  authors: [ 'Forsslund, Louise' ],
+  subjects: 
+   [ 'Older people -- Fiction',
+     'Poor -- Fiction',
+     'Long Island (N.Y.) -- Fiction' ] }
+{"index":{"_id":"pg10087"}}
+{"id":10087,"title":"Old Lady Number 31","authors":["Forsslund, Louise"],"subjects":["Older people -- Fiction","Poor -- Fiction","Long Island (N.Y.) -- Fiction"]}
+{ id: 10088,
+  title: 'Thaumaturgia; Or, Elucidations of the Marvellous',
+  authors: [ 'Oxonian' ],
+  subjects: [ 'Occultism' ] }
+{"index":{"_id":"pg10088"}}
+{"id":10088,"title":"Thaumaturgia; Or, Elucidations of the Marvellous","authors":["Oxonian"],"subjects":["Occultism"]}
+{ id: 10089,
+  title: 'Elves and Heroes',
+  authors: [ 'Mackenzie, Donald A. (Donald Alexander)' ],
+  subjects: 
+   [ 'Fairy poetry',
+     'Scottish poetry',
+     'Ossian, active 3rd century' ] }
+{"index":{"_id":"pg10089"}}
+{"id":10089,"title":"Elves and Heroes","authors":["Mackenzie, Donald A. (Donald Alexander)"],"subjects":["Fairy poetry","Scottish poetry","Ossian, active 3rd century"]}
+{ id: 1009,
+  title: 'La Divina Commedia di Dante: Inferno',
+  authors: [ 'Dante Alighieri' ],
+  subjects: 
+   [ 'Epic poetry, Italian',
+     'Italian poetry -- To 1400',
+     'Hell -- Poetry' ] }
+{"index":{"_id":"pg1009"}}
+{"id":1009,"title":"La Divina Commedia di Dante: Inferno","authors":["Dante Alighieri"],"subjects":["Epic poetry, Italian","Italian poetry -- To 1400","Hell -- Poetry"]}
+{ id: 10090,
+  title: 'Peaceless Europe',
+  authors: [ 'Nitti, Francesco Saverio' ],
+  subjects: 
+   [ 'World War, 1914-1918 -- Treaties',
+     'World War, 1914-1918 -- Reparations' ] }
+{"index":{"_id":"pg10090"}}
+{"id":10090,"title":"Peaceless Europe","authors":["Nitti, Francesco Saverio"],"subjects":["World War, 1914-1918 -- Treaties","World War, 1914-1918 -- Reparations"]}
+{ id: 10091,
+  title: 'Punchinello, Volume 2, No. 31, October 29, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10091"}}
+{"id":10091,"title":"Punchinello, Volume 2, No. 31, October 29, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10092,
+  title: 'Punchinello, Volume 2, No. 30, October 22, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10092"}}
+{"id":10092,"title":"Punchinello, Volume 2, No. 30, October 22, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10093,
+  title: 'Gutta-Percha Willie\rThe Working Genius',
+  authors: [ 'MacDonald, George' ],
+  subjects: 
+   [ 'Water -- Juvenile fiction',
+     'Reading -- Juvenile fiction',
+     'Gifted persons -- Juvenile fiction',
+     'Physicians -- Juvenile fiction' ] }
+{"index":{"_id":"pg10093"}}
+{"id":10093,"title":"Gutta-Percha Willie\rThe Working Genius","authors":["MacDonald, George"],"subjects":["Water -- Juvenile fiction","Reading -- Juvenile fiction","Gifted persons -- Juvenile fiction","Physicians -- Juvenile fiction"]}
+{ id: 10094,
+  title: 'A Soldier of Virginia: A Tale of Colonel Washington and Braddock\'s Defeat',
+  authors: [ 'Stevenson, Burton Egbert' ],
+  subjects: 
+   [ 'Virginia -- History -- Colonial period, ca. 1600-1775 -- Fiction',
+     'Biographical fiction',
+     'Soldiers -- Fiction',
+     'Braddock\'s Campaign, 1755 -- Fiction',
+     'Washington, George, 1732-1799 -- Fiction',
+     'Historical fiction' ] }
+{"index":{"_id":"pg10094"}}
+{"id":10094,"title":"A Soldier of Virginia: A Tale of Colonel Washington and Braddock's Defeat","authors":["Stevenson, Burton Egbert"],"subjects":["Virginia -- History -- Colonial period, ca. 1600-1775 -- Fiction","Biographical fiction","Soldiers -- Fiction","Braddock's Campaign, 1755 -- Fiction","Washington, George, 1732-1799 -- Fiction","Historical fiction"]}
+{ id: 10095,
+  title: 'The Twilight of the Gods, and Other Tales',
+  authors: [ 'Garnett, Richard' ],
+  subjects: 
+   [ 'Short stories, English',
+     'Mythology -- Fiction',
+     'Satire',
+     'Legends -- Fiction' ] }
+{"index":{"_id":"pg10095"}}
+{"id":10095,"title":"The Twilight of the Gods, and Other Tales","authors":["Garnett, Richard"],"subjects":["Short stories, English","Mythology -- Fiction","Satire","Legends -- Fiction"]}
+{ id: 10096,
+  title: 'The Trojan women of Euripides',
+  authors: [ 'Euripides', 'Murray, Gilbert' ],
+  subjects: 
+   [ 'Cassandra (Legendary character) -- Drama',
+     'Andromache (Legendary character) -- Drama',
+     'Helen, of Troy, Queen of Sparta -- Drama',
+     'Trojan War -- Drama',
+     'Hecuba, Queen of Troy -- Drama' ] }
+{"index":{"_id":"pg10096"}}
+{"id":10096,"title":"The Trojan women of Euripides","authors":["Euripides","Murray, Gilbert"],"subjects":["Cassandra (Legendary character) -- Drama","Andromache (Legendary character) -- Drama","Helen, of Troy, Queen of Sparta -- Drama","Trojan War -- Drama","Hecuba, Queen of Troy -- Drama"]}
+{ id: 10097,
+  title: 'The Healing of Nations and the Hidden Sources of Their Strife',
+  authors: [ 'Carpenter, Edward' ],
+  subjects: [ 'World War, 1914-1918' ] }
+{"index":{"_id":"pg10097"}}
+{"id":10097,"title":"The Healing of Nations and the Hidden Sources of Their Strife","authors":["Carpenter, Edward"],"subjects":["World War, 1914-1918"]}
+{ id: 10098,
+  title: 'How Jerusalem Was WonBeing the Record of Allenby\'s Campaign in Palestine',
+  authors: [ 'Massey, W. T. (William Thomas)' ],
+  subjects: [ 'World War, 1914-1918 -- Campaigns -- Palestine' ] }
+{"index":{"_id":"pg10098"}}
+{"id":10098,"title":"How Jerusalem Was WonBeing the Record of Allenby's Campaign in Palestine","authors":["Massey, W. T. (William Thomas)"],"subjects":["World War, 1914-1918 -- Campaigns -- Palestine"]}
+{ id: 10099,
+  title: 'Towards the Goal',
+  authors: [ 'Roosevelt, Theodore', 'Ward, Humphry, Mrs.' ],
+  subjects: 
+   [ 'World War, 1914-1918 -- Personal narratives',
+     'World War, 1914-1918 -- Campaigns -- Western Front' ] }
+{"index":{"_id":"pg10099"}}
+{"id":10099,"title":"Towards the Goal","authors":["Roosevelt, Theodore","Ward, Humphry, Mrs."],"subjects":["World War, 1914-1918 -- Personal narratives","World War, 1914-1918 -- Campaigns -- Western Front"]}
+{ id: 101,
+  title: 'The Hacker Crackdown: Law and Disorder on the Electronic Frontier',
+  authors: [ 'Sterling, Bruce' ],
+  subjects: 
+   [ 'Computer programming -- Corrupt practices -- United States',
+     'Computer crimes -- United States',
+     'Telephone -- Corrupt practices -- United States' ] }
+{"index":{"_id":"pg101"}}
+{"id":101,"title":"The Hacker Crackdown: Law and Disorder on the Electronic Frontier","authors":["Sterling, Bruce"],"subjects":["Computer programming -- Corrupt practices -- United States","Computer crimes -- United States","Telephone -- Corrupt practices -- United States"]}
+{ id: 1010,
+  title: 'La Divina Commedia di Dante: Purgatorio',
+  authors: [ 'Dante Alighieri' ],
+  subjects: 
+   [ 'Italian poetry -- To 1400',
+     'Hell -- Poetry',
+     'Epic poetry, Italian' ] }
+{"index":{"_id":"pg1010"}}
+{"id":1010,"title":"La Divina Commedia di Dante: Purgatorio","authors":["Dante Alighieri"],"subjects":["Italian poetry -- To 1400","Hell -- Poetry","Epic poetry, Italian"]}
+{ id: 10100,
+  title: 'Byron',
+  authors: [ 'Nichol, John' ],
+  subjects: [ 'Byron, George Gordon Byron, Baron, 1788-1824' ] }
+{"index":{"_id":"pg10100"}}
+{"id":10100,"title":"Byron","authors":["Nichol, John"],"subjects":["Byron, George Gordon Byron, Baron, 1788-1824"]}
+{ id: 10101,
+  title: 'A Little Boy Lost',
+  authors: [ 'Hudson, W. H. (William Henry)' ],
+  subjects: 
+   [ 'Nature -- Juvenile fiction',
+     'Boys -- Juvenile fiction',
+     'Fantasy literature',
+     'Self-reliance -- Juvenile fiction' ] }
+{"index":{"_id":"pg10101"}}
+{"id":10101,"title":"A Little Boy Lost","authors":["Hudson, W. H. (William Henry)"],"subjects":["Nature -- Juvenile fiction","Boys -- Juvenile fiction","Fantasy literature","Self-reliance -- Juvenile fiction"]}
+{ id: 10102,
+  title: 'The Czar\'s Spy: The Mystery of a Silent Love',
+  authors: [ 'Le Queux, William' ],
+  subjects: [ 'Spy stories' ] }
+{"index":{"_id":"pg10102"}}
+{"id":10102,"title":"The Czar's Spy: The Mystery of a Silent Love","authors":["Le Queux, William"],"subjects":["Spy stories"]}
+{ id: 10103,
+  title: 'The Great Events by Famous Historians, Volume 08\rThe Later Renaissance: from Gutenberg to the Reformation',
+  authors: 
+   [ 'Johnson, Rossiter',
+     'Rudd, John, LL. D.',
+     'Horne, Charles F. (Charles Francis)' ],
+  subjects: [ 'World history' ] }
+{"index":{"_id":"pg10103"}}
+{"id":10103,"title":"The Great Events by Famous Historians, Volume 08\rThe Later Renaissance: from Gutenberg to the Reformation","authors":["Johnson, Rossiter","Rudd, John, LL. D.","Horne, Charles F. (Charles Francis)"],"subjects":["World history"]}
+{ id: 10104,
+  title: 'Punchinello, Volume 2, No. 32,  November 5, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10104"}}
+{"id":10104,"title":"Punchinello, Volume 2, No. 32,  November 5, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10105,
+  title: 'Punchinello, Volume 2, No. 33, November 12, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10105"}}
+{"id":10105,"title":"Punchinello, Volume 2, No. 33, November 12, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10106,
+  title: 'Punchinello, Volume 2, No. 34, November 19, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10106"}}
+{"id":10106,"title":"Punchinello, Volume 2, No. 34, November 19, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10107,
+  title: 'With British Guns in Italy: A Tribute to Italian Achievement',
+  authors: [ 'Dalton, Hugh Dalton, Baron' ],
+  subjects: [ 'World War, 1914-1918 -- Italy' ] }
+{"index":{"_id":"pg10107"}}
+{"id":10107,"title":"With British Guns in Italy: A Tribute to Italian Achievement","authors":["Dalton, Hugh Dalton, Baron"],"subjects":["World War, 1914-1918 -- Italy"]}
+{ id: 10108,
+  title: 'A Treatise of Daunses, Wherin It is Shewed, That They Are as It Were Accessories and Dependants (Or Thynges Annexed) to Whoredome\rWhere Also by the Way is Touched and Proued, That Playes Are Ioyned and Knit Togeather in a Rancke or Rowe with Them (1581)',
+  authors: [ 'Anonymous' ],
+  subjects: 
+   [ 'Dance -- Moral and ethical aspects -- Early works to 1800',
+     'Theater -- Moral and ethical aspects -- Early works to 1800' ] }
+{"index":{"_id":"pg10108"}}
+{"id":10108,"title":"A Treatise of Daunses, Wherin It is Shewed, That They Are as It Were Accessories and Dependants (Or Thynges Annexed) to Whoredome\rWhere Also by the Way is Touched and Proued, That Playes Are Ioyned and Knit Togeather in a Rancke or Rowe with Them (1581)","authors":["Anonymous"],"subjects":["Dance -- Moral and ethical aspects -- Early works to 1800","Theater -- Moral and ethical aspects -- Early works to 1800"]}
+{ id: 10109,
+  title: 'The Unspeakable Gentleman',
+  authors: [ 'Marquand, John P. (John Phillips)' ],
+  subjects: 
+   [ 'Adventure stories',
+     'Napoleon I, Emperor of the French, 1769-1821 -- Fiction',
+     'Fathers and sons -- Fiction',
+     'Massachusetts -- Fiction' ] }
+{"index":{"_id":"pg10109"}}
+{"id":10109,"title":"The Unspeakable Gentleman","authors":["Marquand, John P. (John Phillips)"],"subjects":["Adventure stories","Napoleon I, Emperor of the French, 1769-1821 -- Fiction","Fathers and sons -- Fiction","Massachusetts -- Fiction"]}
+{ id: 1011,
+  title: 'La Divina Commedia di Dante: Paradiso',
+  authors: [ 'Dante Alighieri' ],
+  subjects: [ 'Epic poetry, Italian', 'Italian poetry -- To 1400' ] }
+{"index":{"_id":"pg1011"}}
+{"id":1011,"title":"La Divina Commedia di Dante: Paradiso","authors":["Dante Alighieri"],"subjects":["Epic poetry, Italian","Italian poetry -- To 1400"]}
+{ id: 10110,
+  title: 'The Postmaster\'s Daughter',
+  authors: [ 'Tracy, Louis' ],
+  subjects: 
+   [ 'Detective and mystery stories',
+     'Villages -- England -- Fiction' ] }
+{"index":{"_id":"pg10110"}}
+{"id":10110,"title":"The Postmaster's Daughter","authors":["Tracy, Louis"],"subjects":["Detective and mystery stories","Villages -- England -- Fiction"]}
+{ id: 10111,
+  title: 'Boys and Girls from Thackeray',
+  authors: [ 'Sweetser, Kate Dickinson' ],
+  subjects: [ 'Thackeray, William Makepeace, 1811-1863 -- Characters' ] }
+{"index":{"_id":"pg10111"}}
+{"id":10111,"title":"Boys and Girls from Thackeray","authors":["Sweetser, Kate Dickinson"],"subjects":["Thackeray, William Makepeace, 1811-1863 -- Characters"]}
+{ id: 10112,
+  title: 'American Political Ideas Viewed from the Standpoint of Universal History',
+  authors: [ 'Fiske, John' ],
+  subjects: 
+   [ 'United States -- History -- Philosophy',
+     'United States -- Politics and government' ] }
+{"index":{"_id":"pg10112"}}
+{"id":10112,"title":"American Political Ideas Viewed from the Standpoint of Universal History","authors":["Fiske, John"],"subjects":["United States -- History -- Philosophy","United States -- Politics and government"]}
+{ id: 10113,
+  title: 'De mannen van \'80 aan het woord\rEen onderzoek vaar eenige beginselen van de "Nieuwe-Gids"-school.',
+  authors: [ 'D\'Oliveira, E. (Elias)' ],
+  subjects: [ 'Dutch literature -- 19th century -- History and criticism' ] }
+{"index":{"_id":"pg10113"}}
+{"id":10113,"title":"De mannen van '80 aan het woord\rEen onderzoek vaar eenige beginselen van de \"Nieuwe-Gids\"-school.","authors":["D'Oliveira, E. (Elias)"],"subjects":["Dutch literature -- 19th century -- History and criticism"]}
+{ id: 10114,
+  title: 'The Great Events by Famous Historians, Volume 02\r(From the Rise of Greece to the Christian Era)',
+  authors: 
+   [ 'Horne, Charles F. (Charles Francis)',
+     'Johnson, Rossiter',
+     'Rudd, John, LL. D.' ],
+  subjects: [ 'World history' ] }
+{"index":{"_id":"pg10114"}}
+{"id":10114,"title":"The Great Events by Famous Historians, Volume 02\r(From the Rise of Greece to the Christian Era)","authors":["Horne, Charles F. (Charles Francis)","Johnson, Rossiter","Rudd, John, LL. D."],"subjects":["World history"]}
+{ id: 10115,
+  title: 'Two Centuries of Costume in America, Volume 1 (1620-1820)',
+  authors: [ 'Earle, Alice Morse' ],
+  subjects: [ 'Clothing and dress -- United States -- History' ] }
+{"index":{"_id":"pg10115"}}
+{"id":10115,"title":"Two Centuries of Costume in America, Volume 1 (1620-1820)","authors":["Earle, Alice Morse"],"subjects":["Clothing and dress -- United States -- History"]}
+{ id: 10116,
+  title: 'All Saints\' Day and Other Sermons',
+  authors: [ 'Harrison, William, rector of Brington', 'Kingsley, Charles' ],
+  subjects: 
+   [ 'Sermons, English -- 19th century',
+     'Church of England -- Sermons' ] }
+{"index":{"_id":"pg10116"}}
+{"id":10116,"title":"All Saints' Day and Other Sermons","authors":["Harrison, William, rector of Brington","Kingsley, Charles"],"subjects":["Sermons, English -- 19th century","Church of England -- Sermons"]}
+{ id: 10117,
+  title: 'Den siste Atenaren',
+  authors: [ 'Rydberg, Viktor' ],
+  subjects: 
+   [ 'Christian fiction',
+     'Church history -- Primitive and early church, ca. 30-600 -- Fiction',
+     'Swedish fiction' ] }
+{"index":{"_id":"pg10117"}}
+{"id":10117,"title":"Den siste Atenaren","authors":["Rydberg, Viktor"],"subjects":["Christian fiction","Church history -- Primitive and early church, ca. 30-600 -- Fiction","Swedish fiction"]}
+{ id: 10118,
+  title: 'The Folk-lore of Plants',
+  authors: [ 'Dyer, T. F. Thiselton (Thomas Firminger Thiselton)' ],
+  subjects: [ 'Folklore', 'Plants -- Folklore' ] }
+{"index":{"_id":"pg10118"}}
+{"id":10118,"title":"The Folk-lore of Plants","authors":["Dyer, T. F. Thiselton (Thomas Firminger Thiselton)"],"subjects":["Folklore","Plants -- Folklore"]}
+{ id: 10119,
+  title: 'Adonais',
+  authors: [ 'Rossetti, William Michael', 'Shelley, Percy Bysshe' ],
+  subjects: 
+   [ 'Shelley, Percy Bysshe, 1792-1822 -- Criticism and interpretation',
+     'Keats, John, 1795-1821 -- Poetry' ] }
+{"index":{"_id":"pg10119"}}
+{"id":10119,"title":"Adonais","authors":["Rossetti, William Michael","Shelley, Percy Bysshe"],"subjects":["Shelley, Percy Bysshe, 1792-1822 -- Criticism and interpretation","Keats, John, 1795-1821 -- Poetry"]}
+{ id: 1012,
+  title: 'La Divina Commedia di Dante',
+  authors: [ 'Dante Alighieri' ],
+  subjects: [ 'Italian poetry -- To 1400', 'Epic poetry, Italian' ] }
+{"index":{"_id":"pg1012"}}
+{"id":1012,"title":"La Divina Commedia di Dante","authors":["Dante Alighieri"],"subjects":["Italian poetry -- To 1400","Epic poetry, Italian"]}
+{ id: 10120,
+  title: 'England of My Heart : Spring',
+  authors: [ 'Hutton, Edward' ],
+  subjects: [ 'Cathedrals -- England', 'England -- Description and travel' ] }
+{"index":{"_id":"pg10120"}}
+{"id":10120,"title":"England of My Heart : Spring","authors":["Hutton, Edward"],"subjects":["Cathedrals -- England","England -- Description and travel"]}
+{ id: 10121,
+  title: 'The Literature of Arabia\rWith Critical and Biographical Sketches by Epiphanius Wilson',
+  authors: [ 'Wilson, Epiphanius' ],
+  subjects: [ 'Arabic literature' ] }
+{"index":{"_id":"pg10121"}}
+{"id":10121,"title":"The Literature of Arabia\rWith Critical and Biographical Sketches by Epiphanius Wilson","authors":["Wilson, Epiphanius"],"subjects":["Arabic literature"]}
+{ id: 10122,
+  title: 'Fairies and Fusiliers',
+  authors: [ 'Graves, Robert' ],
+  subjects: [ 'War poetry, English', 'World War, 1914-1918 -- Poetry' ] }
+{"index":{"_id":"pg10122"}}
+{"id":10122,"title":"Fairies and Fusiliers","authors":["Graves, Robert"],"subjects":["War poetry, English","World War, 1914-1918 -- Poetry"]}
+{ id: 10123,
+  title: 'Aunt Jane\'s Nieces',
+  authors: [ 'Baum, L. Frank (Lyman Frank)' ],
+  subjects: 
+   [ 'Family -- Juvenile fiction',
+     'Aunts -- Juvenile fiction',
+     'Young women -- Juvenile fiction',
+     'Inheritance and succession -- Juvenile fiction',
+     'Cousins -- Juvenile fiction',
+     'Families -- Economic aspects -- Juvenile fiction' ] }
+{"index":{"_id":"pg10123"}}
+{"id":10123,"title":"Aunt Jane's Nieces","authors":["Baum, L. Frank (Lyman Frank)"],"subjects":["Family -- Juvenile fiction","Aunts -- Juvenile fiction","Young women -- Juvenile fiction","Inheritance and succession -- Juvenile fiction","Cousins -- Juvenile fiction","Families -- Economic aspects -- Juvenile fiction"]}
+{ id: 10124,
+  title: 'Aunt Jane\'s Nieces and Uncle John',
+  authors: [ 'Baum, L. Frank (Lyman Frank)' ],
+  subjects: 
+   [ 'West (U.S.) -- Juvenile fiction',
+     'Rocky Mountains -- Description and travel -- Juvenile fiction',
+     'Western stories',
+     'Uncles -- Juvenile fiction',
+     'Brigands and robbers -- Juvenile fiction',
+     'California -- Juvenile fiction',
+     'Family -- Juvenile fiction',
+     'Voyages and travels -- Juvenile fiction',
+     'Cousins -- Juvenile fiction',
+     'Young women -- Juvenile fiction' ] }
+{"index":{"_id":"pg10124"}}
+{"id":10124,"title":"Aunt Jane's Nieces and Uncle John","authors":["Baum, L. Frank (Lyman Frank)"],"subjects":["West (U.S.) -- Juvenile fiction","Rocky Mountains -- Description and travel -- Juvenile fiction","Western stories","Uncles -- Juvenile fiction","Brigands and robbers -- Juvenile fiction","California -- Juvenile fiction","Family -- Juvenile fiction","Voyages and travels -- Juvenile fiction","Cousins -- Juvenile fiction","Young women -- Juvenile fiction"]}
+{ id: 10125,
+  title: 'The Best Letters of Charles Lamb',
+  authors: [ 'Lamb, Charles', 'Johnson, Edward Gilpin' ],
+  subjects: 
+   [ 'Authors, English -- 19th century -- Correspondence',
+     'Lamb, Charles, 1775-1834 -- Correspondence' ] }
+{"index":{"_id":"pg10125"}}
+{"id":10125,"title":"The Best Letters of Charles Lamb","authors":["Lamb, Charles","Johnson, Edward Gilpin"],"subjects":["Authors, English -- 19th century -- Correspondence","Lamb, Charles, 1775-1834 -- Correspondence"]}
+{ id: 10126,
+  title: 'Home-Life of the Lancashire Factory Folk during the Cotton Famine',
+  authors: [ 'Waugh, Edwin' ],
+  subjects: 
+   [ 'Labor -- England -- Lancashire',
+     'Cotton famine, 1861-1864',
+     'Working class -- England -- Lancashire' ] }
+{"index":{"_id":"pg10126"}}
+{"id":10126,"title":"Home-Life of the Lancashire Factory Folk during the Cotton Famine","authors":["Waugh, Edwin"],"subjects":["Labor -- England -- Lancashire","Cotton famine, 1861-1864","Working class -- England -- Lancashire"]}
+{ id: 10127,
+  title: 'Abducted to Oz',
+  authors: [ 'Dulabone, Chris', 'Evans, Robert J.' ],
+  subjects: 
+   [ 'Fantasy literature',
+     'Oz (Imaginary place) -- Juvenile fiction' ] }
+{"index":{"_id":"pg10127"}}
+{"id":10127,"title":"Abducted to Oz","authors":["Dulabone, Chris","Evans, Robert J."],"subjects":["Fantasy literature","Oz (Imaginary place) -- Juvenile fiction"]}
+{ id: 10128,
+  title: 'The Great Events by Famous Historians, Volume 17',
+  authors: 
+   [ 'Johnson, Rossiter',
+     'Rudd, John, LL. D.',
+     'Horne, Charles F. (Charles Francis)' ],
+  subjects: [ 'World history' ] }
+{"index":{"_id":"pg10128"}}
+{"id":10128,"title":"The Great Events by Famous Historians, Volume 17","authors":["Johnson, Rossiter","Rudd, John, LL. D.","Horne, Charles F. (Charles Francis)"],"subjects":["World history"]}
+{ id: 10129,
+  title: 'Excellent Women',
+  authors: [ 'Various' ],
+  subjects: [ 'Women -- Biography', 'Christian life' ] }
+{"index":{"_id":"pg10129"}}
+{"id":10129,"title":"Excellent Women","authors":["Various"],"subjects":["Women -- Biography","Christian life"]}
+{ id: 1013,
+  title: 'The First Men in the Moon',
+  authors: [ 'Wells, H. G. (Herbert George)' ],
+  subjects: 
+   [ 'Satire',
+     'Utopian fiction',
+     'Utopias -- Fiction',
+     'Science fiction',
+     'Space flight to the moon -- Fiction',
+     'Imperialism -- Fiction',
+     'Moon -- Fiction' ] }
+{"index":{"_id":"pg1013"}}
+{"id":1013,"title":"The First Men in the Moon","authors":["Wells, H. G. (Herbert George)"],"subjects":["Satire","Utopian fiction","Utopias -- Fiction","Science fiction","Space flight to the moon -- Fiction","Imperialism -- Fiction","Moon -- Fiction"]}
+{ id: 10130,
+  title: 'The Works of Charles and Mary Lamb — Volume 3\rBooks for Children',
+  authors: 
+   [ 'Lamb, Mary',
+     'Lucas, E. V. (Edward Verrall)',
+     'Lamb, Charles' ],
+  subjects: [ 'Children\'s poetry', 'Children\'s stories' ] }
+{"index":{"_id":"pg10130"}}
+{"id":10130,"title":"The Works of Charles and Mary Lamb — Volume 3\rBooks for Children","authors":["Lamb, Mary","Lucas, E. V. (Edward Verrall)","Lamb, Charles"],"subjects":["Children's poetry","Children's stories"]}
+{ id: 10131,
+  title: 'Required Poems for Reading and MemorizingThird and Fourth Grades, Prescribed by State Courses of Study',
+  authors: [ 'Anonymous' ],
+  subjects: [ 'Children\'s poetry' ] }
+{"index":{"_id":"pg10131"}}
+{"id":10131,"title":"Required Poems for Reading and MemorizingThird and Fourth Grades, Prescribed by State Courses of Study","authors":["Anonymous"],"subjects":["Children's poetry"]}
+{ id: 10132,
+  title: 'The Sowers',
+  authors: [ 'Merriman, Henry Seton' ],
+  subjects: [ 'Russia -- Fiction' ] }
+{"index":{"_id":"pg10132"}}
+{"id":10132,"title":"The Sowers","authors":["Merriman, Henry Seton"],"subjects":["Russia -- Fiction"]}
+{ id: 10133,
+  title: 'The Vigil of Venus and Other Poems by "Q"',
+  authors: [ 'Quiller-Couch, Arthur' ],
+  subjects: [ 'Poetry' ] }
+{"index":{"_id":"pg10133"}}
+{"id":10133,"title":"The Vigil of Venus and Other Poems by \"Q\"","authors":["Quiller-Couch, Arthur"],"subjects":["Poetry"]}
+{ id: 10134,
+  title: 'John Wesley, Jr.The Story of an Experiment',
+  authors: [ 'Brummitt, Dan B. (Dan Brearley)' ],
+  subjects: [ 'Methodists -- Fiction', 'Christian fiction' ] }
+{"index":{"_id":"pg10134"}}
+{"id":10134,"title":"John Wesley, Jr.The Story of an Experiment","authors":["Brummitt, Dan B. (Dan Brearley)"],"subjects":["Methodists -- Fiction","Christian fiction"]}
+{ id: 10135,
+  title: 'The Great English Short-Story Writers, Volume 1',
+  authors: 
+   [ 'Poe, Edgar Allan',
+     'Twain, Mark',
+     'Stevenson, Robert Louis',
+     'Stockton, Frank Richard',
+     'Hawthorne, Nathaniel',
+     'Dawson, Coningsby',
+     'Irving, Washington',
+     'Defoe, Daniel',
+     'Brown, John',
+     'Dawson, W. J. (William James)',
+     'Harte, Bret',
+     'Dickens, Charles',
+     'Hogg, James',
+     'James, Henry',
+     'Hardy, Thomas' ],
+  subjects: [ 'Short stories' ] }
+{"index":{"_id":"pg10135"}}
+{"id":10135,"title":"The Great English Short-Story Writers, Volume 1","authors":["Poe, Edgar Allan","Twain, Mark","Stevenson, Robert Louis","Stockton, Frank Richard","Hawthorne, Nathaniel","Dawson, Coningsby","Irving, Washington","Defoe, Daniel","Brown, John","Dawson, W. J. (William James)","Harte, Bret","Dickens, Charles","Hogg, James","James, Henry","Hardy, Thomas"],"subjects":["Short stories"]}
+{ id: 10136,
+  title: 'The Book of Household Management',
+  authors: [ 'Beeton, Mrs. (Isabella Mary)' ],
+  subjects: [ 'Cooking, English', 'Home economics' ] }
+{"index":{"_id":"pg10136"}}
+{"id":10136,"title":"The Book of Household Management","authors":["Beeton, Mrs. (Isabella Mary)"],"subjects":["Cooking, English","Home economics"]}
+{ id: 10137,
+  title: 'Mary Had a Little Lamb\rRecording taken from Movietone Production news film',
+  authors: [ 'Edison, Thomas A. (Thomas Alva)' ],
+  subjects: [ 'Nursery rhymes, American' ] }
+{"index":{"_id":"pg10137"}}
+{"id":10137,"title":"Mary Had a Little Lamb\rRecording taken from Movietone Production news film","authors":["Edison, Thomas A. (Thomas Alva)"],"subjects":["Nursery rhymes, American"]}
+{ id: 10138,
+  title: 'The Atlantic Monthly, Volume 01, No. 02, December, 1857\rA Magazine of Literature, Art, and Politics',
+  authors: [ 'Various' ],
+  subjects: [ 'American periodicals' ] }
+{"index":{"_id":"pg10138"}}
+{"id":10138,"title":"The Atlantic Monthly, Volume 01, No. 02, December, 1857\rA Magazine of Literature, Art, and Politics","authors":["Various"],"subjects":["American periodicals"]}
+{ id: 10139,
+  title: 'The Faith of the Millions (2nd series)',
+  authors: [ 'Tyrrell, George' ],
+  subjects: [ 'Catholic Church' ] }
+{"index":{"_id":"pg10139"}}
+{"id":10139,"title":"The Faith of the Millions (2nd series)","authors":["Tyrrell, George"],"subjects":["Catholic Church"]}
+{ id: 1014,
+  title: 'The Lure of the Dim Trails',
+  authors: [ 'Bower, B. M.' ],
+  subjects: [ 'Western stories', 'Cowboys -- Fiction' ] }
+{"index":{"_id":"pg1014"}}
+{"id":1014,"title":"The Lure of the Dim Trails","authors":["Bower, B. M."],"subjects":["Western stories","Cowboys -- Fiction"]}
+{ id: 10140,
+  title: 'Rhetoric and Poetry in the RenaissanceA Study of Rhetorical Terms in English Renaissance Literary Criticism',
+  authors: [ 'Clark, Donald Lemen' ],
+  subjects: 
+   [ 'Renaissance',
+     'Poetry -- History and criticism',
+     'Criticism -- Great Britain -- History -- 17th century',
+     'Rhetoric -- Terminology',
+     'Criticism -- Great Britain -- History -- 16th century',
+     'English language -- Early modern, 1500-1700 -- Terms and phrases' ] }
+{"index":{"_id":"pg10140"}}
+{"id":10140,"title":"Rhetoric and Poetry in the RenaissanceA Study of Rhetorical Terms in English Renaissance Literary Criticism","authors":["Clark, Donald Lemen"],"subjects":["Renaissance","Poetry -- History and criticism","Criticism -- Great Britain -- History -- 17th century","Rhetoric -- Terminology","Criticism -- Great Britain -- History -- 16th century","English language -- Early modern, 1500-1700 -- Terms and phrases"]}
+{ id: 10141,
+  title: 'A Discourse on the Life, Character and Writings of Gulian Crommelin Verplanck\rDelivered before the New-York Historical Society, May 17th, 1870',
+  authors: [ 'Bryant, William Cullen' ],
+  subjects: 
+   [ 'Verplanck, Gulian C. (Gulian Crommelin), 1786-1870',
+     'New York (State) -- Biography' ] }
+{"index":{"_id":"pg10141"}}
+{"id":10141,"title":"A Discourse on the Life, Character and Writings of Gulian Crommelin Verplanck\rDelivered before the New-York Historical Society, May 17th, 1870","authors":["Bryant, William Cullen"],"subjects":["Verplanck, Gulian C. (Gulian Crommelin), 1786-1870","New York (State) -- Biography"]}
+{ id: 10142,
+  title: 'MaezliA Story of the Swiss Valleys',
+  authors: 
+   [ 'Spyri, Johanna',
+     'Stork, Elisabeth P. (Elisabeth Pausinger)' ],
+  subjects: [ 'Switzerland -- Juvenile fiction' ] }
+{"index":{"_id":"pg10142"}}
+{"id":10142,"title":"MaezliA Story of the Swiss Valleys","authors":["Spyri, Johanna","Stork, Elisabeth P. (Elisabeth Pausinger)"],"subjects":["Switzerland -- Juvenile fiction"]}
+{ id: 10143,
+  title: 'Punch, or the London Charivari, Volume 153, July 11, 1917',
+  authors: [ 'Various' ],
+  subjects: [ 'English wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10143"}}
+{"id":10143,"title":"Punch, or the London Charivari, Volume 153, July 11, 1917","authors":["Various"],"subjects":["English wit and humor -- Periodicals"]}
+{ id: 10144,
+  title: 'Punchinello, Volume 2, No. 35, November 26, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10144"}}
+{"id":10144,"title":"Punchinello, Volume 2, No. 35, November 26, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10145,
+  title: 'Turkey: a Past and a Future',
+  authors: [ 'Toynbee, Arnold' ],
+  subjects: 
+   [ 'Turkey -- History',
+     'World War, 1914-1918 -- Turkey',
+     'Eastern question' ] }
+{"index":{"_id":"pg10145"}}
+{"id":10145,"title":"Turkey: a Past and a Future","authors":["Toynbee, Arnold"],"subjects":["Turkey -- History","World War, 1914-1918 -- Turkey","Eastern question"]}
+{ id: 10146,
+  title: 'Reminiscences of Pioneer Days in St. Paul\rA Collection of Articles Written for and Published in the Daily Pioneer Press',
+  authors: [ 'Moore, Frank' ],
+  subjects: 
+   [ 'Frontier and pioneer life -- Minnesota',
+     'Saint Paul (Minn.) -- History' ] }
+{"index":{"_id":"pg10146"}}
+{"id":10146,"title":"Reminiscences of Pioneer Days in St. Paul\rA Collection of Articles Written for and Published in the Daily Pioneer Press","authors":["Moore, Frank"],"subjects":["Frontier and pioneer life -- Minnesota","Saint Paul (Minn.) -- History"]}
+{ id: 10147,
+  title: 'America\'s War for Humanity',
+  authors: [ 'Russell, Thomas Herbert' ],
+  subjects: [ 'World War, 1914-1918' ] }
+{"index":{"_id":"pg10147"}}
+{"id":10147,"title":"America's War for Humanity","authors":["Russell, Thomas Herbert"],"subjects":["World War, 1914-1918"]}
+{ id: 10148,
+  title: 'The Merry Adventures of Robin Hood',
+  authors: [ 'Pyle, Howard' ],
+  subjects: 
+   [ 'Robin Hood (Legendary character) -- Legends',
+     'Folklore -- England' ] }
+{"index":{"_id":"pg10148"}}
+{"id":10148,"title":"The Merry Adventures of Robin Hood","authors":["Pyle, Howard"],"subjects":["Robin Hood (Legendary character) -- Legends","Folklore -- England"]}
+{ id: 10149,
+  title: 'Home as Found\rSequel to "Homeward Bound"',
+  authors: [ 'Cooper, James Fenimore' ],
+  subjects: [ 'United States -- Social life and customs -- Fiction' ] }
+{"index":{"_id":"pg10149"}}
+{"id":10149,"title":"Home as Found\rSequel to \"Homeward Bound\"","authors":["Cooper, James Fenimore"],"subjects":["United States -- Social life and customs -- Fiction"]}
+{ id: 1015,
+  title: 'The Oregon Trail: Sketches of Prairie and Rocky-Mountain Life',
+  authors: [ 'Parkman, Francis' ],
+  subjects: 
+   [ 'Oregon National Historic Trail',
+     'Parkman, Francis, 1823-1893 -- Travel -- West (U.S.)',
+     'Frontier and pioneer life -- West (U.S.)',
+     'West (U.S.) -- History -- To 1848',
+     'California National Historic Trail',
+     'Indians of North America -- West (U.S.)',
+     'West (U.S.) -- Description and travel' ] }
+{"index":{"_id":"pg1015"}}
+{"id":1015,"title":"The Oregon Trail: Sketches of Prairie and Rocky-Mountain Life","authors":["Parkman, Francis"],"subjects":["Oregon National Historic Trail","Parkman, Francis, 1823-1893 -- Travel -- West (U.S.)","Frontier and pioneer life -- West (U.S.)","West (U.S.) -- History -- To 1848","California National Historic Trail","Indians of North America -- West (U.S.)","West (U.S.) -- Description and travel"]}
+{ id: 10150,
+  title: 'Dracula\'s Guest',
+  authors: [ 'Stoker, Bram' ],
+  subjects: [ 'Horror tales', 'Gothic fiction', 'Short stories' ] }
+{"index":{"_id":"pg10150"}}
+{"id":10150,"title":"Dracula's Guest","authors":["Stoker, Bram"],"subjects":["Horror tales","Gothic fiction","Short stories"]}
+{ id: 10151,
+  title: 'The Great Events by Famous Historians, Volume 05\r(From Charlemagne to Frederick Barbarossa)',
+  authors: 
+   [ 'Austin, Walter F. (Walter Forward)',
+     'Horne, Charles F. (Charles Francis)',
+     'Rudd, John, LL. D.',
+     'Johnson, Rossiter' ],
+  subjects: [ 'World history' ] }
+{"index":{"_id":"pg10151"}}
+{"id":10151,"title":"The Great Events by Famous Historians, Volume 05\r(From Charlemagne to Frederick Barbarossa)","authors":["Austin, Walter F. (Walter Forward)","Horne, Charles F. (Charles Francis)","Rudd, John, LL. D.","Johnson, Rossiter"],"subjects":["World history"]}
+{ id: 10152,
+  title: 'Voice Trial - Kinetophone actor audition',
+  authors: [ 'Lett, Bob' ],
+  subjects: [ 'Auditions' ] }
+{"index":{"_id":"pg10152"}}
+{"id":10152,"title":"Voice Trial - Kinetophone actor audition","authors":["Lett, Bob"],"subjects":["Auditions"]}
+{ id: 10153,
+  title: 'Voice Trial - Kinetophone Actor Audition',
+  authors: [ 'Lenord, Frank' ],
+  subjects: [ 'Auditions' ] }
+{"index":{"_id":"pg10153"}}
+{"id":10153,"title":"Voice Trial - Kinetophone Actor Audition","authors":["Lenord, Frank"],"subjects":["Auditions"]}
+{ id: 10154,
+  title: 'Voice Trial - Kinetophone Actor Audition',
+  authors: [ 'Schultz, Siegfried Von' ],
+  subjects: [ 'Auditions' ] }
+{"index":{"_id":"pg10154"}}
+{"id":10154,"title":"Voice Trial - Kinetophone Actor Audition","authors":["Schultz, Siegfried Von"],"subjects":["Auditions"]}
+{ id: 10155,
+  title: 'The Right of the People to Rule',
+  authors: [ 'Roosevelt, Theodore' ],
+  subjects: 
+   [ 'Progressivism (United States politics)',
+     'United States -- Politics and government -- 1909-1913',
+     'Speeches, addresses, etc., American',
+     'Political oratory -- United States' ] }
+{"index":{"_id":"pg10155"}}
+{"id":10155,"title":"The Right of the People to Rule","authors":["Roosevelt, Theodore"],"subjects":["Progressivism (United States politics)","United States -- Politics and government -- 1909-1913","Speeches, addresses, etc., American","Political oratory -- United States"]}
+{ id: 10156,
+  title: 'M\'appari - Martha',
+  authors: [ 'Flotow, Friedrich von', 'Bonci, Alessandro', 'Friedrich, W.' ],
+  subjects: [ 'Operas -- Excerpts' ] }
+{"index":{"_id":"pg10156"}}
+{"id":10156,"title":"M'appari - Martha","authors":["Flotow, Friedrich von","Bonci, Alessandro","Friedrich, W."],"subjects":["Operas -- Excerpts"]}
+{ id: 10157,
+  title: 'Which Switch is the Switch, Miss, for Ipswich?\rFrom Rosy Rapture',
+  authors: [ 'Murray, Billy' ],
+  subjects: [ 'Popular music -- 1911-1920' ] }
+{"index":{"_id":"pg10157"}}
+{"id":10157,"title":"Which Switch is the Switch, Miss, for Ipswich?\rFrom Rosy Rapture","authors":["Murray, Billy"],"subjects":["Popular music -- 1911-1920"]}
+{ id: 10158,
+  title: 'Daybreak at Calamity Farm',
+  authors: [ 'Girard, Gilbert' ],
+  subjects: [ 'American wit and humor' ] }
+{"index":{"_id":"pg10158"}}
+{"id":10158,"title":"Daybreak at Calamity Farm","authors":["Girard, Gilbert"],"subjects":["American wit and humor"]}
+{ id: 10159,
+  title: 'England and the War',
+  authors: [ 'Raleigh, Walter Alexander, Sir' ],
+  subjects: [ 'World War, 1914-1918' ] }
+{"index":{"_id":"pg10159"}}
+{"id":10159,"title":"England and the War","authors":["Raleigh, Walter Alexander, Sir"],"subjects":["World War, 1914-1918"]}
+{ id: 1016,
+  title: 'On the Improvement of the Understanding',
+  authors: 
+   [ 'Spinoza, Benedictus de',
+     'Elwes, R. H. M. (Robert Harvey Monro)' ],
+  subjects: [ 'Free thought', 'Philosophy and religion' ] }
+{"index":{"_id":"pg1016"}}
+{"id":1016,"title":"On the Improvement of the Understanding","authors":["Spinoza, Benedictus de","Elwes, R. H. M. (Robert Harvey Monro)"],"subjects":["Free thought","Philosophy and religion"]}
+{ id: 10160,
+  title: 'Pierre Nozière',
+  authors: [ 'France, Anatole' ],
+  subjects: [ 'French fiction' ] }
+{"index":{"_id":"pg10160"}}
+{"id":10160,"title":"Pierre Nozière","authors":["France, Anatole"],"subjects":["French fiction"]}
+{ id: 10161,
+  title: 'English Poets of the Eighteenth Century',
+  authors: [ 'Bernbaum, Ernest' ],
+  subjects: [ 'English poetry -- 18th century' ] }
+{"index":{"_id":"pg10161"}}
+{"id":10161,"title":"English Poets of the Eighteenth Century","authors":["Bernbaum, Ernest"],"subjects":["English poetry -- 18th century"]}
+{ id: 10162,
+  title: 'Dio\'s Rome, Volume 3\rAn Historical Narrative Originally Composed in Greek During The Reigns of Septimius Severus, Geta and Caracalla, Macrinus, Elagabalus and Alexander Severus',
+  authors: [ 'Foster, Herbert Baldwin', 'Cassius Dio Cocceianus' ],
+  subjects: [ 'Rome -- History' ] }
+{"index":{"_id":"pg10162"}}
+{"id":10162,"title":"Dio's Rome, Volume 3\rAn Historical Narrative Originally Composed in Greek During The Reigns of Septimius Severus, Geta and Caracalla, Macrinus, Elagabalus and Alexander Severus","authors":["Foster, Herbert Baldwin","Cassius Dio Cocceianus"],"subjects":["Rome -- History"]}
+{ id: 10163,
+  title: 'Mohammedanism\rLectures on Its Origin, Its Religious and Political Growth, and Its Present State',
+  authors: [ 'Snouck Hurgronje, C. (Christiaan)' ],
+  subjects: [ 'Islam' ] }
+{"index":{"_id":"pg10163"}}
+{"id":10163,"title":"Mohammedanism\rLectures on Its Origin, Its Religious and Political Growth, and Its Present State","authors":["Snouck Hurgronje, C. (Christiaan)"],"subjects":["Islam"]}
+{ id: 10164,
+  title: 'The Black Creek Stopping-House, and Other Stories',
+  authors: [ 'McClung, Nellie L.' ],
+  subjects: [ 'Manitoba -- Fiction', 'Short stories, Canadian' ] }
+{"index":{"_id":"pg10164"}}
+{"id":10164,"title":"The Black Creek Stopping-House, and Other Stories","authors":["McClung, Nellie L."],"subjects":["Manitoba -- Fiction","Short stories, Canadian"]}
+{ id: 10165,
+  title: 'Across the Zodiac\rThe Story of a Wrecked Record',
+  authors: [ 'Greg, Percy' ],
+  subjects: [ 'Science fiction' ] }
+{"index":{"_id":"pg10165"}}
+{"id":10165,"title":"Across the Zodiac\rThe Story of a Wrecked Record","authors":["Greg, Percy"],"subjects":["Science fiction"]}
+{ id: 10166,
+  title: 'What Germany Thinks\rOr, The War as Germans see it',
+  authors: [ 'Smith, Thomas F. A.' ],
+  subjects: [ 'World War, 1914-1918' ] }
+{"index":{"_id":"pg10166"}}
+{"id":10166,"title":"What Germany Thinks\rOr, The War as Germans see it","authors":["Smith, Thomas F. A."],"subjects":["World War, 1914-1918"]}
+{ id: 10167,
+  title: 'Mr. Thomas Cat',
+  authors: [ 'Edison Concert Band' ],
+  subjects: [ 'Band music' ] }
+{"index":{"_id":"pg10167"}}
+{"id":10167,"title":"Mr. Thomas Cat","authors":["Edison Concert Band"],"subjects":["Band music"]}
+{ id: 10168,
+  title: 'Kaiser Frederick March',
+  authors: [ 'Friedemann, Carl', 'British Military Band' ],
+  subjects: [ 'Marches (Band)', 'Band music' ] }
+{"index":{"_id":"pg10168"}}
+{"id":10168,"title":"Kaiser Frederick March","authors":["Friedemann, Carl","British Military Band"],"subjects":["Marches (Band)","Band music"]}
+{ id: 10169,
+  title: 'Semper Fidelis March',
+  authors: [ 'United States Marine Band', 'Sousa, John Philip' ],
+  subjects: [ 'Marches (Band)', 'Band music' ] }
+{"index":{"_id":"pg10169"}}
+{"id":10169,"title":"Semper Fidelis March","authors":["United States Marine Band","Sousa, John Philip"],"subjects":["Marches (Band)","Band music"]}
+{ id: 1017,
+  title: 'The Soul of Man under Socialism',
+  authors: [ 'Wilde, Oscar' ],
+  subjects: [ 'Socialism' ] }
+{"index":{"_id":"pg1017"}}
+{"id":1017,"title":"The Soul of Man under Socialism","authors":["Wilde, Oscar"],"subjects":["Socialism"]}
+{ id: 10170,
+  title: 'Stars and Stripes Forever',
+  authors: [ 'Sousa, John Philip', 'Sousa Band' ],
+  subjects: [ 'Band music', 'Marches (Band)' ] }
+{"index":{"_id":"pg10170"}}
+{"id":10170,"title":"Stars and Stripes Forever","authors":["Sousa, John Philip","Sousa Band"],"subjects":["Band music","Marches (Band)"]}
+{ id: 10171,
+  title: 'Santa Lucia',
+  authors: [ 'His Majesty\'s Irish Guards Band', 'Lotter, Adolph' ],
+  subjects: [ 'Songs, Neapolitan -- Instrumental settings' ] }
+{"index":{"_id":"pg10171"}}
+{"id":10171,"title":"Santa Lucia","authors":["His Majesty's Irish Guards Band","Lotter, Adolph"],"subjects":["Songs, Neapolitan -- Instrumental settings"]}
+{ id: 10172,
+  title: 'Minuet in G Flat major and Valse Bluette',
+  authors: 
+   [ 'Drigo, Riccardo',
+     'Parlow, Kathleen',
+     'Falkenstein, George',
+     'Beethoven, Ludwig van' ],
+  subjects: [ 'Violin and piano music, Arranged' ] }
+{"index":{"_id":"pg10172"}}
+{"id":10172,"title":"Minuet in G Flat major and Valse Bluette","authors":["Drigo, Riccardo","Parlow, Kathleen","Falkenstein, George","Beethoven, Ludwig van"],"subjects":["Violin and piano music, Arranged"]}
+{ id: 10173,
+  title: 'Hungarian Rhapsody No. 2, Part 1',
+  authors: [ 'Edison Concert Band', 'Liszt, Franz' ],
+  subjects: [ 'Band music, Arranged' ] }
+{"index":{"_id":"pg10173"}}
+{"id":10173,"title":"Hungarian Rhapsody No. 2, Part 1","authors":["Edison Concert Band","Liszt, Franz"],"subjects":["Band music, Arranged"]}
+{ id: 10174,
+  title: 'William Tell Overture, Pt. 2',
+  authors: [ 'Rossini, Gioacchino', 'Sodero\'s Band' ],
+  subjects: [ 'Operas -- Excerpts' ] }
+{"index":{"_id":"pg10174"}}
+{"id":10174,"title":"William Tell Overture, Pt. 2","authors":["Rossini, Gioacchino","Sodero's Band"],"subjects":["Operas -- Excerpts"]}
+{ id: 10175,
+  title: 'Prelude in C Sharp Minor, Op. 3',
+  authors: [ 'Rachmaninoff, Sergei' ],
+  subjects: [ 'Piano music' ] }
+{"index":{"_id":"pg10175"}}
+{"id":10175,"title":"Prelude in C Sharp Minor, Op. 3","authors":["Rachmaninoff, Sergei"],"subjects":["Piano music"]}
+{ id: 10176,
+  title: 'The Debutante\rCaprice Brillante',
+  authors: [ 'White, Edna', 'Clarke, Herbert L. (Herbert Lincoln)' ],
+  subjects: [ 'Trumpet with orchestra' ] }
+{"index":{"_id":"pg10176"}}
+{"id":10176,"title":"The Debutante\rCaprice Brillante","authors":["White, Edna","Clarke, Herbert L. (Herbert Lincoln)"],"subjects":["Trumpet with orchestra"]}
+{ id: 10177,
+  title: 'Ride of the Valkyries',
+  authors: [ 'American Symphony Orchestra', 'Wagner, Richard' ],
+  subjects: [ 'Operas -- Excerpts' ] }
+{"index":{"_id":"pg10177"}}
+{"id":10177,"title":"Ride of the Valkyries","authors":["American Symphony Orchestra","Wagner, Richard"],"subjects":["Operas -- Excerpts"]}
+{ id: 10178,
+  title: 'Piano Sonata No. 14 in C sharp minor "Moonlight"',
+  authors: [ 'Beethoven, Ludwig van', 'Bellini Ensemble Unique' ],
+  subjects: [ 'Wind ensembles, Arranged' ] }
+{"index":{"_id":"pg10178"}}
+{"id":10178,"title":"Piano Sonata No. 14 in C sharp minor \"Moonlight\"","authors":["Beethoven, Ludwig van","Bellini Ensemble Unique"],"subjects":["Wind ensembles, Arranged"]}
+{ id: 10179,
+  title: 'Extracts from the Ballet-Suite Scherazada, Pt. 1',
+  authors: [ 'Rimsky-Korsakov, Nikolay', 'American Concert Orchestra' ],
+  subjects: [ 'Suites (Orchestra) -- Excerpts' ] }
+{"index":{"_id":"pg10179"}}
+{"id":10179,"title":"Extracts from the Ballet-Suite Scherazada, Pt. 1","authors":["Rimsky-Korsakov, Nikolay","American Concert Orchestra"],"subjects":["Suites (Orchestra) -- Excerpts"]}
+{ id: 1018,
+  title: 'The Water-Babies',
+  authors: [ 'Kingsley, Charles' ],
+  subjects: 
+   [ 'Fairy tales -- England',
+     'Chimney sweeps -- Juvenile fiction' ] }
+{"index":{"_id":"pg1018"}}
+{"id":1018,"title":"The Water-Babies","authors":["Kingsley, Charles"],"subjects":["Fairy tales -- England","Chimney sweeps -- Juvenile fiction"]}
+{ id: 10180,
+  title: 'Slavonic Dance, No. 1',
+  authors: 
+   [ 'Flesch, Carl',
+     'Ruhrseitz, Kurt',
+     'Dvorák, Antonín',
+     'Kreisler, Fritz' ],
+  subjects: [ 'Violin and piano music, Arranged' ] }
+{"index":{"_id":"pg10180"}}
+{"id":10180,"title":"Slavonic Dance, No. 1","authors":["Flesch, Carl","Ruhrseitz, Kurt","Dvorák, Antonín","Kreisler, Fritz"],"subjects":["Violin and piano music, Arranged"]}
+{ id: 10181,
+  title: 'Clair de Lune\rFrom Suite Bergamasque',
+  authors: [ 'Debussy, Claude', 'Hotel Commodore Ensemble' ],
+  subjects: [ 'Orchestral music, Arranged' ] }
+{"index":{"_id":"pg10181"}}
+{"id":10181,"title":"Clair de Lune\rFrom Suite Bergamasque","authors":["Debussy, Claude","Hotel Commodore Ensemble"],"subjects":["Orchestral music, Arranged"]}
+{ id: 10182,
+  title: 'Trio No. 1 in B Flat, Pt. 1\r1st Movement, allegro moderato, Op. 99',
+  authors: [ 'Schubert, Franz', 'New York Trio' ],
+  subjects: [ 'Piano trios' ] }
+{"index":{"_id":"pg10182"}}
+{"id":10182,"title":"Trio No. 1 in B Flat, Pt. 1\r1st Movement, allegro moderato, Op. 99","authors":["Schubert, Franz","New York Trio"],"subjects":["Piano trios"]}
+{ id: 10183,
+  title: 'Etude Nouvelle in A Flat and Etude in C Major, Op. 10, No. 1',
+  authors: [ 'Rosenthal, Moriz', 'Chopin, Frédéric' ],
+  subjects: [ 'Piano music' ] }
+{"index":{"_id":"pg10183"}}
+{"id":10183,"title":"Etude Nouvelle in A Flat and Etude in C Major, Op. 10, No. 1","authors":["Rosenthal, Moriz","Chopin, Frédéric"],"subjects":["Piano music"]}
+{ id: 10184,
+  title: 'Quartet in G, 1st Movement, Pt. 1',
+  authors: [ 'Mozart, Wolfgang Amadeus', 'Roth Quartet' ],
+  subjects: [ 'String quartets' ] }
+{"index":{"_id":"pg10184"}}
+{"id":10184,"title":"Quartet in G, 1st Movement, Pt. 1","authors":["Mozart, Wolfgang Amadeus","Roth Quartet"],"subjects":["String quartets"]}
+{ id: 10185,
+  title: 'Minstrel Potpourri',
+  authors: [ 'Edison Minstrels' ],
+  subjects: [ 'Minstrel shows -- Songs and music' ] }
+{"index":{"_id":"pg10185"}}
+{"id":10185,"title":"Minstrel Potpourri","authors":["Edison Minstrels"],"subjects":["Minstrel shows -- Songs and music"]}
+{ id: 10186,
+  title: 'Schultz at the Paris Exposition',
+  authors: [ 'Kennedy, Frank' ],
+  subjects: [ 'Humorous recitations' ] }
+{"index":{"_id":"pg10186"}}
+{"id":10186,"title":"Schultz at the Paris Exposition","authors":["Kennedy, Frank"],"subjects":["Humorous recitations"]}
+{ id: 10187,
+  title: 'Reuben Haskin\'s ride on the Cyclone Auto',
+  authors: [ 'Spencer, Len' ],
+  subjects: [ 'Humorous recitations', 'Vaudeville' ] }
+{"index":{"_id":"pg10187"}}
+{"id":10187,"title":"Reuben Haskin's ride on the Cyclone Auto","authors":["Spencer, Len"],"subjects":["Humorous recitations","Vaudeville"]}
+{ id: 10188,
+  title: 'Two Rubes at the Vaudeville',
+  authors: [ 'Stanley, Frank C.', 'Harlan, Byron G.' ],
+  subjects: [ 'Vaudeville', 'Humorous recitations' ] }
+{"index":{"_id":"pg10188"}}
+{"id":10188,"title":"Two Rubes at the Vaudeville","authors":["Stanley, Frank C.","Harlan, Byron G."],"subjects":["Vaudeville","Humorous recitations"]}
+{ id: 10189,
+  title: 'Three Rubes Seeing New York',
+  authors: [ 'Edison Vaudeville Company' ],
+  subjects: [ 'Vaudeville', 'Humorous recitations' ] }
+{"index":{"_id":"pg10189"}}
+{"id":10189,"title":"Three Rubes Seeing New York","authors":["Edison Vaudeville Company"],"subjects":["Vaudeville","Humorous recitations"]}
+{ id: 1019,
+  title: 'Poems by Currer, Ellis, and Acton Bell',
+  authors: [ 'Brontë, Emily', 'Brontë, Charlotte', 'Brontë, Anne' ],
+  subjects: [ 'English poetry -- 19th century' ] }
+{"index":{"_id":"pg1019"}}
+{"id":1019,"title":"Poems by Currer, Ellis, and Acton Bell","authors":["Brontë, Emily","Brontë, Charlotte","Brontë, Anne"],"subjects":["English poetry -- 19th century"]}
+{ id: 10190,
+  title: 'A Bunch of Nonsense: Vaudeville Specialty',
+  authors: [ 'Hill, Murry K.' ],
+  subjects: [ 'Humorous recitations', 'Vaudeville' ] }
+{"index":{"_id":"pg10190"}}
+{"id":10190,"title":"A Bunch of Nonsense: Vaudeville Specialty","authors":["Hill, Murry K."],"subjects":["Humorous recitations","Vaudeville"]}
+{ id: 10191,
+  title: 'Fourth of July at Punkin Center',
+  authors: [ 'Stewart, Cal' ],
+  subjects: [ 'American wit and humor', 'Humorous recitations' ] }
+{"index":{"_id":"pg10191"}}
+{"id":10191,"title":"Fourth of July at Punkin Center","authors":["Stewart, Cal"],"subjects":["American wit and humor","Humorous recitations"]}
+{ id: 10192,
+  title: 'Interruptions\rComic Sketch',
+  authors: [ 'Woottwell, Tom' ],
+  subjects: [ 'Humorous songs' ] }
+{"index":{"_id":"pg10192"}}
+{"id":10192,"title":"Interruptions\rComic Sketch","authors":["Woottwell, Tom"],"subjects":["Humorous songs"]}
+{ id: 10193,
+  title: 'Backyard Conversation Between Mrs. Reilly and Mrs. Finnegan',
+  authors: [ 'Porter, Steve', 'Jones, Ada' ],
+  subjects: 
+   [ 'Humorous recitations',
+     'Irish Americans -- Humor',
+     'Irish American women -- Humor',
+     'Irish-American wit and humor' ] }
+{"index":{"_id":"pg10193"}}
+{"id":10193,"title":"Backyard Conversation Between Mrs. Reilly and Mrs. Finnegan","authors":["Porter, Steve","Jones, Ada"],"subjects":["Humorous recitations","Irish Americans -- Humor","Irish American women -- Humor","Irish-American wit and humor"]}
+{ id: 10194,
+  title: 'Opera Reel with Calls',
+  authors: [ 'Bisbee, Jep' ],
+  subjects: [ 'Old-time music', 'Reels (Music)' ] }
+{"index":{"_id":"pg10194"}}
+{"id":10194,"title":"Opera Reel with Calls","authors":["Bisbee, Jep"],"subjects":["Old-time music","Reels (Music)"]}
+{ id: 10195,
+  title: 'Lonesome Road Blues',
+  authors: [ 'Blue Ridge Duo' ],
+  subjects: [ 'Folk songs, English -- United States', 'Old-time music' ] }
+{"index":{"_id":"pg10195"}}
+{"id":10195,"title":"Lonesome Road Blues","authors":["Blue Ridge Duo"],"subjects":["Folk songs, English -- United States","Old-time music"]}
+{ id: 10196,
+  title: 'Cluck Old Hen',
+  authors: [ 'Fiddlin\' Powers & Family' ],
+  subjects: 
+   [ 'Old-time music',
+     'Songs with instrumental ensemble',
+     'Folk songs, English -- United States' ] }
+{"index":{"_id":"pg10196"}}
+{"id":10196,"title":"Cluck Old Hen","authors":["Fiddlin' Powers & Family"],"subjects":["Old-time music","Songs with instrumental ensemble","Folk songs, English -- United States"]}
+{ id: 10197,
+  title: 'He Was Nailed to the Cross for Me',
+  authors: [ 'Dixie Mountaineers' ],
+  subjects: [ 'Gospel music', 'Old-time music' ] }
+{"index":{"_id":"pg10197"}}
+{"id":10197,"title":"He Was Nailed to the Cross for Me","authors":["Dixie Mountaineers"],"subjects":["Gospel music","Old-time music"]}
+{ id: 10198,
+  title: 'Barbara Allen',
+  authors: [ 'Luther, Frank' ],
+  subjects: [ 'Old-time music', 'Folk songs, English -- United States' ] }
+{"index":{"_id":"pg10198"}}
+{"id":10198,"title":"Barbara Allen","authors":["Luther, Frank"],"subjects":["Old-time music","Folk songs, English -- United States"]}
+{ id: 10199,
+  title: 'Down in a Georgia Jail',
+  authors: [ 'North Carolina Ramblers' ],
+  subjects: [ 'Old-time music', 'Folk songs, English -- United States' ] }
+{"index":{"_id":"pg10199"}}
+{"id":10199,"title":"Down in a Georgia Jail","authors":["North Carolina Ramblers"],"subjects":["Old-time music","Folk songs, English -- United States"]}
+{ id: 102,
+  title: 'The Tragedy of Pudd\'nhead Wilson',
+  authors: [ 'Twain, Mark' ],
+  subjects: 
+   [ 'Passing (Identity) -- Fiction',
+     'Legal stories',
+     'Impostors and imposture -- Fiction',
+     'Race relations -- Fiction',
+     'Infants switched at birth -- Fiction',
+     'Missouri -- Fiction',
+     'Trials (Murder) -- Fiction' ] }
+{"index":{"_id":"pg102"}}
+{"id":102,"title":"The Tragedy of Pudd'nhead Wilson","authors":["Twain, Mark"],"subjects":["Passing (Identity) -- Fiction","Legal stories","Impostors and imposture -- Fiction","Race relations -- Fiction","Infants switched at birth -- Fiction","Missouri -- Fiction","Trials (Murder) -- Fiction"]}
+{ id: 1020,
+  title: 'Sword Blades and Poppy Seed',
+  authors: [ 'Lowell, Amy' ],
+  subjects: [ 'American poetry', 'Imagist poetry' ] }
+{"index":{"_id":"pg1020"}}
+{"id":1020,"title":"Sword Blades and Poppy Seed","authors":["Lowell, Amy"],"subjects":["American poetry","Imagist poetry"]}
+{ id: 10200,
+  title: 'To Edison from Colonel Gouraud, Introducing Mr. Gladstone\rThe Phonograph\'s Salutation',
+  authors: [ 'Gladstone, W. E. (William Ewart)' ],
+  subjects: [ 'Edison, Thomas A. (Thomas Alva), 1847-1931', 'Phonograph' ] }
+{"index":{"_id":"pg10200"}}
+{"id":10200,"title":"To Edison from Colonel Gouraud, Introducing Mr. Gladstone\rThe Phonograph's Salutation","authors":["Gladstone, W. E. (William Ewart)"],"subjects":["Edison, Thomas A. (Thomas Alva), 1847-1931","Phonograph"]}
+{ id: 10201,
+  title: 'The Desert of Wheat',
+  authors: [ 'Grey, Zane' ],
+  subjects: [ 'War stories', 'World War, 1914-1918 -- Fiction' ] }
+{"index":{"_id":"pg10201"}}
+{"id":10201,"title":"The Desert of Wheat","authors":["Grey, Zane"],"subjects":["War stories","World War, 1914-1918 -- Fiction"]}
+{ id: 10202,
+  title: 'Maria Mitchell: Life, Letters, and Journals',
+  authors: [ 'Mitchell, Maria', 'Kendall, Phebe Mitchell' ],
+  subjects: 
+   [ 'Mitchell, Maria, 1818-1889',
+     'Women astronomers -- United States -- Biography',
+     'Astronomers -- United States -- Biography' ] }
+{"index":{"_id":"pg10202"}}
+{"id":10202,"title":"Maria Mitchell: Life, Letters, and Journals","authors":["Mitchell, Maria","Kendall, Phebe Mitchell"],"subjects":["Mitchell, Maria, 1818-1889","Women astronomers -- United States -- Biography","Astronomers -- United States -- Biography"]}
+{ id: 10203,
+  title: 'Big Ben Clock Tower of Westminster\rStriking half past 10, quarter to 11, and 11 o\'clock',
+  authors: [],
+  subjects: [ 'Clock chimes', 'Big Ben (Tower clock)' ] }
+{"index":{"_id":"pg10203"}}
+{"id":10203,"title":"Big Ben Clock Tower of Westminster\rStriking half past 10, quarter to 11, and 11 o'clock","authors":[],"subjects":["Clock chimes","Big Ben (Tower clock)"]}
+{ id: 10204,
+  title: 'Charge of the Light Brigade',
+  authors: [ 'Landfrey, Kenneth' ],
+  subjects: [ 'Bugle calls' ] }
+{"index":{"_id":"pg10204"}}
+{"id":10204,"title":"Charge of the Light Brigade","authors":["Landfrey, Kenneth"],"subjects":["Bugle calls"]}
+{ id: 10205,
+  title: 'Words of Welcome\rOpening of the Electrical Exposition of New York City',
+  authors: [ 'Hobart, Garret A. (Garret Augustus)' ],
+  subjects: [ 'Electricity' ] }
+{"index":{"_id":"pg10205"}}
+{"id":10205,"title":"Words of Welcome\rOpening of the Electrical Exposition of New York City","authors":["Hobart, Garret A. (Garret Augustus)"],"subjects":["Electricity"]}
+{ id: 10206,
+  title: 'The Liver Complaint Story',
+  authors: [ 'Edison, Thomas A. (Thomas Alva)' ],
+  subjects: [ 'Anecdotes' ] }
+{"index":{"_id":"pg10206"}}
+{"id":10206,"title":"The Liver Complaint Story","authors":["Edison, Thomas A. (Thomas Alva)"],"subjects":["Anecdotes"]}
+{ id: 10207,
+  title: 'The Railroad Question',
+  authors: [ 'Bryan, William Jennings' ],
+  subjects: [ 'Railroads -- United States' ] }
+{"index":{"_id":"pg10207"}}
+{"id":10207,"title":"The Railroad Question","authors":["Bryan, William Jennings"],"subjects":["Railroads -- United States"]}
+{ id: 10208,
+  title: 'The Rights of Labor',
+  authors: [ 'Taft, William H. (William Howard)' ],
+  subjects: 
+   [ 'Labor unions -- United States',
+     'Industrial relations -- United States' ] }
+{"index":{"_id":"pg10208"}}
+{"id":10208,"title":"The Rights of Labor","authors":["Taft, William H. (William Howard)"],"subjects":["Labor unions -- United States","Industrial relations -- United States"]}
+{ id: 10209,
+  title: 'Electricity and Progress\rOpening of the New York Electrical Show',
+  authors: [ 'Edison, Thomas A. (Thomas Alva)' ],
+  subjects: [ 'Electricity' ] }
+{"index":{"_id":"pg10209"}}
+{"id":10209,"title":"Electricity and Progress\rOpening of the New York Electrical Show","authors":["Edison, Thomas A. (Thomas Alva)"],"subjects":["Electricity"]}
+{ id: 1021,
+  title: 'The Congo, and Other Poems',
+  authors: [ 'Monroe, Harriet', 'Lindsay, Vachel' ],
+  subjects: [ 'American poetry', 'Narrative poetry' ] }
+{"index":{"_id":"pg1021"}}
+{"id":1021,"title":"The Congo, and Other Poems","authors":["Monroe, Harriet","Lindsay, Vachel"],"subjects":["American poetry","Narrative poetry"]}
+{ id: 10210,
+  title: 'Wolves of the Sea\rBeing a Tale of the Colonies from the Manuscript of One Geoffry Carlyle, Seaman, Narrating Certain Strange Adventures Which Befell Him Aboard the Pirate Craft "Namur"',
+  authors: [ 'Parrish, Randall' ],
+  subjects: [ 'Sea stories', 'Pirates -- Fiction' ] }
+{"index":{"_id":"pg10210"}}
+{"id":10210,"title":"Wolves of the Sea\rBeing a Tale of the Colonies from the Manuscript of One Geoffry Carlyle, Seaman, Narrating Certain Strange Adventures Which Befell Him Aboard the Pirate Craft \"Namur\"","authors":["Parrish, Randall"],"subjects":["Sea stories","Pirates -- Fiction"]}
+{ id: 10211,
+  title: 'At Whispering Pine Lodge',
+  authors: [ 'Leslie, Lawrence J.' ],
+  subjects: [ 'Camping -- Fiction' ] }
+{"index":{"_id":"pg10211"}}
+{"id":10211,"title":"At Whispering Pine Lodge","authors":["Leslie, Lawrence J."],"subjects":["Camping -- Fiction"]}
+{ id: 10212,
+  title: 'Peck\'s Bad Boy with the Circus',
+  authors: [ 'Peck, George W. (George Wilbur)' ],
+  subjects: [ 'Boys -- Juvenile fiction', 'Circus -- Juvenile fiction' ] }
+{"index":{"_id":"pg10212"}}
+{"id":10212,"title":"Peck's Bad Boy with the Circus","authors":["Peck, George W. (George Wilbur)"],"subjects":["Boys -- Juvenile fiction","Circus -- Juvenile fiction"]}
+{ id: 10213,
+  title: 'The Everlasting Whisper',
+  authors: [ 'Gregory, Jackson' ],
+  subjects: [ 'Western stories', 'California -- Fiction' ] }
+{"index":{"_id":"pg10213"}}
+{"id":10213,"title":"The Everlasting Whisper","authors":["Gregory, Jackson"],"subjects":["Western stories","California -- Fiction"]}
+{ id: 10214,
+  title: 'Introduction to the Philosophy and Writings of Plato',
+  authors: [ 'Taylor, Thomas' ],
+  subjects: [ 'Philosophy', 'Plato' ] }
+{"index":{"_id":"pg10214"}}
+{"id":10214,"title":"Introduction to the Philosophy and Writings of Plato","authors":["Taylor, Thomas"],"subjects":["Philosophy","Plato"]}
+{ id: 10215,
+  title: 'Manfredo Palavicino, o, I Francesi e gli Sforzeschi\rStoria Italiana',
+  authors: [ 'Rovani, Giuseppe' ],
+  subjects: [ 'Lombardy (Italy) -- History -- 16th century -- Fiction' ] }
+{"index":{"_id":"pg10215"}}
+{"id":10215,"title":"Manfredo Palavicino, o, I Francesi e gli Sforzeschi\rStoria Italiana","authors":["Rovani, Giuseppe"],"subjects":["Lombardy (Italy) -- History -- 16th century -- Fiction"]}
+{ id: 10216,
+  title: 'Poems',
+  authors: [ 'Holley, Marietta' ],
+  subjects: [ 'Poetry' ] }
+{"index":{"_id":"pg10216"}}
+{"id":10216,"title":"Poems","authors":["Holley, Marietta"],"subjects":["Poetry"]}
+{ id: 10217,
+  title: 'The Land of Little Rain',
+  authors: [ 'Austin, Mary Hunter' ],
+  subjects: 
+   [ 'Frontier and pioneer life -- California',
+     'California -- Description and travel',
+     'California -- Social life and customs',
+     'Natural history -- California',
+     'California -- History, Local' ] }
+{"index":{"_id":"pg10217"}}
+{"id":10217,"title":"The Land of Little Rain","authors":["Austin, Mary Hunter"],"subjects":["Frontier and pioneer life -- California","California -- Description and travel","California -- Social life and customs","Natural history -- California","California -- History, Local"]}
+{ id: 10218,
+  title: 'Stauder',
+  authors: [ 'Brandt, G. N. (Gudmund Nyeland)' ],
+  subjects: [ 'Perennials' ] }
+{"index":{"_id":"pg10218"}}
+{"id":10218,"title":"Stauder","authors":["Brandt, G. N. (Gudmund Nyeland)"],"subjects":["Perennials"]}
+{ id: 10219,
+  title: 'The Poetical Works of William Wordsworth — Volume 1 (of 8)',
+  authors: [ 'Knight, William Angus', 'Wordsworth, William' ],
+  subjects: 
+   [ 'English poetry -- 19th century',
+     'English poetry -- 18th century' ] }
+{"index":{"_id":"pg10219"}}
+{"id":10219,"title":"The Poetical Works of William Wordsworth — Volume 1 (of 8)","authors":["Knight, William Angus","Wordsworth, William"],"subjects":["English poetry -- 19th century","English poetry -- 18th century"]}
+{ id: 1022,
+  title: 'Walking',
+  authors: [ 'Thoreau, Henry David' ],
+  subjects: [ 'Nature', 'Walking', 'Essays' ] }
+{"index":{"_id":"pg1022"}}
+{"id":1022,"title":"Walking","authors":["Thoreau, Henry David"],"subjects":["Nature","Walking","Essays"]}
+{ id: 10220,
+  title: 'Daddy Takes Us Skating',
+  authors: [ 'Garis, Howard Roger' ],
+  subjects: 
+   [ 'Skating -- Juvenile fiction',
+     'Winter -- Juvenile fiction',
+     'Fathers -- Juvenile fiction' ] }
+{"index":{"_id":"pg10220"}}
+{"id":10220,"title":"Daddy Takes Us Skating","authors":["Garis, Howard Roger"],"subjects":["Skating -- Juvenile fiction","Winter -- Juvenile fiction","Fathers -- Juvenile fiction"]}
+{ id: 10221,
+  title: 'Purple Springs',
+  authors: [ 'McClung, Nellie L.' ],
+  subjects: 
+   [ 'Political fiction',
+     'Manitoba -- Politics and government -- Fiction' ] }
+{"index":{"_id":"pg10221"}}
+{"id":10221,"title":"Purple Springs","authors":["McClung, Nellie L."],"subjects":["Political fiction","Manitoba -- Politics and government -- Fiction"]}
+{ id: 10222,
+  title: 'The Pilgrims of New EnglandA Tale of the Early American Settlers',
+  authors: [ 'Webb-Peploe, Mrs. (Annie)' ],
+  subjects: [ 'Pilgrims (New Plymouth Colony) -- Fiction' ] }
+{"index":{"_id":"pg10222"}}
+{"id":10222,"title":"The Pilgrims of New EnglandA Tale of the Early American Settlers","authors":["Webb-Peploe, Mrs. (Annie)"],"subjects":["Pilgrims (New Plymouth Colony) -- Fiction"]}
+{ id: 10223,
+  title: 'Meyers Konversationslexikon Band 15',
+  authors: [ 'Various' ],
+  subjects: [ 'Encyclopedias and dictionaries' ] }
+{"index":{"_id":"pg10223"}}
+{"id":10223,"title":"Meyers Konversationslexikon Band 15","authors":["Various"],"subjects":["Encyclopedias and dictionaries"]}
+{ id: 10224,
+  title: 'Kalitan, Our Little Alaskan Cousin',
+  authors: [ 'Nixon-Roulet, Mary F.' ],
+  subjects: [ 'Children -- Alaska -- Juvenile literature' ] }
+{"index":{"_id":"pg10224"}}
+{"id":10224,"title":"Kalitan, Our Little Alaskan Cousin","authors":["Nixon-Roulet, Mary F."],"subjects":["Children -- Alaska -- Juvenile literature"]}
+{ id: 10225,
+  title: 'Their Crimes',
+  authors: [ 'Adams, J. Esslemont', 'Mirman, Léon' ],
+  subjects: [ 'World War, 1914-1918 -- Atrocities' ] }
+{"index":{"_id":"pg10225"}}
+{"id":10225,"title":"Their Crimes","authors":["Adams, J. Esslemont","Mirman, Léon"],"subjects":["World War, 1914-1918 -- Atrocities"]}
+{ id: 10226,
+  title: 'Beautiful Joe: An Autobiography',
+  authors: [ 'Saunders, Marshall' ],
+  subjects: 
+   [ 'Didactic fiction',
+     'Animal welfare -- Fiction',
+     'Dogs -- Fiction',
+     'Canada -- Fiction',
+     'Dog owners -- Fiction',
+     'Human-animal relationships -- Fiction' ] }
+{"index":{"_id":"pg10226"}}
+{"id":10226,"title":"Beautiful Joe: An Autobiography","authors":["Saunders, Marshall"],"subjects":["Didactic fiction","Animal welfare -- Fiction","Dogs -- Fiction","Canada -- Fiction","Dog owners -- Fiction","Human-animal relationships -- Fiction"]}
+{ id: 10227,
+  title: 'Tolstoy\'s Plower Story',
+  authors: [ 'Wanamaker, John' ],
+  subjects: [ 'Tolstoy, Leo, graf, 1828-1910 -- Anecdotes' ] }
+{"index":{"_id":"pg10227"}}
+{"id":10227,"title":"Tolstoy's Plower Story","authors":["Wanamaker, John"],"subjects":["Tolstoy, Leo, graf, 1828-1910 -- Anecdotes"]}
+{ id: 10228,
+  title: 'El Presidente Díaz al Señor Edison',
+  authors: [ 'Díaz, Porfirio' ],
+  subjects: [ 'Edison, Thomas A. (Thomas Alva), 1847-1931' ] }
+{"index":{"_id":"pg10228"}}
+{"id":10228,"title":"El Presidente Díaz al Señor Edison","authors":["Díaz, Porfirio"],"subjects":["Edison, Thomas A. (Thomas Alva), 1847-1931"]}
+{ id: 10229,
+  title: 'My South Polar Expedition',
+  authors: [ 'Shackleton, Ernest Henry, Sir' ],
+  subjects: 
+   [ 'Antarctica -- Discovery and exploration -- British',
+     'British Antarctic Expedition (1907-1909)' ] }
+{"index":{"_id":"pg10229"}}
+{"id":10229,"title":"My South Polar Expedition","authors":["Shackleton, Ernest Henry, Sir"],"subjects":["Antarctica -- Discovery and exploration -- British","British Antarctic Expedition (1907-1909)"]}
+{ id: 1023,
+  title: 'Bleak House',
+  authors: [ 'Dickens, Charles' ],
+  subjects: 
+   [ 'Bildungsromans',
+     'Illegitimate children -- Fiction',
+     'Young women -- Fiction',
+     'Domestic fiction',
+     'Guardian and ward -- Fiction',
+     'London (England) -- Fiction',
+     'Inheritance and succession -- Fiction',
+     'Legal stories' ] }
+{"index":{"_id":"pg1023"}}
+{"id":1023,"title":"Bleak House","authors":["Dickens, Charles"],"subjects":["Bildungsromans","Illegitimate children -- Fiction","Young women -- Fiction","Domestic fiction","Guardian and ward -- Fiction","London (England) -- Fiction","Inheritance and succession -- Fiction","Legal stories"]}
+{ id: 10230,
+  title: 'Remarks from a Visit to Edison Laboratory',
+  authors: [ 'Daniels, Josephus' ],
+  subjects: [ 'Edison, Thomas A. (Thomas Alva), 1847-1931' ] }
+{"index":{"_id":"pg10230"}}
+{"id":10230,"title":"Remarks from a Visit to Edison Laboratory","authors":["Daniels, Josephus"],"subjects":["Edison, Thomas A. (Thomas Alva), 1847-1931"]}
+{ id: 10231,
+  title: 'Remarks from a Visit to Edison Laboratory',
+  authors: [ 'Daniels, Addie Worth Bagley' ],
+  subjects: 
+   [ 'Women -- Suffrage -- United States',
+     'Edison, Thomas A. (Thomas Alva), 1847-1931' ] }
+{"index":{"_id":"pg10231"}}
+{"id":10231,"title":"Remarks from a Visit to Edison Laboratory","authors":["Daniels, Addie Worth Bagley"],"subjects":["Women -- Suffrage -- United States","Edison, Thomas A. (Thomas Alva), 1847-1931"]}
+{ id: 10232,
+  title: 'Remarks from a Visit to Edison Laboratory',
+  authors: [ 'Miles, Nelson Appleton' ],
+  subjects: [ 'Edison, Thomas A. (Thomas Alva), 1847-1931' ] }
+{"index":{"_id":"pg10232"}}
+{"id":10232,"title":"Remarks from a Visit to Edison Laboratory","authors":["Miles, Nelson Appleton"],"subjects":["Edison, Thomas A. (Thomas Alva), 1847-1931"]}
+{ id: 10233,
+  title: 'Transcontinental Telephone Address to Thomas A. Edison',
+  authors: [ 'Hutchinson, Miller Reese' ],
+  subjects: [ 'Telephone -- History' ] }
+{"index":{"_id":"pg10233"}}
+{"id":10233,"title":"Transcontinental Telephone Address to Thomas A. Edison","authors":["Hutchinson, Miller Reese"],"subjects":["Telephone -- History"]}
+{ id: 10234,
+  title: 'Old Creole Days: A Story of Creole Life',
+  authors: [ 'Cable, George Washington' ],
+  subjects: 
+   [ 'Creoles -- Fiction',
+     'New Orleans (La.) -- Fiction',
+     'Louisiana -- Social life and customs -- Fiction',
+     'Historical fiction' ] }
+{"index":{"_id":"pg10234"}}
+{"id":10234,"title":"Old Creole Days: A Story of Creole Life","authors":["Cable, George Washington"],"subjects":["Creoles -- Fiction","New Orleans (La.) -- Fiction","Louisiana -- Social life and customs -- Fiction","Historical fiction"]}
+{ id: 10235,
+  title: 'Discussion on Edison\'s Monoid Theory',
+  authors: [ 'Edison, Theodore M.' ],
+  subjects: [ 'Edison, Thomas A. (Thomas Alva), 1847-1931' ] }
+{"index":{"_id":"pg10235"}}
+{"id":10235,"title":"Discussion on Edison's Monoid Theory","authors":["Edison, Theodore M."],"subjects":["Edison, Thomas A. (Thomas Alva), 1847-1931"]}
+{ id: 10236,
+  title: 'International Correspondence School - Spanish Lesson #9',
+  authors: [],
+  subjects: [ 'Spanish language -- Sound recordings for English speakers' ] }
+{"index":{"_id":"pg10236"}}
+{"id":10236,"title":"International Correspondence School - Spanish Lesson #9","authors":[],"subjects":["Spanish language -- Sound recordings for English speakers"]}
+{ id: 10237,
+  title: 'Siegel-Myers School of Music - Vocal Record F',
+  authors: [],
+  subjects: [ 'Sound -- Recording and reproducing' ] }
+{"index":{"_id":"pg10237"}}
+{"id":10237,"title":"Siegel-Myers School of Music - Vocal Record F","authors":[],"subjects":["Sound -- Recording and reproducing"]}
+{ id: 10238,
+  title: 'Ediphone School Record No. 2\r90 WPM-1',
+  authors: [],
+  subjects: [ 'Dictation recordings' ] }
+{"index":{"_id":"pg10238"}}
+{"id":10238,"title":"Ediphone School Record No. 2\r90 WPM-1","authors":[],"subjects":["Dictation recordings"]}
+{ id: 10239,
+  title: '2nd Record',
+  authors: [ 'Losey\'s Orchestra' ],
+  subjects: [ 'Sound -- Recording and reproducing' ] }
+{"index":{"_id":"pg10239"}}
+{"id":10239,"title":"2nd Record","authors":["Losey's Orchestra"],"subjects":["Sound -- Recording and reproducing"]}
+{ id: 1024,
+  title: 'The Wrecker',
+  authors: [ 'Osbourne, Lloyd', 'Stevenson, Robert Louis' ],
+  subjects: 
+   [ 'Shipwrecks -- Fiction',
+     'Treasure troves -- Fiction',
+     'Avarice -- Fiction' ] }
+{"index":{"_id":"pg1024"}}
+{"id":1024,"title":"The Wrecker","authors":["Osbourne, Lloyd","Stevenson, Robert Louis"],"subjects":["Shipwrecks -- Fiction","Treasure troves -- Fiction","Avarice -- Fiction"]}
+{ id: 10240,
+  title: 'Plaque No. 1\rExp. No. 1-2-3-4, Recorder #20',
+  authors: [ 'Losey\'s Orchestra' ],
+  subjects: [ 'Sound -- Recording and reproducing' ] }
+{"index":{"_id":"pg10240"}}
+{"id":10240,"title":"Plaque No. 1\rExp. No. 1-2-3-4, Recorder #20","authors":["Losey's Orchestra"],"subjects":["Sound -- Recording and reproducing"]}
+{ id: 10241,
+  title: 'Plaque No. 2\rExp. No. 5-6-7-8, Recorder #20',
+  authors: [ 'Losey\'s Orchestra' ],
+  subjects: [ 'Sound -- Recording and reproducing' ] }
+{"index":{"_id":"pg10241"}}
+{"id":10241,"title":"Plaque No. 2\rExp. No. 5-6-7-8, Recorder #20","authors":["Losey's Orchestra"],"subjects":["Sound -- Recording and reproducing"]}
+{ id: 10242,
+  title: 'Plaque No. 6\rExp. No. 27, Recorder #20',
+  authors: [ 'Losey\'s Orchestra' ],
+  subjects: [ 'Sound -- Recording and reproducing' ] }
+{"index":{"_id":"pg10242"}}
+{"id":10242,"title":"Plaque No. 6\rExp. No. 27, Recorder #20","authors":["Losey's Orchestra"],"subjects":["Sound -- Recording and reproducing"]}
+{ id: 10243,
+  title: 'Radio Program for WAAM, Newark, New Jersey',
+  authors: [ 'Scott, John A.' ],
+  subjects: [ 'Radio programs', 'Organ music', 'Songs with piano' ] }
+{"index":{"_id":"pg10243"}}
+{"id":10243,"title":"Radio Program for WAAM, Newark, New Jersey","authors":["Scott, John A."],"subjects":["Radio programs","Organ music","Songs with piano"]}
+{ id: 10244,
+  title: 'Johnson "Jass" Blues\rFox Trot',
+  authors: [ 'Frisco Jass Band', 'Johnson, Arnold' ],
+  subjects: [ 'Jazz -- To 1921', 'Foxtrots' ] }
+{"index":{"_id":"pg10244"}}
+{"id":10244,"title":"Johnson \"Jass\" Blues\rFox Trot","authors":["Frisco Jass Band","Johnson, Arnold"],"subjects":["Jazz -- To 1921","Foxtrots"]}
+{ id: 10245,
+  title: 'Jazz de Luxe\rFox Trot',
+  authors: [ 'Earl Fuller\'s Famous Jazz Band', 'Fuller, Earl' ],
+  subjects: [ 'Foxtrots', 'Dance orchestra music', 'Jazz -- To 1921' ] }
+{"index":{"_id":"pg10245"}}
+{"id":10245,"title":"Jazz de Luxe\rFox Trot","authors":["Earl Fuller's Famous Jazz Band","Fuller, Earl"],"subjects":["Foxtrots","Dance orchestra music","Jazz -- To 1921"]}
+{ id: 10246,
+  title: 'Sensation Jazz: One-Step',
+  authors: [ 'All-Star Trio' ],
+  subjects: [ 'Jazz -- To 1921' ] }
+{"index":{"_id":"pg10246"}}
+{"id":10246,"title":"Sensation Jazz: One-Step","authors":["All-Star Trio"],"subjects":["Jazz -- To 1921"]}
+{ id: 10247,
+  title: 'Dixieland\rOne-Step',
+  authors: [ 'Lopez and Hamilton\'s Kings of Harmony' ],
+  subjects: [ 'Dixieland music' ] }
+{"index":{"_id":"pg10247"}}
+{"id":10247,"title":"Dixieland\rOne-Step","authors":["Lopez and Hamilton's Kings of Harmony"],"subjects":["Dixieland music"]}
+{ id: 10248,
+  title: 'Blues my Naughty Sweetie Gives to Me',
+  authors: [ 'Harry Raderman\'s Jazz Orchestra' ],
+  subjects: [ 'Blues (Music)' ] }
+{"index":{"_id":"pg10248"}}
+{"id":10248,"title":"Blues my Naughty Sweetie Gives to Me","authors":["Harry Raderman's Jazz Orchestra"],"subjects":["Blues (Music)"]}
+{ id: 10249,
+  title: 'The St. Louis Blues',
+  authors: [ 'Handy, W. C. (William Christopher)', 'Ferera and Paaluhi' ],
+  subjects: [ 'Blues (Music)' ] }
+{"index":{"_id":"pg10249"}}
+{"id":10249,"title":"The St. Louis Blues","authors":["Handy, W. C. (William Christopher)","Ferera and Paaluhi"],"subjects":["Blues (Music)"]}
+{ id: 1025,
+  title: 'Essays; Political, Economical, and Philosophical — Volume 1',
+  authors: [ 'Rumford, Benjamin, Graf von' ],
+  subjects: 
+   [ 'Poor -- Germany -- Munich',
+     'Heat',
+     'Charities',
+     'Kitchen utensils',
+     'Fireplaces',
+     'Food' ] }
+{"index":{"_id":"pg1025"}}
+{"id":1025,"title":"Essays; Political, Economical, and Philosophical — Volume 1","authors":["Rumford, Benjamin, Graf von"],"subjects":["Poor -- Germany -- Munich","Heat","Charities","Kitchen utensils","Fireplaces","Food"]}
+{ id: 10250,
+  title: 'The Five Bachelors',
+  authors: [ 'Ramsay' ],
+  subjects: [ 'Men -- Societies and clubs -- Drama' ] }
+{"index":{"_id":"pg10250"}}
+{"id":10250,"title":"The Five Bachelors","authors":["Ramsay"],"subjects":["Men -- Societies and clubs -- Drama"]}
+{ id: 10251,
+  title: 'Town Geology',
+  authors: [ 'Kingsley, Charles' ],
+  subjects: [ 'Geology' ] }
+{"index":{"_id":"pg10251"}}
+{"id":10251,"title":"Town Geology","authors":["Kingsley, Charles"],"subjects":["Geology"]}
+{ id: 10252,
+  title: 'The Old Violin',
+  authors: [ 'Higham, Daniel' ],
+  subjects: [ 'Musicians -- Drama' ] }
+{"index":{"_id":"pg10252"}}
+{"id":10252,"title":"The Old Violin","authors":["Higham, Daniel"],"subjects":["Musicians -- Drama"]}
+{ id: 10253,
+  title: 'The Gospel of Wealth',
+  authors: [ 'Carnegie, Andrew' ],
+  subjects: [ 'Charities', 'Wealth -- Moral and ethical aspects' ] }
+{"index":{"_id":"pg10253"}}
+{"id":10253,"title":"The Gospel of Wealth","authors":["Carnegie, Andrew"],"subjects":["Charities","Wealth -- Moral and ethical aspects"]}
+{ id: 10254,
+  title: 'The Birth of the Telephone',
+  authors: [ 'Watson, Thomas Augustus' ],
+  subjects: [ 'Telephone -- History' ] }
+{"index":{"_id":"pg10254"}}
+{"id":10254,"title":"The Birth of the Telephone","authors":["Watson, Thomas Augustus"],"subjects":["Telephone -- History"]}
+{ id: 10255,
+  title: 'La Paloma',
+  authors: [ 'Yradier, Sebastián', 'Banda de Zapadores de Mexico' ],
+  subjects: [ 'Songs -- Instrumental settings' ] }
+{"index":{"_id":"pg10255"}}
+{"id":10255,"title":"La Paloma","authors":["Yradier, Sebastián","Banda de Zapadores de Mexico"],"subjects":["Songs -- Instrumental settings"]}
+{ id: 10256,
+  title: 'O, Tannenbaum',
+  authors: [ 'Nebe-Quartett' ],
+  subjects: [ 'Carols, German', 'Christmas music' ] }
+{"index":{"_id":"pg10256"}}
+{"id":10256,"title":"O, Tannenbaum","authors":["Nebe-Quartett"],"subjects":["Carols, German","Christmas music"]}
+{ id: 10257,
+  title: 'Mazel Tov',
+  authors: [ 'I. J. Hochman\'s Yiddisher Orchester' ],
+  subjects: [ 'Jews -- Music', 'Klezmer music' ] }
+{"index":{"_id":"pg10257"}}
+{"id":10257,"title":"Mazel Tov","authors":["I. J. Hochman's Yiddisher Orchester"],"subjects":["Jews -- Music","Klezmer music"]}
+{ id: 10258,
+  title: 'Nataligino Kolo',
+  authors: [ 'Jugoslavensko Tamburasko Drustvo' ],
+  subjects: [ 'Tambura (Fretted lute) music', 'Kolos' ] }
+{"index":{"_id":"pg10258"}}
+{"id":10258,"title":"Nataligino Kolo","authors":["Jugoslavensko Tamburasko Drustvo"],"subjects":["Tambura (Fretted lute) music","Kolos"]}
+{ id: 10259,
+  title: 'Smês esko - slováckych písní - cis 1',
+  authors: [ 'Lusk, Milan' ],
+  subjects: [ 'Violin and piano music' ] }
+{"index":{"_id":"pg10259"}}
+{"id":10259,"title":"Smês esko - slováckych písní - cis 1","authors":["Lusk, Milan"],"subjects":["Violin and piano music"]}
+{ id: 1026,
+  title: 'The Diary of a Nobody',
+  authors: [ 'Grossmith, Weedon', 'Grossmith, George' ],
+  subjects: 
+   [ 'Suburban life -- Fiction',
+     'England -- Fiction',
+     'Middle class -- Fiction',
+     'Diary fiction',
+     'Humorous stories',
+     'Men -- England -- Fiction' ] }
+{"index":{"_id":"pg1026"}}
+{"id":1026,"title":"The Diary of a Nobody","authors":["Grossmith, Weedon","Grossmith, George"],"subjects":["Suburban life -- Fiction","England -- Fiction","Middle class -- Fiction","Diary fiction","Humorous stories","Men -- England -- Fiction"]}
+{ id: 10260,
+  title: 'Narodowe Melodye\rPolka',
+  authors: [ 'Iwanowski, Aleksander' ],
+  subjects: [ 'Accordion music', 'Polkas' ] }
+{"index":{"_id":"pg10260"}}
+{"id":10260,"title":"Narodowe Melodye\rPolka","authors":["Iwanowski, Aleksander"],"subjects":["Accordion music","Polkas"]}
+{ id: 10261,
+  title: 'La Bella Cubano\rHabenera',
+  authors: [ 'Trio Cubano' ],
+  subjects: [ 'Violin and piano music', 'Habaneras' ] }
+{"index":{"_id":"pg10261"}}
+{"id":10261,"title":"La Bella Cubano\rHabenera","authors":["Trio Cubano"],"subjects":["Violin and piano music","Habaneras"]}
+{ id: 10262,
+  title: 'Que Partes El Alma\rRumba Son',
+  authors: [ 'Cruz, Juan de la', 'León, Bienvenido, musician' ],
+  subjects: [ 'Folk songs, Spanish -- Cuba' ] }
+{"index":{"_id":"pg10262"}}
+{"id":10262,"title":"Que Partes El Alma\rRumba Son","authors":["Cruz, Juan de la","León, Bienvenido, musician"],"subjects":["Folk songs, Spanish -- Cuba"]}
+{ id: 10263,
+  title: 'Envoyons d\'l\'avant nos gens!\rFolklore du Canada',
+  authors: [ 'Marchand, Charles' ],
+  subjects: [ 'Folk songs, French -- Canada', 'Folk music -- Canada' ] }
+{"index":{"_id":"pg10263"}}
+{"id":10263,"title":"Envoyons d'l'avant nos gens!\rFolklore du Canada","authors":["Marchand, Charles"],"subjects":["Folk songs, French -- Canada","Folk music -- Canada"]}
+{ id: 10264,
+  title: 'Skamba Kankliah Ir Trimintai',
+  authors: [ 'Suildauskas, Juozas', 'Petraushas, Mikas' ],
+  subjects: [ 'Folk songs, Lithuanian' ] }
+{"index":{"_id":"pg10264"}}
+{"id":10264,"title":"Skamba Kankliah Ir Trimintai","authors":["Suildauskas, Juozas","Petraushas, Mikas"],"subjects":["Folk songs, Lithuanian"]}
+{ id: 10265,
+  title: 'Anssin Jukka ja Härmän Häät',
+  authors: [ 'Pyykkönen, Otto' ],
+  subjects: [ 'Folk songs, Finnish' ] }
+{"index":{"_id":"pg10265"}}
+{"id":10265,"title":"Anssin Jukka ja Härmän Häät","authors":["Pyykkönen, Otto"],"subjects":["Folk songs, Finnish"]}
+{ id: 10266,
+  title: 'The Glands Regulating Personality\rA Study of the Glands of Internal Secretion in Relation to the Types of Human Nature',
+  authors: [ 'Berman, Louis' ],
+  subjects: [ 'Personality', 'Endocrinology' ] }
+{"index":{"_id":"pg10266"}}
+{"id":10266,"title":"The Glands Regulating Personality\rA Study of the Glands of Internal Secretion in Relation to the Types of Human Nature","authors":["Berman, Louis"],"subjects":["Personality","Endocrinology"]}
+{ id: 10267,
+  title: 'The Outdoor Chums; Or, The First Tour of the Rod, Gun and Camera Club',
+  authors: [ 'Allen, Quincy' ],
+  subjects: [ 'Camping -- Juvenile fiction' ] }
+{"index":{"_id":"pg10267"}}
+{"id":10267,"title":"The Outdoor Chums; Or, The First Tour of the Rod, Gun and Camera Club","authors":["Allen, Quincy"],"subjects":["Camping -- Juvenile fiction"]}
+{ id: 10268,
+  title: 'Patty at Home',
+  authors: [ 'Wells, Carolyn' ],
+  subjects: [ 'Girls -- Juvenile fiction' ] }
+{"index":{"_id":"pg10268"}}
+{"id":10268,"title":"Patty at Home","authors":["Wells, Carolyn"],"subjects":["Girls -- Juvenile fiction"]}
+{ id: 10269,
+  title: 'Pharoah\'s Army Got Drownded',
+  authors: [ '"Colored Quartet" (name unknown)' ],
+  subjects: [ 'African Americans -- Music', 'Spirituals (Songs)' ] }
+{"index":{"_id":"pg10269"}}
+{"id":10269,"title":"Pharoah's Army Got Drownded","authors":["\"Colored Quartet\" (name unknown)"],"subjects":["African Americans -- Music","Spirituals (Songs)"]}
+{ id: 1027,
+  title: 'The Lone Star Ranger: A Romance of the Border',
+  authors: [ 'Grey, Zane' ],
+  subjects: 
+   [ 'Western stories',
+     'Mexican-American Border Region -- Fiction' ] }
+{"index":{"_id":"pg1027"}}
+{"id":1027,"title":"The Lone Star Ranger: A Romance of the Border","authors":["Grey, Zane"],"subjects":["Western stories","Mexican-American Border Region -- Fiction"]}
+{ id: 10270,
+  title: 'What Band Is This?',
+  authors: [ 'Hann\'s Emperors of Song' ],
+  subjects: [ 'African Americans -- Music', 'Spirituals (Songs)' ] }
+{"index":{"_id":"pg10270"}}
+{"id":10270,"title":"What Band Is This?","authors":["Hann's Emperors of Song"],"subjects":["African Americans -- Music","Spirituals (Songs)"]}
+{ id: 10271,
+  title: 'Höchstes Vertrauen\r(aus Lohengrin)',
+  authors: [ 'Knote, Heinrich', 'Wagner, Richard' ],
+  subjects: [ 'Operas -- Excerpts' ] }
+{"index":{"_id":"pg10271"}}
+{"id":10271,"title":"Höchstes Vertrauen\r(aus Lohengrin)","authors":["Knote, Heinrich","Wagner, Richard"],"subjects":["Operas -- Excerpts"]}
+{ id: 10272,
+  title: 'Sono Un Poeta\rFrom La Bohème',
+  authors: [ 'Constantino, Florencio', 'Puccini, Giacomo' ],
+  subjects: [ 'Operas -- Excerpts' ] }
+{"index":{"_id":"pg10272"}}
+{"id":10272,"title":"Sono Un Poeta\rFrom La Bohème","authors":["Constantino, Florencio","Puccini, Giacomo"],"subjects":["Operas -- Excerpts"]}
+{ id: 10273,
+  title: 'Ah! Fors\' é Lui (La Traviata)',
+  authors: [ 'Verdi, Giuseppe', 'Bori, Lucrezia' ],
+  subjects: [ 'Operas -- Excerpts' ] }
+{"index":{"_id":"pg10273"}}
+{"id":10273,"title":"Ah! Fors' é Lui (La Traviata)","authors":["Verdi, Giuseppe","Bori, Lucrezia"],"subjects":["Operas -- Excerpts"]}
+{ id: 10274,
+  title: 'Sermons on Evil-Speaking',
+  authors: [ 'Barrow, Isaac', 'Morley, Henry' ],
+  subjects: 
+   [ 'Sermons, English -- 17th century',
+     'Swearing',
+     'Libel and slander' ] }
+{"index":{"_id":"pg10274"}}
+{"id":10274,"title":"Sermons on Evil-Speaking","authors":["Barrow, Isaac","Morley, Henry"],"subjects":["Sermons, English -- 17th century","Swearing","Libel and slander"]}
+{ id: 10275,
+  title: 'La Gioconda',
+  authors: 
+   [ 'Koralek, Paola',
+     'Boito, Arrigo',
+     'Benedetti, Preste',
+     'Ponchielli, Amilcare' ],
+  subjects: [ 'Operas -- Excerpts' ] }
+{"index":{"_id":"pg10275"}}
+{"id":10275,"title":"La Gioconda","authors":["Koralek, Paola","Boito, Arrigo","Benedetti, Preste","Ponchielli, Amilcare"],"subjects":["Operas -- Excerpts"]}
+{ id: 10276,
+  title: 'Gloria\rFrom The Twelfth Mass by Wolfgang Amadeus Mozart',
+  authors: [ 'Mozart, Wolfgang Amadeus', 'Gregorian Choir' ],
+  subjects: 
+   [ 'Masses -- Excerpts',
+     'Choruses, Sacred (Mixed voices, 4 parts)' ] }
+{"index":{"_id":"pg10276"}}
+{"id":10276,"title":"Gloria\rFrom The Twelfth Mass by Wolfgang Amadeus Mozart","authors":["Mozart, Wolfgang Amadeus","Gregorian Choir"],"subjects":["Masses -- Excerpts","Choruses, Sacred (Mixed voices, 4 parts)"]}
+{ id: 10277,
+  title: 'Hallelujah Chorus\rFrom The Messiah',
+  authors: [ 'Handel, George Frideric', 'Oratorio Chorus' ],
+  subjects: [ 'Oratorios -- Excerpts' ] }
+{"index":{"_id":"pg10277"}}
+{"id":10277,"title":"Hallelujah Chorus\rFrom The Messiah","authors":["Handel, George Frideric","Oratorio Chorus"],"subjects":["Oratorios -- Excerpts"]}
+{ id: 10278,
+  title: 'Sei Forse L\'Angelo Fedele\rFrom Eugene Onegin',
+  authors: [ 'Tchaikovsky, Peter Ilich', 'Muzio, Claudia' ],
+  subjects: [ 'Operas -- Excerpts' ] }
+{"index":{"_id":"pg10278"}}
+{"id":10278,"title":"Sei Forse L'Angelo Fedele\rFrom Eugene Onegin","authors":["Tchaikovsky, Peter Ilich","Muzio, Claudia"],"subjects":["Operas -- Excerpts"]}
+{ id: 10279,
+  title: 'Uncle Tom\'s Cabin: Entrance of Topsy',
+  authors: [ 'Stowe, Harriet Beecher', 'Spencer, Len' ],
+  subjects: 
+   [ 'Stowe, Harriet Beecher, 1811-1896. Uncle Tom\'s cabin. Selections' ] }
+{"index":{"_id":"pg10279"}}
+{"id":10279,"title":"Uncle Tom's Cabin: Entrance of Topsy","authors":["Stowe, Harriet Beecher","Spencer, Len"],"subjects":["Stowe, Harriet Beecher, 1811-1896. Uncle Tom's cabin. Selections"]}
+{ id: 1028,
+  title: 'The Professor',
+  authors: [ 'Brontë, Charlotte' ],
+  subjects: 
+   [ 'Belgium -- Social life and customs -- 19th century -- Fiction',
+     'Women teachers -- Fiction',
+     'Brussels (Belgium) -- Fiction',
+     'Love stories',
+     'British -- Belgium -- Fiction',
+     'Triangles (Interpersonal relations) -- Fiction' ] }
+{"index":{"_id":"pg1028"}}
+{"id":1028,"title":"The Professor","authors":["Brontë, Charlotte"],"subjects":["Belgium -- Social life and customs -- 19th century -- Fiction","Women teachers -- Fiction","Brussels (Belgium) -- Fiction","Love stories","British -- Belgium -- Fiction","Triangles (Interpersonal relations) -- Fiction"]}
+{ id: 10280,
+  title: 'In de Mornin\' and Jes Gib Him One Ob Mine',
+  authors: [ 'Dunbar, Paul Laurence', 'Wright, Edward Sterling' ],
+  subjects: [ 'Poetry' ] }
+{"index":{"_id":"pg10280"}}
+{"id":10280,"title":"In de Mornin' and Jes Gib Him One Ob Mine","authors":["Dunbar, Paul Laurence","Wright, Edward Sterling"],"subjects":["Poetry"]}
+{ id: 10281,
+  title: 'Antony\'s Address over the Body of Caesar\rFrom Julius Caesar',
+  authors: [ 'Humphrey, Harry E. (Harry Ervin)', 'Shakespeare, William' ],
+  subjects: 
+   [ 'Shakespeare, William, 1564-1616. Julius Caesar. Selections' ] }
+{"index":{"_id":"pg10281"}}
+{"id":10281,"title":"Antony's Address over the Body of Caesar\rFrom Julius Caesar","authors":["Humphrey, Harry E. (Harry Ervin)","Shakespeare, William"],"subjects":["Shakespeare, William, 1564-1616. Julius Caesar. Selections"]}
+{ id: 10282,
+  title: 'Polish National Dance',
+  authors: [ 'D\'Almaine, Charles' ],
+  subjects: [ 'Violin and piano music', 'Folk dance music -- Poland' ] }
+{"index":{"_id":"pg10282"}}
+{"id":10282,"title":"Polish National Dance","authors":["D'Almaine, Charles"],"subjects":["Violin and piano music","Folk dance music -- Poland"]}
+{ id: 10283,
+  title: 'Dinah Polka',
+  authors: [ 'Lowe, Charles P.' ],
+  subjects: [ 'Polkas', 'Xylophone and piano music' ] }
+{"index":{"_id":"pg10283"}}
+{"id":10283,"title":"Dinah Polka","authors":["Lowe, Charles P."],"subjects":["Polkas","Xylophone and piano music"]}
+{ id: 10284,
+  title: 'Spring of Love',
+  authors: [ 'Atz, Louis', 'Ehrlich, Sam', 'Jaudas, Eugene' ],
+  subjects: [ 'Trios (Piano, flute, violin)' ] }
+{"index":{"_id":"pg10284"}}
+{"id":10284,"title":"Spring of Love","authors":["Atz, Louis","Ehrlich, Sam","Jaudas, Eugene"],"subjects":["Trios (Piano, flute, violin)"]}
+{ id: 10285,
+  title: 'Ma Rag Time Baby',
+  authors: 
+   [ 'Peerless Orchestra (Edison studio ensemble)',
+     'Stone, Fred S.' ],
+  subjects: [ 'Popular music -- 1901-1910', 'Ragtime music' ] }
+{"index":{"_id":"pg10285"}}
+{"id":10285,"title":"Ma Rag Time Baby","authors":["Peerless Orchestra (Edison studio ensemble)","Stone, Fred S."],"subjects":["Popular music -- 1901-1910","Ragtime music"]}
+{ id: 10286,
+  title: 'Arbucklenian Polka',
+  authors: [ 'Kryl, Bohumir' ],
+  subjects: [ 'Polkas', 'Cornet and piano music' ] }
+{"index":{"_id":"pg10286"}}
+{"id":10286,"title":"Arbucklenian Polka","authors":["Kryl, Bohumir"],"subjects":["Polkas","Cornet and piano music"]}
+{ id: 10287,
+  title: 'New York Blues',
+  authors: [ 'Frosini, Pietro' ],
+  subjects: [ 'Accordion music' ] }
+{"index":{"_id":"pg10287"}}
+{"id":10287,"title":"New York Blues","authors":["Frosini, Pietro"],"subjects":["Accordion music"]}
+{ id: 10288,
+  title: 'Ragtime Echoes',
+  authors: [ 'Siegel, Samuel', 'Caveny Marie' ],
+  subjects: [ 'Ragtime music' ] }
+{"index":{"_id":"pg10288"}}
+{"id":10288,"title":"Ragtime Echoes","authors":["Siegel, Samuel","Caveny Marie"],"subjects":["Ragtime music"]}
+{ id: 10289,
+  title: 'Le Chat du Neptune',
+  authors: [ 'Hervilly, Ernest d\'' ],
+  subjects: [ 'Fiction' ] }
+{"index":{"_id":"pg10289"}}
+{"id":10289,"title":"Le Chat du Neptune","authors":["Hervilly, Ernest d'"],"subjects":["Fiction"]}
+{ id: 1029,
+  title: 'The Night-Born',
+  authors: [ 'London, Jack' ],
+  subjects: [ 'Adventure and adventurers -- Fiction', 'Short stories' ] }
+{"index":{"_id":"pg1029"}}
+{"id":1029,"title":"The Night-Born","authors":["London, Jack"],"subjects":["Adventure and adventurers -- Fiction","Short stories"]}
+{ id: 10290,
+  title: 'Confession de MinuitRoman',
+  authors: [ 'Duhamel, Georges' ],
+  subjects: [ 'Fiction' ] }
+{"index":{"_id":"pg10290"}}
+{"id":10290,"title":"Confession de MinuitRoman","authors":["Duhamel, Georges"],"subjects":["Fiction"]}
+{ id: 10291,
+  title: 'In the Fourth Year: Anticipations of a World Peace',
+  authors: [ 'Wells, H. G. (Herbert George)' ],
+  subjects: 
+   [ 'World War, 1914-1918 -- Peace',
+     'League of Nations',
+     'Democracy' ] }
+{"index":{"_id":"pg10291"}}
+{"id":10291,"title":"In the Fourth Year: Anticipations of a World Peace","authors":["Wells, H. G. (Herbert George)"],"subjects":["World War, 1914-1918 -- Peace","League of Nations","Democracy"]}
+{ id: 10292,
+  title: 'Punchinello, Volume 2, No. 36, December 3, 1870',
+  authors: [ 'Various' ],
+  subjects: [ 'American wit and humor -- Periodicals' ] }
+{"index":{"_id":"pg10292"}}
+{"id":10292,"title":"Punchinello, Volume 2, No. 36, December 3, 1870","authors":["Various"],"subjects":["American wit and humor -- Periodicals"]}
+{ id: 10293,
+  title: 'Relación historica de los sucesos de la rebelión de José Gabriel Tupac-Amaru en las provincias del Peru, el año de 1780',
+  authors: [ 'Anonymous' ],
+  subjects: [ 'Peru -- History -- Insurrection of Tupac Amaru, 1780-1781' ] }
+{"index":{"_id":"pg10293"}}
+{"id":10293,"title":"Relación historica de los sucesos de la rebelión de José Gabriel Tupac-Amaru en las provincias del Peru, el año de 1780","authors":["Anonymous"],"subjects":["Peru -- History -- Insurrection of Tupac Amaru, 1780-1781"]}
+{ id: 10294,
+  title: 'Verse and Prose for Beginners in ReadingSelected from English and American Literature',
+  authors: [ 'Scudder, Horace Elisha' ],
+  subjects: [ 'Readers' ] }
+{"index":{"_id":"pg10294"}}
+{"id":10294,"title":"Verse and Prose for Beginners in ReadingSelected from English and American Literature","authors":["Scudder, Horace Elisha"],"subjects":["Readers"]}
+{ id: 10295,
+  title: 'The Band of Gideon',
+  authors: [ 'Jubilee Singers' ],
+  subjects: 
+   [ 'Sacred vocal quartets',
+     'Spirituals (Songs)',
+     'Folk songs -- United States' ] }
+{"index":{"_id":"pg10295"}}
+{"id":10295,"title":"The Band of Gideon","authors":["Jubilee Singers"],"subjects":["Sacred vocal quartets","Spirituals (Songs)","Folk songs -- United States"]}
+{ id: 10296,
+  title: 'Swing Low, Sweet Chariot',
+  authors: [ 'Jubilee Singers' ],
+  subjects: [ 'Spirituals (Songs)', 'African Americans -- Songs and music' ] }
+{"index":{"_id":"pg10296"}}
+{"id":10296,"title":"Swing Low, Sweet Chariot","authors":["Jubilee Singers"],"subjects":["Spirituals (Songs)","African Americans -- Songs and music"]}
+{ id: 10297,
+  title: 'Saxema',
+  authors: [ 'Wiedoeft, Rudy' ],
+  subjects: 
+   [ 'Popular instrumental music -- 1911-1920',
+     'Saxophone with orchestra' ] }
+{"index":{"_id":"pg10297"}}
+{"id":10297,"title":"Saxema","authors":["Wiedoeft, Rudy"],"subjects":["Popular instrumental music -- 1911-1920","Saxophone with orchestra"]}
+{ id: 10298,
+  title: 'Flow Gently Sweet Afton and Bonnie, Sweet Bessie',
+  authors: 
+   [ 'Spilman, Jonathan E.',
+     'Trucksess, Robert',
+     'Gilbert, James L.' ],
+  subjects: [ 'Guitar music, Arranged', 'Songs -- Instrumental settings' ] }
+{"index":{"_id":"pg10298"}}
+{"id":10298,"title":"Flow Gently Sweet Afton and Bonnie, Sweet Bessie","authors":["Spilman, Jonathan E.","Trucksess, Robert","Gilbert, James L."],"subjects":["Guitar music, Arranged","Songs -- Instrumental settings"]}
+{ id: 10299,
+  title: 'Poet and Peasant Overture',
+  authors: [ 'Peabody, Eddie', 'Suppé, Franz von' ],
+  subjects: [ 'Banjo music, Arranged', 'Operas -- Excerpts, Arranged' ] }
+{"index":{"_id":"pg10299"}}
+{"id":10299,"title":"Poet and Peasant Overture","authors":["Peabody, Eddie","Suppé, Franz von"],"subjects":["Banjo music, Arranged","Operas -- Excerpts, Arranged"]}
+{ id: 1030,
+  title: 'The Cavalier Songs and Ballads of England from 1642 to 1684',
+  authors: [ 'Mackay, Charles' ],
+  subjects: 
+   [ 'English poetry -- Early modern, 1500-1700',
+     'Ballads, English' ] }
+{"index":{"_id":"pg1030"}}
+{"id":1030,"title":"The Cavalier Songs and Ballads of England from 1642 to 1684","authors":["Mackay, Charles"],"subjects":["English poetry -- Early modern, 1500-1700","Ballads, English"]}
+{ id: 10300,
+  title: 'Snyder, Does Your Mother Know You\'re Out?',
+  authors: [ 'Watson, George P.' ],
+  subjects: [ 'Yodels', 'Songs with piano' ] }
+{"index":{"_id":"pg10300"}}
+{"id":10300,"title":"Snyder, Does Your Mother Know You're Out?","authors":["Watson, George P."],"subjects":["Yodels","Songs with piano"]}
+{ id: 10301,
+  title: 'Who Threw the Overalls in Mrs. Murphy\'s Chowder?',
+  authors: [ 'Giefer, George L.', 'Favor, Edward M.' ],
+  subjects: [ 'Songs with piano', 'Popular music -- 1901-1910' ] }
+{"index":{"_id":"pg10301"}}
+{"id":10301,"title":"Who Threw the Overalls in Mrs. Murphy's Chowder?","authors":["Giefer, George L.","Favor, Edward M."],"subjects":["Songs with piano","Popular music -- 1901-1910"]}
+{ id: 10302,
+  title: 'Just Because She Made Dem Goo-Goo Eyes',
+  authors: [ 'Dobbs, John', 'Cannon, Hughie L.' ],
+  subjects: 
+   [ 'Minstrel shows -- Songs and music',
+     'Popular music -- 1901-1910' ] }
+{"index":{"_id":"pg10302"}}
+{"id":10302,"title":"Just Because She Made Dem Goo-Goo Eyes","authors":["Dobbs, John","Cannon, Hughie L."],"subjects":["Minstrel shows -- Songs and music","Popular music -- 1901-1910"]}
+{ id: 10303,
+  title: 'Jere Sanford\'s Yodling and Whistling Specialty',
+  authors: [ 'Sanford, Jere' ],
+  subjects: [ 'Yodels', 'Popular music -- 1901-1910', 'Whistling music' ] }
+{"index":{"_id":"pg10303"}}
+{"id":10303,"title":"Jere Sanford's Yodling and Whistling Specialty","authors":["Sanford, Jere"],"subjects":["Yodels","Popular music -- 1901-1910","Whistling music"]}
+{ id: 10304,
+  title: 'Some of These Days\rFrom Honky Tonk',
+  authors: [ 'Tucker, Sophie', 'Brooks, Shelton' ],
+  subjects: 
+   [ 'Songs with instrumental ensemble',
+     'Popular music -- 1911-1920' ] }
+{"index":{"_id":"pg10304"}}
+{"id":10304,"title":"Some of These Days\rFrom Honky Tonk","authors":["Tucker, Sophie","Brooks, Shelton"],"subjects":["Songs with instrumental ensemble","Popular music -- 1911-1920"]}
+{ id: 10305,
+  title: 'Alexander\'s Ragtime Band',
+  authors: [ 'Berlin, Irving', 'Murray, Billy' ],
+  subjects: 
+   [ 'Songs with instrumental ensemble',
+     'Popular music -- 1911-1920' ] }
+{"index":{"_id":"pg10305"}}
+{"id":10305,"title":"Alexander's Ragtime Band","authors":["Berlin, Irving","Murray, Billy"],"subjects":["Songs with instrumental ensemble","Popular music -- 1911-1920"]}
+{ id: 10306,
+  title: 'Moonlight Bay',
+  authors: [ 'Madden, Edward', 'American Quartet', 'Wenrich, Percy' ],
+  subjects: [ 'Popular music -- 1911-1920', 'Barbershop quartets' ] }
+{"index":{"_id":"pg10306"}}
+{"id":10306,"title":"Moonlight Bay","authors":["Madden, Edward","American Quartet","Wenrich, Percy"],"subjects":["Popular music -- 1911-1920","Barbershop quartets"]}
+{ id: 10307,
+  title: 'At the Moving Picture Ball',
+  authors: [ 'Burkhart, Maurice', 'Santly, Joseph H.' ],
+  subjects: 
+   [ 'Songs with instrumental ensemble',
+     'Popular music -- 1911-1920' ] }
+{"index":{"_id":"pg10307"}}
+{"id":10307,"title":"At the Moving Picture Ball","authors":["Burkhart, Maurice","Santly, Joseph H."],"subjects":["Songs with instrumental ensemble","Popular music -- 1911-1920"]}
+{ id: 10308,
+  title: 'Handel Festival\rIsrael in Egypt (excerpt)',
+  authors: [ 'Manns, August Friedrich, Sir', 'Handel, George Frideric' ],
+  subjects: [ 'Oratorios -- Excerpts' ] }
+{"index":{"_id":"pg10308"}}
+{"id":10308,"title":"Handel Festival\rIsrael in Egypt (excerpt)","authors":["Manns, August Friedrich, Sir","Handel, George Frideric"],"subjects":["Oratorios -- Excerpts"]}
+{ id: 10309,
+  title: 'The Lost Chord',
+  authors: [ 'Sullivan, Arthur' ],
+  subjects: [ 'Songs -- Instrumental settings' ] }
+{"index":{"_id":"pg10309"}}
+{"id":10309,"title":"The Lost Chord","authors":["Sullivan, Arthur"],"subjects":["Songs -- Instrumental settings"]}
+{ id: 1031,
+  title: 'Charmides, and Other Poems',
+  authors: [ 'Wilde, Oscar' ],
+  subjects: [ 'Poetry' ] }
+{"index":{"_id":"pg1031"}}
+{"id":1031,"title":"Charmides, and Other Poems","authors":["Wilde, Oscar"],"subjects":["Poetry"]}
+{ id: 10310,
+  title: 'After Dinner Toast at Little Menlo',
+  authors: [ 'Sullivan, Arthur' ],
+  subjects: [ 'Toasts' ] }
+{"index":{"_id":"pg10310"}}
+{"id":10310,"title":"After Dinner Toast at Little Menlo","authors":["Sullivan, Arthur"],"subjects":["Toasts"]}
+{ id: 10311,
+  title: 'Around the World on the Phonograph',
+  authors: [ 'Edison, Thomas A. (Thomas Alva)' ],
+  subjects: [ 'Voyages, Imaginary' ] }
+{"index":{"_id":"pg10311"}}
+{"id":10311,"title":"Around the World on the Phonograph","authors":["Edison, Thomas A. (Thomas Alva)"],"subjects":["Voyages, Imaginary"]}
+{ id: 10312,
+  title: 'The Pattison Waltz',
+  authors: [ 'Stewart, Effie' ],
+  subjects: [ 'Waltzes' ] }
+{"index":{"_id":"pg10312"}}
+{"id":10312,"title":"The Pattison Waltz","authors":["Stewart, Effie"],"subjects":["Waltzes"]}
+{ id: 10313,
+  title: 'The Fifth Regiment March',
+  authors: [ 'Issler\'s Orchestra' ],
+  subjects: [ 'Marches' ] }
+{"index":{"_id":"pg10313"}}
+{"id":10313,"title":"The Fifth Regiment March","authors":["Issler's Orchestra"],"subjects":["Marches"]}
+{ id: 10314,
+  title: 'The Sonnets of Michael Angelo Buonarroti and Tommaso Campanella; Now for the First Time Translated into Rhymed English',
+  authors: 
+   [ 'Campanella, Tommaso',
+     'Michelangelo Buonarroti',
+     'Symonds, John Addington' ],
+  subjects: 
+   [ 'Michelangelo Buonarroti, 1475-1564 -- Translations into English',
+     'Italian poetry -- Translations into English',
+     'Campanella, Tommaso, 1568-1639 -- Translations into English' ] }
+{"index":{"_id":"pg10314"}}
+{"id":10314,"title":"The Sonnets of Michael Angelo Buonarroti and Tommaso Campanella; Now for the First Time Translated into Rhymed English","authors":["Campanella, Tommaso","Michelangelo Buonarroti","Symonds, John Addington"],"subjects":["Michelangelo Buonarroti, 1475-1564 -- Translations into English","Italian poetry -- Translations into English","Campanella, Tommaso, 1568-1639 -- Translations into English"]}
+{ id: 10315,
+  title: 'The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The Gulistan, Volume 1',
+  authors: 
+   [ 'Gottheil, Richard J. H. (Richard James Horatio)',
+     'FitzGerald, Edward',
+     'Hafiz, active 14th century',
+     'Firdawsi',
+     'Atkinson, James',
+     'Omar Khayyam',
+     'Bicknell, Herman' ],
+  subjects: [ 'Persian literature -- Translations into English' ] }
+{"index":{"_id":"pg10315"}}
+{"id":10315,"title":"The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The Gulistan, Volume 1","authors":["Gottheil, Richard J. H. (Richard James Horatio)","FitzGerald, Edward","Hafiz, active 14th century","Firdawsi","Atkinson, James","Omar Khayyam","Bicknell, Herman"],"subjects":["Persian literature -- Translations into English"]}
+{ id: 10316,
+  title: 'Roy Blakeley\'s Adventures in Camp',
+  authors: [ 'Fitzhugh, Percy Keese' ],
+  subjects: 
+   [ 'Boy Scouts of America -- Juvenile fiction',
+     'Camping -- Juvenile fiction' ] }
+{"index":{"_id":"pg10316"}}
+{"id":10316,"title":"Roy Blakeley's Adventures in Camp","authors":["Fitzhugh, Percy Keese"],"subjects":["Boy Scouts of America -- Juvenile fiction","Camping -- Juvenile fiction"]}
+{ id: 10317,
+  title: 'Betty Gordon at Boarding School; Or, The Treasure of Indian Chasm',
+  authors: [ 'Emerson, Alice B.' ],
+  subjects: [ 'Boarding schools -- Juvenile fiction' ] }
+{"index":{"_id":"pg10317"}}
+{"id":10317,"title":"Betty Gordon at Boarding School; Or, The Treasure of Indian Chasm","authors":["Emerson, Alice B."],"subjects":["Boarding schools -- Juvenile fiction"]}
+{ id: 10318,
+  title: 'Damon and Delia: A Tale',
+  authors: [ 'Godwin, William' ],
+  subjects: 
+   [ 'England -- Social life and customs -- 18th century -- Fiction',
+     'Courtship -- Fiction' ] }
+{"index":{"_id":"pg10318"}}
+{"id":10318,"title":"Damon and Delia: A Tale","authors":["Godwin, William"],"subjects":["England -- Social life and customs -- 18th century -- Fiction","Courtship -- Fiction"]}
+{ id: 10319,
+  title: 'Dave Darrin\'s Third Year at Annapolis; Or, Leaders of the Second Class Midshipmen',
+  authors: [ 'Hancock, H. Irving (Harrie Irving)' ],
+  subjects: [ 'United States Naval Academy -- Juvenile fiction' ] }
+{"index":{"_id":"pg10319"}}
+{"id":10319,"title":"Dave Darrin's Third Year at Annapolis; Or, Leaders of the Second Class Midshipmen","authors":["Hancock, H. Irving (Harrie Irving)"],"subjects":["United States Naval Academy -- Juvenile fiction"]}
+{ id: 1032,
+  title: 'The Pupil',
+  authors: [ 'James, Henry' ],
+  subjects: [ 'Fiction' ] }
+{"index":{"_id":"pg1032"}}
+{"id":1032,"title":"The Pupil","authors":["James, Henry"],"subjects":["Fiction"]}
+{ id: 10320,
+  title: 'Dotty Dimple at Play',
+  authors: [ 'May, Sophie' ],
+  subjects: 
+   [ 'Girls -- Juvenile fiction',
+     'Children -- Conduct of life -- Juvenile fiction' ] }
+{"index":{"_id":"pg10320"}}
+{"id":10320,"title":"Dotty Dimple at Play","authors":["May, Sophie"],"subjects":["Girls -- Juvenile fiction","Children -- Conduct of life -- Juvenile fiction"]}
+{ id: 10321,
+  title: 'Dragon\'s blood',
+  authors: [ 'Rideout, Henry Milner', 'Brett, Harold' ],
+  subjects: [ 'Europeans -- China -- Fiction' ] }
+{"index":{"_id":"pg10321"}}
+{"id":10321,"title":"Dragon's blood","authors":["Rideout, Henry Milner","Brett, Harold"],"subjects":["Europeans -- China -- Fiction"]}
+{ id: 10322,
+  title: 'Miss Prudence: A Story of Two Girls\' Lives.',
+  authors: [ 'Conklin, Nathaniel, Mrs.' ],
+  subjects: [ 'Conduct of life -- Fiction', 'Christian life -- Fiction' ] }
+{"index":{"_id":"pg10322"}}
+{"id":10322,"title":"Miss Prudence: A Story of Two Girls' Lives.","authors":["Conklin, Nathaniel, Mrs."],"subjects":["Conduct of life -- Fiction","Christian life -- Fiction"]}
+{ id: 10323,
+  title: 'The Rover Boys at College; Or, The Right Road and the Wrong',
+  authors: [ 'Stratemeyer, Edward' ],
+  subjects: 
+   [ 'College sports -- Juvenile fiction',
+     'Brothers -- Juvenile fiction',
+     'College students -- Conduct of life -- Juvenile fiction' ] }
+{"index":{"_id":"pg10323"}}
+{"id":10323,"title":"The Rover Boys at College; Or, The Right Road and the Wrong","authors":["Stratemeyer, Edward"],"subjects":["College sports -- Juvenile fiction","Brothers -- Juvenile fiction","College students -- Conduct of life -- Juvenile fiction"]}
+{ id: 10324,
+  title: 'Bull Hunter',
+  authors: [ 'Brand, Max' ],
+  subjects: [ 'Western stories' ] }
+{"index":{"_id":"pg10324"}}
+{"id":10324,"title":"Bull Hunter","authors":["Brand, Max"],"subjects":["Western stories"]}
+{ id: 10325,
+  title: 'The Gospel of the Pentateuch: A Set of Parish Sermons',
+  authors: [ 'Kingsley, Charles' ],
+  subjects: 
+   [ 'Bible. Pentateuch -- Sermons',
+     'Church of England -- Sermons',
+     'Sermons, English -- 19th century',
+     'Bible. Pentateuch -- Criticism, interpretation, etc.' ] }
+{"index":{"_id":"pg10325"}}
+{"id":10325,"title":"The Gospel of the Pentateuch: A Set of Parish Sermons","authors":["Kingsley, Charles"],"subjects":["Bible. Pentateuch -- Sermons","Church of England -- Sermons","Sermons, English -- 19th century","Bible. Pentateuch -- Criticism, interpretation, etc."]}
+{ id: 10326,
+  title: 'David: Five Sermons',
+  authors: [ 'Kingsley, Charles' ],
+  subjects: 
+   [ 'David, King of Israel',
+     'Church of England -- Sermons',
+     'Sermons, English' ] }
+{"index":{"_id":"pg10326"}}
+{"id":10326,"title":"David: Five Sermons","authors":["Kingsley, Charles"],"subjects":["David, King of Israel","Church of England -- Sermons","Sermons, English"]}
+{ id: 10327,
+  title: 'Alias the Lone Wolf',
+  authors: [ 'Vance, Louis Joseph' ],
+  subjects: [ 'Jewel thieves -- Fiction' ] }
+{"index":{"_id":"pg10327"}}
+{"id":10327,"title":"Alias the Lone Wolf","authors":["Vance, Louis Joseph"],"subjects":["Jewel thieves -- Fiction"]}
+{ id: 10328,
+  title: 'Poems',
+  authors: [ 'Cassels, Walter Richard' ],
+  subjects: [ 'Poetry' ] }
+{"index":{"_id":"pg10328"}}
+{"id":10328,"title":"Poems","authors":["Cassels, Walter Richard"],"subjects":["Poetry"]}
+{ id: 10329,
+  title: 'Snubby Nose and Tippy Toes',
+  authors: [ 'Smith, Laura Rountree' ],
+  subjects: [ 'Rabbits -- Juvenile fiction', 'Animals -- Juvenile fiction' ] }
+{"index":{"_id":"pg10329"}}
+{"id":10329,"title":"Snubby Nose and Tippy Toes","authors":["Smith, Laura Rountree"],"subjects":["Rabbits -- Juvenile fiction","Animals -- Juvenile fiction"]}
+{ id: 1033,
+  title: 'Rose o\' the River',
+  authors: [ 'Wiggin, Kate Douglas Smith' ],
+  subjects: 
+   [ 'Love stories',
+     'Log driving -- Maine -- Fiction',
+     'Historical fiction' ] }
+{"index":{"_id":"pg1033"}}
+{"id":1033,"title":"Rose o' the River","authors":["Wiggin, Kate Douglas Smith"],"subjects":["Love stories","Log driving -- Maine -- Fiction","Historical fiction"]}
+{ id: 10330,
+  title: 'Fruitfulness',
+  authors: [ 'Vizetelly, Ernest Alfred', 'Zola, Émile' ],
+  subjects: [ 'French fiction -- Translations into English' ] }
+{"index":{"_id":"pg10330"}}
+{"id":10330,"title":"Fruitfulness","authors":["Vizetelly, Ernest Alfred","Zola, Émile"],"subjects":["French fiction -- Translations into English"]}
+{ id: 10331,
+  title: 'The Mirror of Literature, Amusement, and Instruction\rVolume 12, No. 324, July 26, 1828',
+  authors: [ 'Various' ],
+  subjects: [ 'Popular literature -- Great Britain -- Periodicals' ] }
+{"index":{"_id":"pg10331"}}
+{"id":10331,"title":"The Mirror of Literature, Amusement, and Instruction\rVolume 12, No. 324, July 26, 1828","authors":["Various"],"subjects":["Popular literature -- Great Britain -- Periodicals"]}
+{ id: 10332,
+  title: 'The Mirror of Literature, Amusement, and Instruction\rVolume 12, No. 325, August 2, 1828',
+  authors: [ 'Various' ],
+  subjects: [ 'Popular literature -- Great Britain -- Periodicals' ] }
+{"index":{"_id":"pg10332"}}
+{"id":10332,"title":"The Mirror of Literature, Amusement, and Instruction\rVolume 12, No. 325, August 2, 1828","authors":["Various"],"subjects":["Popular literature -- Great Britain -- Periodicals"]}
+{ id: 10333,
+  title: 'The European Anarchy',
+  authors: [ 'Dickinson, G. Lowes (Goldsworthy Lowes)' ],
+  subjects: 
+   [ 'Europe -- Politics and government',
+     'World War, 1914-1918 -- Causes' ] }
+{"index":{"_id":"pg10333"}}
+{"id":10333,"title":"The European Anarchy","authors":["Dickinson, G. Lowes (Goldsworthy Lowes)"],"subjects":["Europe -- Politics and government","World War, 1914-1918 -- Causes"]}
+{ id: 10334,
+  title: 'Van \'t  viooltje dat weten wilde',
+  authors: [ 'Metz-Koning, Maria Catherina' ],
+  subjects: [ 'Short stories, Dutch' ] }
+{"index":{"_id":"pg10334"}}
+{"id":10334,"title":"Van 't  viooltje dat weten wilde","authors":["Metz-Koning, Maria Catherina"],"subjects":["Short stories, Dutch"]}
+{ id: 10335,
+  title: 'Children\'s Rights: A Book of Nursery Logic',
+  authors: [ 'Wiggin, Kate Douglas Smith', 'Smith, Nora Archibald' ],
+  subjects: [ 'Children\'s rights', 'Child rearing', 'Children' ] }
+{"index":{"_id":"pg10335"}}
+{"id":10335,"title":"Children's Rights: A Book of Nursery Logic","authors":["Wiggin, Kate Douglas Smith","Smith, Nora Archibald"],"subjects":["Children's rights","Child rearing","Children"]}
+{ id: 10336,
+  title: 'A Select Collection of Old English Plays, Volume 07',
+  authors: [ 'Dodsley, Robert' ],
+  subjects: [ 'English drama' ] }
+{"index":{"_id":"pg10336"}}
+{"id":10336,"title":"A Select Collection of Old English Plays, Volume 07","authors":["Dodsley, Robert"],"subjects":["English drama"]}
+{ id: 10337,
+  title: 'Lady into Fox',
+  authors: [ 'Garnett, David', 'Garnett, R. A. (Rachel Alice)' ],
+  subjects: 
+   [ 'Metamorphosis -- Fiction',
+     'Foxes -- Fiction',
+     'Fantasy fiction, English' ] }
+{"index":{"_id":"pg10337"}}
+{"id":10337,"title":"Lady into Fox","authors":["Garnett, David","Garnett, R. A. (Rachel Alice)"],"subjects":["Metamorphosis -- Fiction","Foxes -- Fiction","Fantasy fiction, English"]}
+{ id: 10338,
+  title: 'With the Turks in Palestine',
+  authors: [ 'Aaronsohn, Alexander' ],
+  subjects: [ 'World War, 1914-1918 -- Personal narratives', 'Palestine' ] }
+{"index":{"_id":"pg10338"}}
+{"id":10338,"title":"With the Turks in Palestine","authors":["Aaronsohn, Alexander"],"subjects":["World War, 1914-1918 -- Personal narratives","Palestine"]}
+{ id: 10339,
+  title: 'An Antarctic Mystery',
+  authors: [ 'Hoey, Frances Cashel', 'Verne, Jules' ],
+  subjects: [ 'Antarctica -- Discovery and exploration -- Fiction' ] }
+{"index":{"_id":"pg10339"}}
+{"id":10339,"title":"An Antarctic Mystery","authors":["Hoey, Frances Cashel","Verne, Jules"],"subjects":["Antarctica -- Discovery and exploration -- Fiction"]}
+{ id: 1034,
+  title: 'Poems',
+  authors: [ 'Owen, Wilfred', 'Sassoon, Siegfried' ],
+  subjects: 
+   [ 'War poetry',
+     'English poetry -- 20th century',
+     'World War, 1914-1918 -- Poetry' ] }
+{"index":{"_id":"pg1034"}}
+{"id":1034,"title":"Poems","authors":["Owen, Wilfred","Sassoon, Siegfried"],"subjects":["War poetry","English poetry -- 20th century","World War, 1914-1918 -- Poetry"]}
+{ id: 10340,
+  title: 'Dab Kinzer: A Story of a Growing Boy',
+  authors: [ 'Stoddard, William Osborn' ],
+  subjects: 
+   [ 'Friendship -- Juvenile fiction',
+     'Mothers and sons -- Juvenile fiction',
+     'Fatherless families -- Juvenile fiction',
+     'Brothers and sisters -- Juvenile fiction',
+     'Farm life -- Juvenile fiction',
+     'Boys -- Conduct of life -- Juvenile fiction',
+     'Conduct of life -- Juvenile fiction' ] }
+{"index":{"_id":"pg10340"}}
+{"id":10340,"title":"Dab Kinzer: A Story of a Growing Boy","authors":["Stoddard, William Osborn"],"subjects":["Friendship -- Juvenile fiction","Mothers and sons -- Juvenile fiction","Fatherless families -- Juvenile fiction","Brothers and sisters -- Juvenile fiction","Farm life -- Juvenile fiction","Boys -- Conduct of life -- Juvenile fiction","Conduct of life -- Juvenile fiction"]}
+{ id: 10341,
+  title: 'The Great Events by Famous Historians, Volume 21The Recent Days (1910-1914)',
+  authors: [ 'Horne, Charles F. (Charles Francis)' ],
+  subjects: [ 'World history' ] }
+{"index":{"_id":"pg10341"}}
+{"id":10341,"title":"The Great Events by Famous Historians, Volume 21The Recent Days (1910-1914)","authors":["Horne, Charles F. (Charles Francis)"],"subjects":["World history"]}
+{ id: 10342,
+  title: 'The Velvet Glove',
+  authors: [ 'Merriman, Henry Seton' ],
+  subjects: 
+   [ 'Convents -- Fiction',
+     'Young women -- Spain -- Fiction',
+     'Spain -- History -- 19th century -- Fiction' ] }
+{"index":{"_id":"pg10342"}}
+{"id":10342,"title":"The Velvet Glove","authors":["Merriman, Henry Seton"],"subjects":["Convents -- Fiction","Young women -- Spain -- Fiction","Spain -- History -- 19th century -- Fiction"]}
+{ id: 10343,
+  title: 'The Works of Charles and Mary Lamb — Volume 2\rElia and The Last Essays of Elia',
+  authors: 
+   [ 'Lucas, E. V. (Edward Verrall)',
+     'Lamb, Mary',
+     'Lamb, Charles' ],
+  subjects: [ 'English essays' ] }
+{"index":{"_id":"pg10343"}}
+{"id":10343,"title":"The Works of Charles and Mary Lamb — Volume 2\rElia and The Last Essays of Elia","authors":["Lucas, E. V. (Edward Verrall)","Lamb, Mary","Lamb, Charles"],"subjects":["English essays"]}
+{ id: 10344,
+  title: 'Autumn Anthem',
+  authors: [ 'Erickson, Joel A.' ],
+  subjects: [ 'Piano music' ] }
+{"index":{"_id":"pg10344"}}
+{"id":10344,"title":"Autumn Anthem","authors":["Erickson, Joel A."],"subjects":["Piano music"]}
+{ id: 10345,
+  title: 'Domestic Manners of the Americans',
+  authors: [ 'Trollope, Frances Milton' ],
+  subjects: 
+   [ 'United States -- Description and travel',
+     'United States -- Social life and customs -- 1783-1865',
+     'Trollope, Frances Milton, 1780-1863 -- Travel -- United States',
+     'United States -- Social conditions -- To 1865' ] }
+{"index":{"_id":"pg10345"}}
+{"id":10345,"title":"Domestic Manners of the Americans","authors":["Trollope, Frances Milton"],"subjects":["United States -- Description and travel","United States -- Social life and customs -- 1783-1865","Trollope, Frances Milton, 1780-1863 -- Travel -- United States","United States -- Social conditions -- To 1865"]}
+{ id: 10346,
+  title: 'C\'Était ainsi...',
+  authors: [ 'Buysse, Cyriel' ],
+  subjects: [ 'Fiction' ] }
+{"index":{"_id":"pg10346"}}
+{"id":10346,"title":"C'Était ainsi...","authors":["Buysse, Cyriel"],"subjects":["Fiction"]}
+{ id: 10347,
+  title: 'Free from School',
+  authors: [ 'Alvares, Rahul' ],
+  subjects: [ 'Natural history -- India -- Anecdotes', 'Alvares, Rahul' ] }
+{"index":{"_id":"pg10347"}}
+{"id":10347,"title":"Free from School","authors":["Alvares, Rahul"],"subjects":["Natural history -- India -- Anecdotes","Alvares, Rahul"]}
+{ id: 10348,
+  title: 'Go to Sea Once More',
+  authors: [ 'McGuinn, Roger' ],
+  subjects: [ 'Sea songs', 'Folk songs, English' ] }
+{"index":{"_id":"pg10348"}}
+{"id":10348,"title":"Go to Sea Once More","authors":["McGuinn, Roger"],"subjects":["Sea songs","Folk songs, English"]}
+{ id: 10349,
+  title: 'Naar het middelpunt der Aarde',
+  authors: [ 'Verne, Jules' ],
+  subjects: 
+   [ 'Voyages, Imaginary -- Fiction',
+     'Science fiction',
+     'Adventure stories',
+     'Earth (Planet) -- Core -- Fiction' ] }
+{"index":{"_id":"pg10349"}}
+{"id":10349,"title":"Naar het middelpunt der Aarde","authors":["Verne, Jules"],"subjects":["Voyages, Imaginary -- Fiction","Science fiction","Adventure stories","Earth (Planet) -- Core -- Fiction"]}
+{ id: 1035,
+  title: 'The Man Against the Sky: A Book of Poems',
+  authors: [ 'Robinson, Edwin Arlington' ],
+  subjects: [ 'American poetry' ] }
+{"index":{"_id":"pg1035"}}
+{"id":1035,"title":"The Man Against the Sky: A Book of Poems","authors":["Robinson, Edwin Arlington"],"subjects":["American poetry"]}
+{ id: 10350,
+  title: 'The Works of Samuel Johnson, LL.D. in Eleven Volumes, Volume 06\rReviews, Political Tracts, and Lives of Eminent Persons',
+  authors: [ 'Johnson, Samuel' ],
+  subjects: [ 'English essays -- 18th century' ] }
+{"index":{"_id":"pg10350"}}
+{"id":10350,"title":"The Works of Samuel Johnson, LL.D. in Eleven Volumes, Volume 06\rReviews, Political Tracts, and Lives of Eminent Persons","authors":["Johnson, Samuel"],"subjects":["English essays -- 18th century"]}
+{ id: 10351,
+  title: 'The Works of Samuel Johnson, LL.D. Volume 10\rParlimentary Debates I',
+  authors: [ 'Johnson, Samuel' ],
+  subjects: 
+   [ 'Great Britain. Parliament. House of Commons -- History -- 18th century' ] }
+{"index":{"_id":"pg10351"}}
+{"id":10351,"title":"The Works of Samuel Johnson, LL.D. Volume 10\rParlimentary Debates I","authors":["Johnson, Samuel"],"subjects":["Great Britain. Parliament. House of Commons -- History -- 18th century"]}
+{ id: 10352,
+  title: 'The Works of Samuel Johnson, LL.D. Volume 11.\rParlimentary Debates II.',
+  authors: [ 'Johnson, Samuel' ],
+  subjects: 
+   [ 'Great Britain. Parliament. House of Commons -- History -- 18th century' ] }
+{"index":{"_id":"pg10352"}}
+{"id":10352,"title":"The Works of Samuel Johnson, LL.D. Volume 11.\rParlimentary Debates II.","authors":["Johnson, Samuel"],"subjects":["Great Britain. Parliament. House of Commons -- History -- 18th century"]}
+{ id: 10353,
+  title: 'Satyros oder Der vergötterte Waldteufel',
+  authors: [ 'Goethe, Johann Wolfgang von' ],
+  subjects: [ 'Drama' ] }
+{"index":{"_id":"pg10353"}}
+{"id":10353,"title":"Satyros oder Der vergötterte Waldteufel","authors":["Goethe, Johann Wolfgang von"],"subjects":["Drama"]}
+{ id: 10354,
+  title: 'Die Laune des Verliebten\rEin Schäferspiel in Versen und einem Akt',
+  authors: [ 'Goethe, Johann Wolfgang von' ],
+  subjects: [ 'German poetry -- 18th century', 'Pastoral poetry' ] }
+{"index":{"_id":"pg10354"}}
+{"id":10354,"title":"Die Laune des Verliebten\rEin Schäferspiel in Versen und einem Akt","authors":["Goethe, Johann Wolfgang von"],"subjects":["German poetry -- 18th century","Pastoral poetry"]}
+{ id: 10355,
+  title: 'Travels in Morocco, Volume 1.',
+  authors: [ 'Richardson, James' ],
+  subjects: [ 'Morocco -- Description and travel' ] }
+{"index":{"_id":"pg10355"}}
+{"id":10355,"title":"Travels in Morocco, Volume 1.","authors":["Richardson, James"],"subjects":["Morocco -- Description and travel"]}
+{ id: 10356,
+  title: 'Travels in Morocco, Volume 2.',
+  authors: [ 'Richardson, James' ],
+  subjects: [ 'Morocco -- Description and travel' ] }
+{"index":{"_id":"pg10356"}}
+{"id":10356,"title":"Travels in Morocco, Volume 2.","authors":["Richardson, James"],"subjects":["Morocco -- Description and travel"]}
+{ id: 10357,
+  title: 'Life of Johnson, Volume 4\r1780-1784',
+  authors: [ 'Boswell, James' ],
+  subjects: 
+   [ 'Critics -- Great Britain -- Biography',
+     'Authors, English -- 18th century -- Biography',
+     'Lexicographers -- Great Britain -- Biography',
+     'Johnson, Samuel, 1709-1784' ] }
+{"index":{"_id":"pg10357"}}
+{"id":10357,"title":"Life of Johnson, Volume 4\r1780-1784","authors":["Boswell, James"],"subjects":["Critics -- Great Britain -- Biography","Authors, English -- 18th century -- Biography","Lexicographers -- Great Britain -- Biography","Johnson, Samuel, 1709-1784"]}
+{ id: 10358,
+  title: 'The Boss of Little Arcady',
+  authors: [ 'Wilson, Harry Leon', 'O\'Neill, Rose Cecil' ],
+  subjects: 
+   [ 'United States -- Social life and customs -- Fiction',
+     'Villages -- Fiction' ] }
+{"index":{"_id":"pg10358"}}
+{"id":10358,"title":"The Boss of Little Arcady","authors":["Wilson, Harry Leon","O'Neill, Rose Cecil"],"subjects":["United States -- Social life and customs -- Fiction","Villages -- Fiction"]}
+{ id: 10359,
+  title: 'Aunt Jane\'s Nieces at Millville',
+  authors: [ 'Baum, L. Frank (Lyman Frank)' ],
+  subjects: 
+   [ 'Young women -- Social life and customs -- Juvenile fiction',
+     'Family life -- Juvenile fiction',
+     'Stocks -- Juvenile fiction',
+     'Mystery and detective stories',
+     'Cousins -- Juvenile fiction',
+     'Uncles -- Juvenile fiction',
+     'Farm life -- Juvenile fiction' ] }
+{"index":{"_id":"pg10359"}}
+{"id":10359,"title":"Aunt Jane's Nieces at Millville","authors":["Baum, L. Frank (Lyman Frank)"],"subjects":["Young women -- Social life and customs -- Juvenile fiction","Family life -- Juvenile fiction","Stocks -- Juvenile fiction","Mystery and detective stories","Cousins -- Juvenile fiction","Uncles -- Juvenile fiction","Farm life -- Juvenile fiction"]}
+{ id: 1036,
+  title: 'Joe Wilson and His Mates',
+  authors: [ 'Lawson, Henry' ],
+  subjects: 
+   [ 'Australia -- Fiction',
+     'Historical fiction',
+     'Frontier and pioneer life -- Australia -- Fiction' ] }
+{"index":{"_id":"pg1036"}}
+{"id":1036,"title":"Joe Wilson and His Mates","authors":["Lawson, Henry"],"subjects":["Australia -- Fiction","Historical fiction","Frontier and pioneer life -- Australia -- Fiction"]}
+{ id: 10360,
+  title: 'Kitty\'s Class Day and Other Stories',
+  authors: [ 'Alcott, Louisa May' ],
+  subjects: [ 'Short stories, American' ] }
+{"index":{"_id":"pg10360"}}
+{"id":10360,"title":"Kitty's Class Day and Other Stories","authors":["Alcott, Louisa May"],"subjects":["Short stories, American"]}
+{ id: 10361,
+  title: 'The Creative Process in the Individual',
+  authors: [ 'Troward, T. (Thomas)' ],
+  subjects: [ 'New Thought' ] }
+{"index":{"_id":"pg10361"}}
+{"id":10361,"title":"The Creative Process in the Individual","authors":["Troward, T. (Thomas)"],"subjects":["New Thought"]}
+{ id: 10362,
+  title: 'Sketches of the East Africa Campaign',
+  authors: [ 'Dolbey, Robert Valentine' ],
+  subjects: 
+   [ 'World War, 1914-1918 -- Personal narratives',
+     'World War, 1914-1918 -- Hospitals',
+     'World War, 1914-1918 -- Campaigns -- Africa, East' ] }
+{"index":{"_id":"pg10362"}}
+{"id":10362,"title":"Sketches of the East Africa Campaign","authors":["Dolbey, Robert Valentine"],"subjects":["World War, 1914-1918 -- Personal narratives","World War, 1914-1918 -- Hospitals","World War, 1914-1918 -- Campaigns -- Africa, East"]}
+{ id: 10363,
+  title: 'The Bravo: A Tale',
+  authors: [ 'Cooper, James Fenimore' ],
+  subjects: [ 'Venice (Italy) -- Fiction' ] }
+{"index":{"_id":"pg10363"}}
+{"id":10363,"title":"The Bravo: A Tale","authors":["Cooper, James Fenimore"],"subjects":["Venice (Italy) -- Fiction"]}
+{ id: 10364,
+  title: 'Yeast: a Problem',
+  authors: [ 'Kingsley, Charles' ],
+  subjects: 
+   [ 'Rural poor -- England -- Fiction',
+     'Country life -- England -- Fiction',
+     'England -- Social conditions -- 19th century -- Fiction' ] }
+{"index":{"_id":"pg10364"}}
+{"id":10364,"title":"Yeast: a Problem","authors":["Kingsley, Charles"],"subjects":["Rural poor -- England -- Fiction","Country life -- England -- Fiction","England -- Social conditions -- 19th century -- Fiction"]}
+{ id: 10365,
+  title: 'Precaution: A Novel',
+  authors: [ 'Bryant, William Cullen', 'Cooper, James Fenimore' ],
+  subjects: [ 'England -- Social life and customs -- Fiction' ] }
+{"index":{"_id":"pg10365"}}
+{"id":10365,"title":"Precaution: A Novel","authors":["Bryant, William Cullen","Cooper, James Fenimore"],"subjects":["England -- Social life and customs -- Fiction"]}
+{ id: 10366,
+  title: 'Freedom\'s BattleBeing a Comprehensive Collection of Writings and Speeches on the Present Situation',
+  authors: [ 'Gandhi, Mahatma' ],
+  subjects: 
+   [ 'British -- India',
+     'India -- Politics and government -- 1919-1947',
+     'Nonviolence' ] }
+{"index":{"_id":"pg10366"}}
+{"id":10366,"title":"Freedom's BattleBeing a Comprehensive Collection of Writings and Speeches on the Present Situation","authors":["Gandhi, Mahatma"],"subjects":["British -- India","India -- Politics and government -- 1919-1947","Nonviolence"]}
+{ id: 10367,
+  title: 'Poems',
+  authors: [ 'Carr, John, Sir' ],
+  subjects: [ 'Poetry' ] }
+{"index":{"_id":"pg10367"}}
+{"id":10367,"title":"Poems","authors":["Carr, John, Sir"],"subjects":["Poetry"]}
+{ id: 10368,
+  title: 'The Vizier of the Two-Horned Alexander',
+  authors: [ 'Stockton, Frank Richard' ],
+  subjects: 
+   [ 'Fantasy fiction',
+     'Adventure stories',
+     'Immortalism -- Fiction' ] }
+{"index":{"_id":"pg10368"}}
+{"id":10368,"title":"The Vizier of the Two-Horned Alexander","authors":["Stockton, Frank Richard"],"subjects":["Fantasy fiction","Adventure stories","Immortalism -- Fiction"]}
+{ id: 10369,
+  title: 'Memoir and Diary of John Yeardley, Minister of the Gospel',
+  authors: [ 'Tylor, Charles', 'Yeardley, John' ],
+  subjects: 
+   [ 'Clergy -- United States -- Biography',
+     'Yeardley, John, 1786-1858',
+     'Quakers -- Biography' ] }
+{"index":{"_id":"pg10369"}}
+{"id":10369,"title":"Memoir and Diary of John Yeardley, Minister of the Gospel","authors":["Tylor, Charles","Yeardley, John"],"subjects":["Clergy -- United States -- Biography","Yeardley, John, 1786-1858","Quakers -- Biography"]}
+{ id: 1037,
+  title: 'The Life of John Bunyan',
+  authors: [ 'Venables, Edmund' ],
+  subjects: 
+   [ 'Puritans -- England -- Clergy -- Biography',
+     'Bunyan, John, 1628-1688',
+     'Authors, English -- Early modern, 1500-1700 -- Biography' ] }
+{"index":{"_id":"pg1037"}}
+{"id":1037,"title":"The Life of John Bunyan","authors":["Venables, Edmund"],"subjects":["Puritans -- England -- Clergy -- Biography","Bunyan, John, 1628-1688","Authors, English -- Early modern, 1500-1700 -- Biography"]}
+{ id: 10370,
+  title: 'Sustained honor: The Age of Liberty Established',
+  authors: [ 'Musick, John R. (John Roy)' ],
+  subjects: [ 'United States -- History -- War of 1812 -- Fiction' ] }
+{"index":{"_id":"pg10370"}}
+{"id":10370,"title":"Sustained honor: The Age of Liberty Established","authors":["Musick, John R. (John Roy)"],"subjects":["United States -- History -- War of 1812 -- Fiction"]}
+{ id: 10371,
+  title: 'The Cinema Murder',
+  authors: [ 'Oppenheim, E. Phillips (Edward Phillips)' ],
+  subjects: [ 'Detective and mystery stories' ] }
+{"index":{"_id":"pg10371"}}
+{"id":10371,"title":"The Cinema Murder","authors":["Oppenheim, E. Phillips (Edward Phillips)"],"subjects":["Detective and mystery stories"]}
+{ id: 10372,
+  title: 'Bunch Grass: A Chronicle of Life on a Cattle Ranch',
+  authors: [ 'Vachell, Horace Annesley' ],
+  subjects: 
+   [ 'Western stories',
+     'Ranching -- California -- Fiction',
+     'Short stories, English' ] }
+{"index":{"_id":"pg10372"}}
+{"id":10372,"title":"Bunch Grass: A Chronicle of Life on a Cattle Ranch","authors":["Vachell, Horace Annesley"],"subjects":["Western stories","Ranching -- California -- Fiction","Short stories, English"]}
+{ id: 10373,
+  title: 'The Middle Temple Murder',
+  authors: [ 'Fletcher, J. S. (Joseph Smith)' ],
+  subjects: [ 'Detective and mystery stories' ] }
+{"index":{"_id":"pg10373"}}
+{"id":10373,"title":"The Middle Temple Murder","authors":["Fletcher, J. S. (Joseph Smith)"],"subjects":["Detective and mystery stories"]}
+{ id: 10374,
+  title: 'The Ramblin\' Kid',
+  authors: [ 'Bowman, Earl Wayland' ],
+  subjects: [ 'Western stories' ] }
+{"index":{"_id":"pg10374"}}
+{"id":10374,"title":"The Ramblin' Kid","authors":["Bowman, Earl Wayland"],"subjects":["Western stories"]}
+{ id: 10375,
+  title: 'England\'s Antiphon',
+  authors: [ 'MacDonald, George' ],
+  subjects: 
+   [ 'English literature -- History and criticism',
+     'Religious poetry, English -- History and criticism' ] }
+{"index":{"_id":"pg10375"}}
+{"id":10375,"title":"England's Antiphon","authors":["MacDonald, George"],"subjects":["English literature -- History and criticism","Religious poetry, English -- History and criticism"]}
+{ id: 10376,
+  title: 'American Indian Stories',
+  authors: [ 'Zitkala-Sa' ],
+  subjects: 
+   [ 'Yankton Indians -- Social conditions',
+     'Zitkala-Sa, 1876-1938',
+     'Yankton women -- Biography',
+     'Yankton Indians -- Government relations' ] }
+{"index":{"_id":"pg10376"}}
+{"id":10376,"title":"American Indian Stories","authors":["Zitkala-Sa"],"subjects":["Yankton Indians -- Social conditions","Zitkala-Sa, 1876-1938","Yankton women -- Biography","Yankton Indians -- Government relations"]}
+{ id: 10377,
+  title: 'The Evil Guest',
+  authors: [ 'Le Fanu, Joseph Sheridan' ],
+  subjects: [ 'Horror tales', 'Mystery fiction', 'Gothic fiction' ] }
+{"index":{"_id":"pg10377"}}
+{"id":10377,"title":"The Evil Guest","authors":["Le Fanu, Joseph Sheridan"],"subjects":["Horror tales","Mystery fiction","Gothic fiction"]}
+{ id: 10378,
+  title: 'Autobiography',
+  authors: [ 'Mill, John Stuart' ],
+  subjects: 
+   [ 'Mill, John Stuart, 1806-1873',
+     'Philosophers -- England -- Biography' ] }
+{"index":{"_id":"pg10378"}}
+{"id":10378,"title":"Autobiography","authors":["Mill, John Stuart"],"subjects":["Mill, John Stuart, 1806-1873","Philosophers -- England -- Biography"]}
+{ id: 10379,
+  title: 'At Love\'s Cost',
+  authors: [ 'Garvice, Charles' ],
+  subjects: [ 'Fiction' ] }
+{"index":{"_id":"pg10379"}}
+{"id":10379,"title":"At Love's Cost","authors":["Garvice, Charles"],"subjects":["Fiction"]}
+{ id: 10380,
+  title: 'Bible Stories and Religious Classics',
+  authors: [ 'Wells, Philip P. (Philip Patterson)' ],
+  subjects: 
+   [ 'Christian literature for children',
+     'Bible stories, English -- Juvenile literature' ] }
+{"index":{"_id":"pg10380"}}
+{"id":10380,"title":"Bible Stories and Religious Classics","authors":["Wells, Philip P. (Philip Patterson)"],"subjects":["Christian literature for children","Bible stories, English -- Juvenile literature"]}
+{ id: 10381,
+  title: 'The History of a CrimeThe Testimony of an Eye-Witness',
+  authors: [ 'Locker, Arthur', 'Joyce, T. H.', 'Hugo, Victor' ],
+  subjects: [ 'France -- History -- 1789-1900' ] }
+{"index":{"_id":"pg10381"}}
+{"id":10381,"title":"The History of a CrimeThe Testimony of an Eye-Witness","authors":["Locker, Arthur","Joyce, T. H.","Hugo, Victor"],"subjects":["France -- History -- 1789-1900"]}
+{ id: 10382,
+  title: 'Memoir of William Watts McNair, Late of "Connaught house," Mussooree, of the Indian Survey Department, the First European Explorer of Kafiristan',
+  authors: [ 'Howard, J. E.' ],
+  subjects: 
+   [ 'Nuristani (Asian people)',
+     'McNair, William Watts, 1849-1889',
+     'Nuristan (Afghanistan) -- Description and travel' ] }
+{"index":{"_id":"pg10382"}}
+{"id":10382,"title":"Memoir of William Watts McNair, Late of \"Connaught house,\" Mussooree, of the Indian Survey Department, the First European Explorer of Kafiristan","authors":["Howard, J. E."],"subjects":["Nuristani (Asian people)","McNair, William Watts, 1849-1889","Nuristan (Afghanistan) -- Description and travel"]}
+{ id: 10383,
+  title: 'The Maternal Management of Children, in Health and Disease',
+  authors: [ 'Bull, Thomas' ],
+  subjects: [ 'Child care' ] }
+{"index":{"_id":"pg10383"}}
+{"id":10383,"title":"The Maternal Management of Children, in Health and Disease","authors":["Bull, Thomas"],"subjects":["Child care"]}
+{ id: 10384,
+  title: 'Le Pays de l\'or',
+  authors: [ 'Conscience, Hendrik' ],
+  subjects: [ 'Flemish fiction' ] }
+{"index":{"_id":"pg10384"}}
+{"id":10384,"title":"Le Pays de l'or","authors":["Conscience, Hendrik"],"subjects":["Flemish fiction"]}
