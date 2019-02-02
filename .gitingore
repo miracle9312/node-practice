@@ -1,4 +1,4 @@
 .xml
 .idea
 .rdf
-node_modules
+*node_modules
