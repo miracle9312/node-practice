@@ -2,6 +2,7 @@
  * Created by miracle on 2017/12/18.
  */
 const path = require('path');
+const { VueLoaderPlugin } = require("vue-loader");
 
 module.exports = {
     entry: './main.js',
@@ -9,6 +10,7 @@ module.exports = {
         filename: 'bundle.js',
         path: path.resolve(__dirname, '/dist')
     },
+    plugins: [new VueLoaderPlugin()],
     devtool: 'source-map',
     module: {
         rules: [

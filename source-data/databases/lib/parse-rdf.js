@@ -10,6 +10,5 @@ module.exports = rdf => {
     book.subjects = $('[rdf\\:resource$="/LCSH"]')
         .parent().find('rdf\\:value')
         .toArray().map(ele => $(ele).text().replace(/\\n/, ''));
-    console.log(book);
     return book;
 };
