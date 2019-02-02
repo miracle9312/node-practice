@@ -11,4 +11,4 @@ app.get('/hello/:name', (req, res) => {
     })
 });
 
-app.listen(60701, () => console.log('ready'));
+app.listen(60701,() => console.log('ready'));
