@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22e38194-911a-47c2-8590-88bd33add8c9" name="Default" comment="database ready web-service initff" />
+    <list default="true" id="22e38194-911a-47c2-8590-88bd33add8c9" name="Default" comment="database ready web-service initff">
+      <change afterPath="$PROJECT_DIR$/web-service/b4/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-service/b4/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-service/b4/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b4-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/b4-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b4-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/b4-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b4-app/src/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/b4-app/src/app.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b4-app/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/b4-app/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-service/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-service/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-service/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-service/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,17 +29,53 @@
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-service/hello/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitingore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitingore">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-service/b4/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-service/b4/search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b4-app/src/app.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b4-app/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-service/b4/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -38,6 +86,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Single File Component" />
+        <option value="tsconfig.json" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -69,7 +118,6 @@
         <option value="$PROJECT_DIR$/source-data/databases/test/parse-rdf-test.js" />
         <option value="$PROJECT_DIR$/esclu/esclu" />
         <option value="$PROJECT_DIR$/b4-app/src/main.js" />
-        <option value="$PROJECT_DIR$/b4-app/src/app.vue" />
         <option value="$PROJECT_DIR$/b4-app/.babelrc" />
         <option value="$PROJECT_DIR$/b4-app/package.json" />
         <option value="$PROJECT_DIR$/b4-app/.gitingore" />
@@ -79,10 +127,15 @@
         <option value="$PROJECT_DIR$/source-data/data/bulk_pag_1.ldj" />
         <option value="$PROJECT_DIR$/source-data/databases/lib/parse-rdf.js" />
         <option value="$PROJECT_DIR$/esclu/index.js" />
-        <option value="$PROJECT_DIR$/b4-app/webpack.config.js" />
         <option value="$PROJECT_DIR$/b4-app/main.js" />
-        <option value="$PROJECT_DIR$/web-service/hello/server.js" />
         <option value="$PROJECT_DIR$/.gitingore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/web-service/hello/server.js" />
+        <option value="$PROJECT_DIR$/web-service/b4/server.js" />
+        <option value="$PROJECT_DIR$/b4-app/webpack.config.js" />
+        <option value="$PROJECT_DIR$/b4-app/src/app.vue" />
+        <option value="$PROJECT_DIR$/web-service/b4/config.json" />
+        <option value="$PROJECT_DIR$/web-service/b4/search.js" />
       </list>
     </option>
   </component>
@@ -101,14 +154,16 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,25 +174,34 @@
             <path>
               <item name="node-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="b4-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="b4-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="esclu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-practice" type="462c0819:PsiDirectoryNode" />
               <item name="web-service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-practice" type="462c0819:PsiDirectoryNode" />
               <item name="web-service" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="web-service" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="b4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +271,8 @@
       <workItem from="1548641803592" duration="64000" />
       <workItem from="1548898714579" duration="3368000" />
       <workItem from="1548911757027" duration="2105000" />
-      <workItem from="1549071364901" duration="3302000" />
+      <workItem from="1549071364901" duration="4054000" />
+      <workItem from="1549172611771" duration="2226000" />
     </task>
     <task id="LOCAL-00001" summary="database ready web-service init">
       <created>1549074783101</created>
@@ -216,31 +281,39 @@
       <option name="project" value="LOCAL" />
       <updated>1549074783102</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="database ready web-service initff">
+      <created>1549075054394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549075054394</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27913000" />
+    <option name="totallyTimeSpent" value="30891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
       <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.43636364" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
@@ -254,7 +327,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="database ready web-service init" />
-    <option name="LAST_COMMIT_MESSAGE" value="database ready web-service init" />
+    <MESSAGE value="database ready web-service initff" />
+    <option name="LAST_COMMIT_MESSAGE" value="database ready web-service initff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -262,34 +336,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/b4-app/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/b4-app/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/b4-app/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/b4-app/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/b4-app/src/app.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -314,13 +360,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitingore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitingore" />
     <entry file="file://$PROJECT_DIR$/esclu/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
@@ -380,13 +420,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitingore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitingore" />
     <entry file="file://$PROJECT_DIR$/source-data/databases/test/parse-rdf-test.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -397,20 +431,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitingore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitingore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitingore" />
+    <entry file="file://$PROJECT_DIR$/.gitingore" />
     <entry file="file://$PROJECT_DIR$/source-data/databases/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -476,13 +498,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/b4-app/node_modules/@vue/component-compiler-utils/dist/parse.js" />
-    <entry file="file://$PROJECT_DIR$/b4-app/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source-data/data/bulk_pag_1.ldj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -525,29 +540,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esclu/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/b4-app/node_modules/vue/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/b4-app/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/b4-app/src/app.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/b4-app/main.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -566,17 +560,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-service/hello/server.js">
+    <entry file="file://$PROJECT_DIR$/.gitingore" />
+    <entry file="file://$PROJECT_DIR$/b4-app/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="495">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitingore">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esclu/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-service/hello/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-service/b4/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b4-app/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b4-app/src/app.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-service/b4/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-service/b4/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
