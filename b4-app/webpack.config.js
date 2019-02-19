@@ -57,7 +57,11 @@ module.exports = {
         compress: true,
         port: 9000,
         proxy: {
-            '/api': 'http://localhost:60702'
+            '/api': 'http://localhost:60702',
+            '/es': {
+                target: "http://localhost:9200",
+                pathRewrite: {"^/es": ""}
+            }
         }
     },
 }
