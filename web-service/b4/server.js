@@ -28,5 +28,6 @@ app.use(passport.session());
 app.get('/api/version', (req, res) => res.status(200).send(pkg.version));
 require('./lib/search.js')(app, nconf.get('es'));
 require('./lib/bundle.js')(app, nconf.get('es'));
+require('./lib/hit.js')(app, null);
 
 app.listen(nconf.get('port'), ()=>console.log(`app listen at ${nconf.get('port')}`));
